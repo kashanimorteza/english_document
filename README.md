@@ -1,6 +1,4 @@
 <!--------------------------------------------------------------------------------- Head -->
-# English [![](https://img.icons8.com/ios-filled/16/ffffff/speaker.png)](https://kashanimorteza.github.io/english_document/sound/2.wav)
-
 ![](https://github.com/kashanimorteza/english_document/blob/main/design/general.png)
 
 
