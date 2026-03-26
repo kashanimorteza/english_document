@@ -1,7 +1,5 @@
-<!--------------------------------------------------------------------------------- English -->
-<br><br>
-
-# AI [![](https://img.icons8.com/ios-filled/16/ffffff/speaker.png)](https://kashanimorteza.github.io/ai_document/sound/2.wav)
+<!--------------------------------------------------------------------------------- Head -->
+# English [![](https://img.icons8.com/ios-filled/16/ffffff/speaker.png)](https://kashanimorteza.github.io/english_document/sound/2.wav)
 
 ![](https://github.com/kashanimorteza/english_document/blob/main/design/general.png)
 
@@ -11,11 +9,11 @@
 <br><br>
 
 ## Resource
-[General](https://github.com/kashanimorteza/ai_document/tree/main/doc/resource_general.md)  
-[Tutorial](https://github.com/kashanimorteza/ai_document/tree/main/doc/resource_tutorial.md)  
-[Article](https://github.com/kashanimorteza/ai_document/tree/main/doc/resource_article.md)  
-[Book](https://github.com/kashanimorteza/ai_document/tree/main/doc/resource_book.md)  
-[Roadmap](https://github.com/kashanimorteza/ai_document/tree/main/doc/resource_roadmap.md)  
+[General](https://github.com/kashanimorteza/english_document/tree/main/doc/resource_general.md)  
+[Tutorial](https://github.com/kashanimorteza/english_document/tree/main/doc/resource_tutorial.md)  
+[Article](https://github.com/kashanimorteza/english_document/tree/main/doc/resource_article.md)  
+[Book](https://github.com/kashanimorteza/english_document/tree/main/doc/resource_book.md)  
+[Roadmap](https://github.com/kashanimorteza/english_document/tree/main/doc/resource_roadmap.md)  
 
 
 
@@ -23,39 +21,7 @@
 <br><br>
 
 ## Definition
-[Here...](https://github.com/kashanimorteza/ai_document/tree/main/doc/definition.md)
-
-
-
-<!--------------------------------------------------------------------------------- Problem -->
-<br><br>
-
-## Problem
-[Here...](https://github.com/kashanimorteza/ai_document/blob/main/doc/problem.md)
-
-
-
-<!--------------------------------------------------------------------------------- Resolve -->
-<br><br>
-
-## Resolve
-[Here...](https://github.com/kashanimorteza/ai_document/blob/main/doc/resolve.md)
-
-
-
-<!--------------------------------------------------------------------------------- Field -->
-<br><br>
-
-## Field
-[Here...](https://github.com/kashanimorteza/ai_document/blob/main/doc/field.md)
-
-
-
-<!--------------------------------------------------------------------------------- Data -->
-<br><br>
-
-## Data
-[Here...](https://github.com/kashanimorteza/ai_document/blob/main/doc/data.md)
+[Here...](https://github.com/kashanimorteza/english_document/tree/main/doc/definition.md)
 
 
 
@@ -63,12 +29,4 @@
 <br><br>
 
 ## Subject
-[Here...](https://github.com/kashanimorteza/ai_document/blob/main/doc/subject.md)
-
-
-
-<!--------------------------------------------------------------------------------- Develop -->
-<br><br>
-
-## Develop
-[Here...](https://github.com/kashanimorteza/ai_document/blob/main/doc/develop.md)
+[Here...](https://github.com/kashanimorteza/english_document/blob/main/doc/subject.md)

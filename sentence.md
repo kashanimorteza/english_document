@@ -1,0 +1,87 @@
+<!--------------------------------------------------------------------------------- Head -->
+![](https://github.com/kashanimorteza/english_document/blob/main/design/sentence.png)
+
+
+
+<!--------------------------------------------------------------------------------- Description -->
+# Definition
+    Sentence
+
+
+<!--------------------------------------------------------------------------------- Name -->
+<br><br>
+
+## Name
+[Here...](https://github.com/kashanimorteza/english_document/tree/main/name.md)
+
+
+
+<!--------------------------------------------------------------------------------- Verb -->
+<br><br>
+
+## Verb
+[Here...](https://github.com/kashanimorteza/english_document/tree/main/verb.md)
+
+
+
+<!--------------------------------------------------------------------------------- Adjective -->
+<br><br>
+
+## Adjective
+[Here...](https://github.com/kashanimorteza/english_document/tree/main/adjective.md)
+
+
+
+<!--------------------------------------------------------------------------------- Pronouns -->
+<br><br>
+
+## Pronouns
+[Here...](https://github.com/kashanimorteza/english_document/tree/main/pronouns.md)
+
+
+
+<!--------------------------------------------------------------------------------- Adverb -->
+<br><br>
+
+## Adverb
+[Here...](https://github.com/kashanimorteza/english_document/tree/main/adverb.md)
+
+
+
+<!--------------------------------------------------------------------------------- Preposition -->
+<br><br>
+
+## Preposition
+[Here...](https://github.com/kashanimorteza/english_document/tree/main/preposition.md)
+
+
+
+<!--------------------------------------------------------------------------------- Prefix -->
+<br><br>
+
+## Prefix
+[Here...](https://github.com/kashanimorteza/english_document/tree/main/prefix.md)
+
+
+
+<!--------------------------------------------------------------------------------- Postfix -->
+<br><br>
+
+## Postfix
+[Here...](https://github.com/kashanimorteza/english_document/tree/main/postfix.md)
+
+
+
+<!--------------------------------------------------------------------------------- Interjection -->
+<br><br>
+
+## Interjection
+[Here...](https://github.com/kashanimorteza/english_document/tree/main/interjection.md)
+
+
+
+<!--------------------------------------------------------------------------------- Conjunction -->
+<br><br>
+
+## Conjunction
+[Here...](https://github.com/kashanimorteza/english_document/tree/main/conjunction.md)
