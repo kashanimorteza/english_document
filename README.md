@@ -21,7 +21,7 @@
 <br><br>
 
 ## Definition
-[Here...](https://github.com/kashanimorteza/english_document/tree/main/doc/definition.md)
+[Here...](https://github.com/kashanimorteza/english_document/tree/main/definition.md)
 
 
 
@@ -29,4 +29,4 @@
 <br><br>
 
 ## Subject
-[Here...](https://github.com/kashanimorteza/english_document/blob/main/doc/subject.md)
+[Here...](https://github.com/kashanimorteza/english_document/blob/main/subject.md)
