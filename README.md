@@ -1,5 +1,4 @@
-<img src="https://github.com/kashanimorteza/english_document/blob/main/design/general.jpg" width="300"/> | <img src="https://github.com/kashanimorteza/ai_document/blob/main/design/i.jpeg" width="300"/>
-
+<img src="https://github.com/kashanimorteza/english_document/blob/main/design/general.jpg" width="300"/> 
 
 
 <!--------------------------------------------------------------------------------- AI -->
