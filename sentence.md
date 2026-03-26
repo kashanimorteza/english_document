@@ -1,3 +1,9 @@
+<!--------------------------------------------------------------------------------- Sentence -->
+# Sentence
+[English] > [Definition]
+
+
+
 <!--------------------------------------------------------------------------------- Head -->
 ![](https://github.com/kashanimorteza/english_document/blob/main/design/sentence.png)
 
@@ -85,3 +91,9 @@
 
 ## Conjunction
 [Here...](https://github.com/kashanimorteza/english_document/tree/main/conjunction.md)
+
+
+
+<!--------------------------------------------------------------------------------- Link -->
+[English]: https://github.com/kashanimorteza/english_document/blob/main/README.md
+[Definition]: https://github.com/kashanimorteza/english_document/blob/main/definition.md
