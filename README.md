@@ -1,12 +1,9 @@
-<img src="https://github.com/kashanimorteza/english_document/blob/main/design/general.jpg" width="300"/> 
-
-
-<!--------------------------------------------------------------------------------- AI -->
+<!--------------------------------------------------------------------------------- English -->
 <br><br>
 
 # AI [![](https://img.icons8.com/ios-filled/16/ffffff/speaker.png)](https://kashanimorteza.github.io/ai_document/sound/2.wav)
 
-![](https://github.com/kashanimorteza/ai_document/blob/main/design/ai.png)
+![](https://github.com/kashanimorteza/english_document/blob/main/design/general.png)
 
 
 
