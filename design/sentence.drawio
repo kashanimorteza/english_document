@@ -5,37 +5,37 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HRdKpd_t4PCCufJs8SFI-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Sentence&lt;/font&gt;" vertex="1">
-          <mxGeometry height="180" width="180" x="-140" y="-555" as="geometry" />
+          <mxGeometry height="180" width="180" x="-80" y="-585" as="geometry" />
         </mxCell>
         <mxCell id="HRdKpd_t4PCCufJs8SFI-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=24;" value="Adjective" vertex="1">
-          <mxGeometry height="110" width="110" x="120" y="-240" as="geometry" />
+          <mxGeometry height="110" width="110" x="120" y="-310" as="geometry" />
         </mxCell>
         <mxCell id="aeT9FSfwdUyCj6KDq3xD-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=24;" value="Pronoun" vertex="1">
-          <mxGeometry height="110" width="110" x="120" y="-520" as="geometry" />
+          <mxGeometry height="110" width="110" x="120" y="-550" as="geometry" />
         </mxCell>
         <mxCell id="COEvjrz7dM8iQSiR4-q4-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=24;" value="Verb" vertex="1">
-          <mxGeometry height="110" width="110" x="120" y="-660" as="geometry" />
+          <mxGeometry height="110" width="110" x="120" y="-670" as="geometry" />
         </mxCell>
         <mxCell id="nO5MLRyQDXAvk3Oy3mln-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=24;" value="Adverb" vertex="1">
-          <mxGeometry height="110" width="110" x="120" y="-380" as="geometry" />
+          <mxGeometry height="110" width="110" x="120" y="-430" as="geometry" />
         </mxCell>
         <mxCell id="SvB1TmC0K4GEKoGrgyMx-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=default;fillColor=default;" value="Name" vertex="1">
           <mxGeometry height="110" width="110" x="120" y="-790" as="geometry" />
         </mxCell>
         <mxCell id="X1CdqIV5SfOfP2O1tneT-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Prefix&lt;/span&gt;" vertex="1">
-          <mxGeometry height="110" width="110" x="440" y="-600" as="geometry" />
+          <mxGeometry height="110" width="110" x="380" y="-610" as="geometry" />
         </mxCell>
         <mxCell id="WHLnvbmspYgvutdc24nB-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=24;" value="Postfix" vertex="1">
-          <mxGeometry height="110" width="110" x="440" y="-450" as="geometry" />
+          <mxGeometry height="110" width="110" x="370" y="-460" as="geometry" />
         </mxCell>
         <mxCell id="WHLnvbmspYgvutdc24nB-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=default;fillColor=default;" value="&lt;span&gt;Preposition&lt;/span&gt;" vertex="1">
-          <mxGeometry height="130" width="130" x="280" y="-560" as="geometry" />
+          <mxGeometry height="130" width="130" x="240" y="-555" as="geometry" />
         </mxCell>
         <mxCell id="WHLnvbmspYgvutdc24nB-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=default;fillColor=default;" value="&lt;span&gt;Interjection&lt;/span&gt;" vertex="1">
-          <mxGeometry height="130" width="130" x="280" y="-400" as="geometry" />
+          <mxGeometry height="130" width="130" x="240" y="-410" as="geometry" />
         </mxCell>
         <mxCell id="WHLnvbmspYgvutdc24nB-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=default;fillColor=default;" value="&lt;span&gt;Conjuction&lt;/span&gt;" vertex="1">
-          <mxGeometry height="130" width="130" x="280" y="-720" as="geometry" />
+          <mxGeometry height="130" width="130" x="240" y="-700" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

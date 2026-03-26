@@ -1,5 +1,10 @@
 <!--------------------------------------------------------------------------------- Sentence -->
 # Sentence
+
+
+
+<!--------------------------------------------------------------------------------- Map -->
+### Map
 [English] > [Definition]
 
 
@@ -7,7 +12,7 @@
 <!--------------------------------------------------------------------------------- Head -->
 <br><br>
 
-## Diagram
+### Diagram
 
 ![](https://github.com/kashanimorteza/english_document/blob/main/design/sentence.png)
 
@@ -16,14 +21,14 @@
 <!--------------------------------------------------------------------------------- Description -->
 <br><br>
 
-## Description
+### Description
 
 
 
 <!--------------------------------------------------------------------------------- Name -->
 <br><br>
 
-## Name
+### Name
 [Here...](https://github.com/kashanimorteza/english_document/tree/main/name.md)
 
 
@@ -31,7 +36,7 @@
 <!--------------------------------------------------------------------------------- Verb -->
 <br><br>
 
-## Verb
+### Verb
 [Here...](https://github.com/kashanimorteza/english_document/tree/main/verb.md)
 
 
@@ -39,7 +44,7 @@
 <!--------------------------------------------------------------------------------- Adjective -->
 <br><br>
 
-## Adjective
+### Adjective
 [Here...](https://github.com/kashanimorteza/english_document/tree/main/adjective.md)
 
 
@@ -47,7 +52,7 @@
 <!--------------------------------------------------------------------------------- Pronouns -->
 <br><br>
 
-## Pronouns
+### Pronouns
 [Here...](https://github.com/kashanimorteza/english_document/tree/main/pronouns.md)
 
 
@@ -55,7 +60,7 @@
 <!--------------------------------------------------------------------------------- Adverb -->
 <br><br>
 
-## Adverb
+### Adverb
 [Here...](https://github.com/kashanimorteza/english_document/tree/main/adverb.md)
 
 
@@ -63,7 +68,7 @@
 <!--------------------------------------------------------------------------------- Preposition -->
 <br><br>
 
-## Preposition
+### Preposition
 [Here...](https://github.com/kashanimorteza/english_document/tree/main/preposition.md)
 
 
@@ -71,7 +76,7 @@
 <!--------------------------------------------------------------------------------- Prefix -->
 <br><br>
 
-## Prefix
+### Prefix
 [Here...](https://github.com/kashanimorteza/english_document/tree/main/prefix.md)
 
 
@@ -79,7 +84,7 @@
 <!--------------------------------------------------------------------------------- Postfix -->
 <br><br>
 
-## Postfix
+### Postfix
 [Here...](https://github.com/kashanimorteza/english_document/tree/main/postfix.md)
 
 
@@ -87,7 +92,7 @@
 <!--------------------------------------------------------------------------------- Interjection -->
 <br><br>
 
-## Interjection
+### Interjection
 [Here...](https://github.com/kashanimorteza/english_document/tree/main/interjection.md)
 
 
@@ -95,7 +100,7 @@
 <!--------------------------------------------------------------------------------- Conjunction -->
 <br><br>
 
-## Conjunction
+### Conjunction
 [Here...](https://github.com/kashanimorteza/english_document/tree/main/conjunction.md)
 
 
