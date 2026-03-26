@@ -3,22 +3,20 @@
 [English]
 
 
-<!--------------------------------------------------------------------------------- Head -->
-![](https://github.com/kashanimorteza/english_document/blob/main/design/definition.png)
-
-
-
-<!--------------------------------------------------------------------------------- Ava -->
+<!--------------------------------------------------------------------------------- Diagram -->
 <br><br>
 
-## Ava
+## Diagram
+
+![](https://github.com/kashanimorteza/english_document/blob/main/design/role.png)
 
 
 
-<!--------------------------------------------------------------------------------- Sign -->
+<!--------------------------------------------------------------------------------- Sound -->
 <br><br>
 
-## Sign
+## Sound
+[Here...](https://github.com/kashanimorteza/english_document/tree/main/sound.md)
 
 
 
@@ -26,14 +24,31 @@
 <br><br>
 
 ## Word
+[Here...](https://github.com/kashanimorteza/english_document/tree/main/word.md)
 
 
 
-<!--------------------------------------------------------------------------------- Sentence -->
+<!--------------------------------------------------------------------------------- Role -->
 <br><br>
 
-## Sentence
-[Here...](https://github.com/kashanimorteza/english_document/tree/main/sentence.md)
+## Role
+[Here...](https://github.com/kashanimorteza/english_document/tree/main/role.md)
+
+
+
+<!--------------------------------------------------------------------------------- Time -->
+<br><br>
+
+## Time
+[Here...](https://github.com/kashanimorteza/english_document/tree/main/time.md)
+
+
+
+<!--------------------------------------------------------------------------------- Type -->
+<br><br>
+
+## Type
+[Here...](https://github.com/kashanimorteza/english_document/tree/main/type.md)
 
 
 

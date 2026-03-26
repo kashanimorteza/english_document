@@ -1,15 +1,15 @@
-<!--------------------------------------------------------------------------------- Sentence -->
-## Sentence
+<!--------------------------------------------------------------------------------- Role -->
+## Role
 [English] > [Definition]
 
 
 
-<!--------------------------------------------------------------------------------- Head -->
+<!--------------------------------------------------------------------------------- Diagram -->
 <br><br>
 
 ## Diagram
 
-![](https://github.com/kashanimorteza/english_document/blob/main/design/sentence.png)
+![](https://github.com/kashanimorteza/english_document/blob/main/design/role.png)
 
 
 
