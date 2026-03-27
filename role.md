@@ -37,11 +37,11 @@
 
 
 
-<!--------------------------------------------------------------------------------- Pronouns -->
+<!--------------------------------------------------------------------------------- Pronoun -->
 <br><br>
 
-## Pronouns
-[Here...](https://github.com/kashanimorteza/english_document/tree/main/pronouns.md)
+## Pronoun
+[Here...](https://github.com/kashanimorteza/english_document/tree/main/pronoun.md)
 
 
 
