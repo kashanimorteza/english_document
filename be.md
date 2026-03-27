@@ -124,7 +124,7 @@
     <td>
         <!---------- Plural -->
         <table><tbody>
-        <tr><td align="center" rowspan="2">Singular</td><td align="center">Cats</td><td align="center">are</td><td align="center">animals</td></tr>
+        <tr><td align="center" rowspan="3">Plural</td><td align="center">Cats</td><td align="center">are</td><td align="center">animals</td></tr>
         <tr><td align="center">canada and china</td><td align="center">are</td><td align="center">countries</td></tr>
         <tr><td align="center">dog and cats</td><td align="center">are</td><td align="center">animals</td></tr>
         </tbody></table>
