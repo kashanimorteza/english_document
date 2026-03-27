@@ -18,8 +18,8 @@
 
 ## Be
 
-<!-------------------------- Simple -->
-### Simple
+<!-------------------------- Noun -->
+### Noun
 
 <table><tbody>
 <tr>
@@ -112,9 +112,6 @@ The adjectives give information about a noun or pronoun that comes at the beginn
 </tr>
 </tbody></table>
 
-
-
-
 <!-------------------------- Place -->
 ### Place
 
@@ -133,9 +130,9 @@ The adjectives give information about a noun or pronoun that comes at the beginn
 <td align="center">At the library</td>
 </tr>
 <tr><td align="center">On the bus</td></tr>
-<tr><td align="center">On the bus</td></tr>
-<tr><td align="center">On the bus</td></tr>
-<tr><td align="center">On the bus</td></tr>
+<tr><td align="center">In his room</td></tr>
+<tr><td align="center">At work</td></tr>
+<tr><td align="center">Next to sara</td></tr>
 </tbody></table>
 
 
