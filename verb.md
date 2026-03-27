@@ -78,6 +78,7 @@
 
 <!-------------------------- Adjective -->
 ### Adjective
+<!--------- Noun -->
 <table><tbody>
 <tr>
 <td rowspan="2">Noun</td>
@@ -89,6 +90,23 @@
 <td align="center">Balls are red</td>
 </tr>
 </tbody></table>
+<!--------- Pronoun -->
+<table><tbody>
+<tr>
+<td rowspan="2">Pronoun</td>
+<td align="center">I</td>
+<td align="center">I am hungry</td>
+</tr>
+<tr>
+<td align="center">She</td>
+<td align="center">She is hungry</td>
+</tr>
+<tr>
+<td align="center">They</td>
+<td align="center">They are hungry</td>
+</tr>
+</tbody></table>
+
 
 
 
