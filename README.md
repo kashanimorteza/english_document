@@ -12,46 +12,15 @@
 
 
 
-<!--------------------------------------------------------------------------------- Resource -->
+<!--------------------------------------------------------------------------------- Content -->
 <br><br>
 
-## Resource
-[General](https://github.com/kashanimorteza/english_document/tree/main/doc/resource_general.md)  
-[Tutorial](https://github.com/kashanimorteza/english_document/tree/main/doc/resource_tutorial.md)  
-[Article](https://github.com/kashanimorteza/english_document/tree/main/doc/resource_article.md)  
-[Book](https://github.com/kashanimorteza/english_document/tree/main/doc/resource_book.md)  
-
-
-
-<!--------------------------------------------------------------------------------- Roadmap -->
-<br><br>
-
-## Roadmap
-[Here...](https://github.com/kashanimorteza/english_document/blob/main/roadmap.md)
-
-
-
-<!--------------------------------------------------------------------------------- Structure -->
-<br><br>
-
-## Structure
-[Here...](https://github.com/kashanimorteza/english_document/tree/main/structure.md)
-
-
-
-<!--------------------------------------------------------------------------------- Subject -->
-<br><br>
-
-## Subject
-[Here...](https://github.com/kashanimorteza/english_document/blob/main/subject.md)
-
-
-
-<!--------------------------------------------------------------------------------- Skill -->
-<br><br>
-
-## Skill
-[Here...](https://github.com/kashanimorteza/english_document/blob/main/skills.md)
+## Content
+[Resource](https://github.com/kashanimorteza/english_document/blob/main/resourc.md) 
+[Roadmap](https://github.com/kashanimorteza/english_document/blob/main/roadmap.md)
+[Structure](https://github.com/kashanimorteza/english_document/tree/main/structure.md)
+[Subject](https://github.com/kashanimorteza/english_document/blob/main/subject.md)
+[Skill](https://github.com/kashanimorteza/english_document/blob/main/skills.md)
 
 
 
