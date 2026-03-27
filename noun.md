@@ -13,13 +13,23 @@
 
 
 
+<!--------------------------------------------------------------------------------- Singular and Plural -->
+<br><br>
+
+## Singular and Plural
+```
+end with 'y' > chenge to '-ies' > cities
+Other        > add s to end     > cats
+```
+
+
 <!--------------------------------------------------------------------------------- Articles -->
 <br><br>
 
 ## Articles
 
-<!---------------------------------------Definite--> 
-#### <span class="red">Definite</span> 
+<!-------------------------- Definite -->
+### Definite
 <table><tbody>
 <tr>
 <td align="center">The</td>
@@ -27,8 +37,8 @@
 </tr>
 </tbody></table>
 
-<!---------------------------------------Indefinite--> 
-#### <span class="red">Indefinite</span> 
+<!-------------------------- Indefinite -->
+### Indefinite
 <table><tbody>
 <tr>
 <td align="center">A</td>
