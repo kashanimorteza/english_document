@@ -17,8 +17,6 @@
 <br><br>
 
 ## Pronoun
-<!-------------------------- Subject -->
-### Subject
 <table>
   <tbody>
     <tr>
