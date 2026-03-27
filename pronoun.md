@@ -23,11 +23,11 @@
 <table><tbody>
 <tr>
 <td align="center">Singular</td>
-<td align="center">I | You | He | She | It</td>
+<td align="center">I / You / He / She / It</td>
 </tr>
 <tr>
 <td align="center">Plural</td>
-<td align="center">We | You | They</td>
+<td align="center">We / You / They</td>
 </tr>
 </tbody></table>
 
