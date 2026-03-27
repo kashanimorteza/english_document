@@ -21,6 +21,16 @@
 end with 'y' > chenge to '-ies' > cities
 Other        > add s to end     > cats
 ```
+<table><tbody>
+<tr>
+<td align="center">Singular</td>
+<td align="center">Canada is a country | Bali is an island</td>
+</tr>
+<tr>
+<td align="center">Plural</td>
+<td align="center">Canada and china are countries</td>
+</tr>
+</tbody></table>
 
 
 <!--------------------------------------------------------------------------------- Articles -->

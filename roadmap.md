@@ -20,7 +20,7 @@
 [Pronoun : Personal](https://github.com/kashanimorteza/english_document/tree/main/pronoun.md#subject)  
 [Verb : Be](https://github.com/kashanimorteza/english_document/tree/main/verb.md#be)  
 [Noun : Singular and Plural](https://github.com/kashanimorteza/english_document/tree/main/noun.md#singular-and-plural)  
-[Noun : Article](https://github.com/kashanimorteza/english_document/tree/main/noun.md#indefinite)  
+[Noun : Article : Indefinite](https://github.com/kashanimorteza/english_document/tree/main/noun.md#indefinite)  
 
 
 
