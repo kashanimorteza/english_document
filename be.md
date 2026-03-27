@@ -33,9 +33,9 @@
     <td>
         <!---------- Plural -->
         <table><tbody>
-        <tr><td align="center" rowspan="3">Plural</td><td align="center">We</td><td align="center">are</td><td align="center">late</td></tr>
+        <tr><td align="center" rowspan="3">Plural</td><td align="center">we</td><td align="center">are</td><td align="center">late</td></tr>
         <tr><td align="center">you</td><td align="center">are</td><td align="center">late</td></tr>
-        <tr><td align="center">They</td><td align="center">are</td><td align="center">late</td></tr>
+        <tr><td align="center">they</td><td align="center">are</td><td align="center">late</td></tr>
         </tbody></table>
     </td>
     </tr>
@@ -84,19 +84,19 @@
     <td>
         <!---------- Singular -->
         <table><tbody>
-        <tr><td align="center" rowspan="5">Singular</td><td align="center">I</td><td align="center">am not</td><td align="center">late</td><td align="center">I'm not</td></tr>
-        <tr><td align="center">you</td><td align="center">are not</td><td align="center">late</td><td align="center">you're not | you aren't</td></tr>
-        <tr><td align="center">he</td><td align="center">is not</td><td align="center">late</td><td align="center">he's not | he isn't</td></tr>
-        <tr><td align="center">she</td><td align="center">is not</td><td align="center">late</td><td align="center">she's not | she isn't</td></tr>
-        <tr><td align="center">Ii</td><td align="center">is not</td><td align="center">late</td><td align="center">it's not | it isn't</td></tr>
+        <tr><td align="center" rowspan="5">Singular</td><td align="center">I</td><td align="center">am not</td><td align="center">I'm not</td></tr>
+        <tr><td align="center">you</td><td align="center">are not</td><td align="center">you're not | you aren't</td></tr>
+        <tr><td align="center">he</td><td align="center">is not</td><td align="center">he's not | he isn't</td></tr>
+        <tr><td align="center">she</td><td align="center">is not</td><td align="center">she's not | she isn't</td></tr>
+        <tr><td align="center">Ii</td><td align="center">is not</td><td align="center">it's not | it isn't</td></tr>
         </tbody></table>
     </td>
     <td>
         <!---------- Plural -->
         <table><tbody>
-        <tr><td align="center" rowspan="3">Plural</td><td align="center">We</td><td align="center">are not</td><td align="center">late</td><td align="center">We're not | We aren't</td></tr>
-        <tr><td align="center">you</td><td align="center">are not</td><td align="center">late</td><td align="center">you're not | you aren't</td></tr>
-        <tr><td align="center">They</td><td align="center">are not</td><td align="center">late</td><td align="center">They're not | They aren't</td></tr>
+        <tr><td align="center" rowspan="3">Plural</td><td align="center">we</td><td align="center">are not</td><td align="center">we're not | we aren't</td></tr>
+        <tr><td align="center">you</td><td align="center">are not</td><td align="center">you're not | you aren't</td></tr>
+        <tr><td align="center">they</td><td align="center">are not</td><td align="center">they're not | they aren't</td></tr>
         </tbody></table>
     </td>
     </tr>
@@ -141,8 +141,8 @@ The adjectives give information about a noun or pronoun that comes at the beginn
 <td align="center">she is hungry</td>
 </tr>
 <tr>
-<td align="center">They</td>
-<td align="center">They are hungry</td>
+<td align="center">they</td>
+<td align="center">they are hungry</td>
 </tr>
 </tbody></table>
 
