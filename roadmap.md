@@ -15,10 +15,8 @@
 [Noun : Article : Indefinite](https://github.com/kashanimorteza/english_document/tree/main/noun.md#indefinite)  
 [Noun : Plural](https://github.com/kashanimorteza/english_document/tree/main/noun.md#plural)  
 [Be : Noun](https://github.com/kashanimorteza/english_document/tree/main/be.md#noun)  
-
-
-[Verb : Be : Adjective](https://github.com/kashanimorteza/english_document/tree/main/verb.md#adjective)  
-[Verb : Be : Place](https://github.com/kashanimorteza/english_document/tree/main/verb.md#place)  
+[Be : Adjective](https://github.com/kashanimorteza/english_document/tree/main/verb.md#adjective)  
+[Be : Place](https://github.com/kashanimorteza/english_document/tree/main/verb.md#place)  
 
 
 
