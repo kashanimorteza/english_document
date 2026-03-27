@@ -23,19 +23,19 @@
     <td>
         <!---------- Singular -->
         <table><tbody>
-        <tr><td align="center" rowspan="5">Singular</td><td align="center">I</td><td align="center">Am</td><td align="center">Late</td></tr>
-        <tr><td align="center">You</td><td align="center">Is</td><td align="center">Late</td></tr>
-        <tr><td align="center">He</td><td align="center">Is</td><td align="center">Late</td></tr>
-        <tr><td align="center">She</td><td align="center">Is</td><td align="center">Late</td></tr>
-        <tr><td align="center">Ii</td><td align="center">Is</td><td align="center">Late</td></tr>
+        <tr><td align="center" rowspan="5">Singular</td><td align="center">I</td><td align="center">am</td><td align="center">late</td></tr>
+        <tr><td align="center">you</td><td align="center">is</td><td align="center">late</td></tr>
+        <tr><td align="center">he</td><td align="center">is</td><td align="center">late</td></tr>
+        <tr><td align="center">she</td><td align="center">is</td><td align="center">late</td></tr>
+        <tr><td align="center">it</td><td align="center">is</td><td align="center">late</td></tr>
         </tbody></table>
     </td>
     <td>
         <!---------- Plural -->
         <table><tbody>
-        <tr><td align="center" rowspan="3">Plural</td><td align="center">We</td><td align="center">Are</td><td align="center">Late</td></tr>
-        <tr><td align="center">You</td><td align="center">Are</td><td align="center">Late</td></tr>
-        <tr><td align="center">They</td><td align="center">Are</td><td align="center">Late</td></tr>
+        <tr><td align="center" rowspan="3">Plural</td><td align="center">We</td><td align="center">are</td><td align="center">late</td></tr>
+        <tr><td align="center">you</td><td align="center">are</td><td align="center">late</td></tr>
+        <tr><td align="center">They</td><td align="center">are</td><td align="center">late</td></tr>
         </tbody></table>
     </td>
     </tr>
@@ -54,19 +54,19 @@
     <td>
         <!---------- Singular -->
         <table><tbody>
-        <tr><td align="center" rowspan="5">Singular</td><td align="center">I</td><td align="center">Am</td><td align="center">I'm</td></tr>
-        <tr><td align="center">You</td><td align="center">Is</td><td align="center">You're</td></tr>
-        <tr><td align="center">He</td><td align="center">Is</td><td align="center">He's</td></tr>
-        <tr><td align="center">She</td><td align="center">Is</td><td align="center">She's</td></tr>
-        <tr><td align="center">Ii</td><td align="center">Is</td><td align="center">It's</td></tr>
+        <tr><td align="center" rowspan="5">Singular</td><td align="center">i</td><td align="center">am</td><td align="center">i'm</td></tr>
+        <tr><td align="center">you</td><td align="center">are</td><td align="center">you're</td></tr>
+        <tr><td align="center">he</td><td align="center">is</td><td align="center">he's</td></tr>
+        <tr><td align="center">she</td><td align="center">is</td><td align="center">she's</td></tr>
+        <tr><td align="center">it</td><td align="center">is</td><td align="center">it's</td></tr>
         </tbody></table>
     </td>
     <td>
         <!---------- Plural -->
         <table><tbody>
-        <tr><td align="center" rowspan="3">Plural</td><td align="center">We</td><td align="center">Are</td><td align="center">We're</td></tr>
-        <tr><td align="center">You</td><td align="center">Are</td><td align="center">You're</td></tr>
-        <tr><td align="center">They</td><td align="center">Are</td><td align="center">They're</td></tr>
+        <tr><td align="center" rowspan="3">Plural</td><td align="center">we</td><td align="center">are</td><td align="center">we're</td></tr>
+        <tr><td align="center">you</td><td align="center">are</td><td align="center">you're</td></tr>
+        <tr><td align="center">they</td><td align="center">are</td><td align="center">they're</td></tr>
         </tbody></table>
     </td>
     </tr>
@@ -85,17 +85,17 @@
         <!---------- Singular -->
         <table><tbody>
         <tr><td align="center" rowspan="5">Singular</td><td align="center">I</td><td align="center">am not</td><td align="center">late</td><td align="center">I'm not</td></tr>
-        <tr><td align="center">You</td><td align="center">are not</td><td align="center">late</td><td align="center">You're not | You aren't</td></tr>
-        <tr><td align="center">He</td><td align="center">is not</td><td align="center">late</td><td align="center">He's not | He isn't</td></tr>
-        <tr><td align="center">She</td><td align="center">is not</td><td align="center">late</td><td align="center">She's not | She isn't</td></tr>
-        <tr><td align="center">Ii</td><td align="center">is not</td><td align="center">late</td><td align="center">It's not | It isn't</td></tr>
+        <tr><td align="center">you</td><td align="center">are not</td><td align="center">late</td><td align="center">you're not | you aren't</td></tr>
+        <tr><td align="center">he</td><td align="center">is not</td><td align="center">late</td><td align="center">he's not | he isn't</td></tr>
+        <tr><td align="center">she</td><td align="center">is not</td><td align="center">late</td><td align="center">she's not | she isn't</td></tr>
+        <tr><td align="center">Ii</td><td align="center">is not</td><td align="center">late</td><td align="center">it's not | it isn't</td></tr>
         </tbody></table>
     </td>
     <td>
         <!---------- Plural -->
         <table><tbody>
         <tr><td align="center" rowspan="3">Plural</td><td align="center">We</td><td align="center">are not</td><td align="center">late</td><td align="center">We're not | We aren't</td></tr>
-        <tr><td align="center">You</td><td align="center">are not</td><td align="center">late</td><td align="center">You're not | You aren't</td></tr>
+        <tr><td align="center">you</td><td align="center">are not</td><td align="center">late</td><td align="center">you're not | you aren't</td></tr>
         <tr><td align="center">They</td><td align="center">are not</td><td align="center">late</td><td align="center">They're not | They aren't</td></tr>
         </tbody></table>
     </td>
@@ -137,8 +137,8 @@ The adjectives give information about a noun or pronoun that comes at the beginn
 <td align="center">I am hungry</td>
 </tr>
 <tr>
-<td align="center">She</td>
-<td align="center">She is hungry</td>
+<td align="center">she</td>
+<td align="center">she is hungry</td>
 </tr>
 <tr>
 <td align="center">They</td>
@@ -156,7 +156,7 @@ The adjectives give information about a noun or pronoun that comes at the beginn
 <tr>
 <td align="center">Ali</td>
 <td align="center">Is</td>
-<td align="center">Here | There | Downstairs | upstairs | inside | outside | downtown</td>
+<td align="center">here | There | Downstairs | upstairs | inside | outside | downtown</td>
 </tr>
 </tbody></table>
 <table><tbody>
