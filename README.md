@@ -1,5 +1,15 @@
-<!--------------------------------------------------------------------------------- Head -->
+<!--------------------------------------------------------------------------------- English -->
+# English
+[English]
+
+
+
+<!--------------------------------------------------------------------------------- Diagram -->
+<br><br>
+
+## Diagram
 <p align="center"><img src="https://raw.githubusercontent.com/kashanimorteza/english_document/main/design/general.png" /></p>
+
 
 
 <!--------------------------------------------------------------------------------- Resource -->
@@ -42,3 +52,8 @@
 
 ## Skill
 [Here...](https://github.com/kashanimorteza/english_document/blob/main/skills.md)
+
+
+
+<!--------------------------------------------------------------------------------- Link -->
+[English]: https://github.com/kashanimorteza/english_document/blob/main/README.md
