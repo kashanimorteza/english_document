@@ -117,14 +117,14 @@
     <td>
         <!---------- Singular -->
         <table><tbody>
-        <tr><td align="center" rowspan="2">Singular</td><td align="center">Canada</td><td align="center">is</td><td align="center">a country</td></tr>
+        <tr><td align="center" rowspan="2">Singular</td><td align="center">canada</td><td align="center">is</td><td align="center">a country</td></tr>
         <tr><td align="center">bali</td><td align="center">is</td><td align="center">an island</td></tr>
         </tbody></table>
     </td>
     <td>
         <!---------- Plural -->
         <table><tbody>
-        <tr><td align="center" rowspan="3">Plural</td><td align="center">Cats</td><td align="center">are</td><td align="center">animals</td></tr>
+        <tr><td align="center" rowspan="3">Plural</td><td align="center">cats</td><td align="center">are</td><td align="center">animals</td></tr>
         <tr><td align="center">canada and china</td><td align="center">are</td><td align="center">countries</td></tr>
         <tr><td align="center">dog and cats</td><td align="center">are</td><td align="center">animals</td></tr>
         </tbody></table>
@@ -132,9 +132,6 @@
     </tr>
   </tbody>
 </table>
-
-
-
 
 
 
@@ -147,34 +144,45 @@
 Adjectives often follow a form of be
 The adjectives give information about a noun or pronoun that comes at the beginning of a sentence
 ```
-<!-------------------------- Noun -->
-<table><tbody>
-<tr>
-<td rowspan="2">Noun</td>
-<td align="center">Singular</td>
-<td align="center">A ball is red</td>
-</tr>
-<tr>
-<td align="center">Plural</td>
-<td align="center">Balls are red</td>
-</tr>
-</tbody></table>
-<!-------------------------- Pronoun -->
-<table><tbody>
-<tr>
-<td rowspan="3">Pronoun</td>
-<td align="center">I</td>
-<td align="center">I am hungry</td>
-</tr>
-<tr>
-<td align="center">she</td>
-<td align="center">she is hungry</td>
-</tr>
-<tr>
-<td align="center">they</td>
-<td align="center">they are hungry</td>
-</tr>
-</tbody></table>
+
+<table>
+  <tbody>
+    <tr>
+    <td>
+        <!-------------------------- Noun -->
+        <table><tbody>
+        <tr>
+        <td rowspan="2">Noun</td>
+        <td align="center">Singular</td>
+        <td align="center">A ball is red</td>
+        </tr>
+        <tr>
+        <td align="center">Plural</td>
+        <td align="center">Balls are red</td>
+        </tr>
+        </tbody></table>
+    </td>
+    <td>
+        <!-------------------------- Pronoun -->
+        <table><tbody>
+        <tr>
+        <td rowspan="3">Pronoun</td>
+        <td align="center">I</td>
+        <td align="center">I am hungry</td>
+        </tr>
+        <tr>
+        <td align="center">she</td>
+        <td align="center">she is hungry</td>
+        </tr>
+        <tr>
+        <td align="center">they</td>
+        <td align="center">they are hungry</td>
+        </tr>
+        </tbody></table>
+    </td>
+    </tr>
+  </tbody>
+</table>
 
 
 
