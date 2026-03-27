@@ -17,7 +17,7 @@
 <br><br>
 
 ## Singular and Plural
-
+<!-------------------------- Singular -->
 <table><tbody>
 <tr>
 <td align="center">Singular</td>
@@ -25,6 +25,8 @@
 <td align="center">Bali is an island</td>
 </tr>
 </tbody></table>
+<!-------------------------- Plural -->
+<table><tbody>
 <tr>
 <td rowspan="2">Plural</td>
 <td align="center">add s to end</td>
@@ -34,7 +36,7 @@
 <td align="center">end with 'y' > chenge to '-ies'</td>
 <td align="center">Canada and china are countries</td>
 </tr>
-
+</tbody></table>
 
 
 
