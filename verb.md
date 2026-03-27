@@ -118,6 +118,28 @@ The adjectives give information about a noun or pronoun that comes at the beginn
 <!-------------------------- Place -->
 ### Place
 
+<table><tbody>
+<tr>
+<td align="center">Ali</td>
+<td align="center">Is</td>
+<td align="center">Here | There | Downstairs | upstairs | inside | outside | downtown</td>
+</tr>
+</tbody></table>
+
+<table><tbody>
+<tr>
+<td align="center" rowspan="5">Ali</td>
+<td align="center" rowspan="5">Is</td>
+<td align="center">At the library</td>
+</tr>
+<tr><td align="center">On the bus</td></tr>
+<tr><td align="center">On the bus</td></tr>
+<tr><td align="center">On the bus</td></tr>
+<tr><td align="center">On the bus</td></tr>
+</tbody></table>
+
+
+
 
 
 <!--------------------------------------------------------------------------------- Link -->
