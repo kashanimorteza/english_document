@@ -19,10 +19,6 @@
 
 <!-------------------------- Subject -->
 ### Subject
-<table>
-  <tr>
-    <!-- Singular Column -->
-    <td>
 
 | Singular |
 |:--------:|
@@ -32,10 +28,6 @@
 | She |
 | It |
 
-    </td>
-
-    <!-- Plural Column -->
-    <td>
 
 | Plural |
 |:------:|
@@ -43,9 +35,6 @@
 | You |
 | They |
 
-    </td>
-  </tr>
-</table>
 
 
 
