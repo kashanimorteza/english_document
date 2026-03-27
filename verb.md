@@ -20,31 +20,6 @@
 
 <!-------------------------- Am -->
 ### AM
-```
-i am late
-```
-<!-------------------------- Is -->
-### Is
-```
-she is late
-he is late
-it is late
-```
-<!-------------------------- Are -->
-### Are
-```
-you are late
-we are late
-they are late
-```
-
-
-
-
-
-
-
-
 
 <table><tbody>
 <tr>
@@ -60,6 +35,19 @@ they are late
 <td align="center">I'm</td>
 <td align="center">I am not late</td>
 <td align="center">I'm not</td>
+</tr>
+</tbody></table>
+
+<!-------------------------- Is -->
+### Is
+
+<table><tbody>
+<tr>
+<td align="center" ></td>
+<td align="center" >Simple</td>
+<td align="center" >Contraction</td>
+<td align="center" >Negative</td>
+<td align="center" >Contraction</td>
 </tr>
 <tr>
 <td rowspan="3">Is</td>
@@ -79,6 +67,19 @@ they are late
 <td align="center">It's</td>
 <td align="center">It is not late</td>
 <td align="center">It's not | It isn't</td>
+</tr>
+</tbody></table>
+
+<!-------------------------- Are -->
+### Are
+
+<table><tbody>
+<tr>
+<td align="center" ></td>
+<td align="center" >Simple</td>
+<td align="center" >Contraction</td>
+<td align="center" >Negative</td>
+<td align="center" >Contraction</td>
 </tr>
 <tr>
 <td rowspan="3">Are</td>
