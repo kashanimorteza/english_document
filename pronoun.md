@@ -20,20 +20,33 @@
 <!-------------------------- Subject -->
 ### Subject
 <!---------- Singular -->
-<table><tbody>
-<tr><td align="center" rowspan="5">Singular</td><td align="center">I</td></tr>
-<tr><td align="center">You</td></tr>
-<tr><td align="center">He</td></tr>
-<tr><td align="center">She</td></tr>
-<tr><td align="center">It</td></tr>
-</tbody></table>
+<table>
+  <tbody>
+    <tr>
+      <td align="center" colspan="6">Singular</td>
+    </tr>
+    <tr>
+      <td align="center">I</td>
+      <td align="center">You</td>
+      <td align="center">He</td>
+      <td align="center">She</td>
+      <td align="center">It</td>
+    </tr>
+  </tbody>
+</table>
 <!---------- Plural -->
-<table><tbody>
-<tr><td align="center" rowspan="5">Plural</td><td align="center">I</td></tr>
-<tr><td align="center">We</td></tr>
-<tr><td align="center">You</td></tr>
-<tr><td align="center">They</td></tr>
-</tbody></table>
+<table>
+  <tbody>
+    <tr>
+      <td align="center" colspan="4">Plural</td>
+    </tr>
+    <tr>
+      <td align="center">We</td>
+      <td align="center">You</td>
+      <td align="center">They</td>
+    </tr>
+  </tbody>
+</table>
 
 
 <!-------------------------- Object -->
