@@ -30,10 +30,10 @@
 <tr>
 <td rowspan="2">Plural</td>
 <td align="center">add s to end</td>
-<td align="center">Cats are animals</td>
+<td align="center">end with 'y' > chenge to '-ies'</td>
 </tr>
 <tr>
-<td align="center">end with 'y' > chenge to '-ies'</td>
+<td align="center">Cats are animals</td>
 <td align="center">Canada and china are countries</td>
 </tr>
 </tbody></table>
