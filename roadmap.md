@@ -12,8 +12,9 @@
 [Be : Pronoun](https://github.com/kashanimorteza/english_document/tree/main/be.md#pronoun)  
 [Be : Contraction](https://github.com/kashanimorteza/english_document/tree/main/be.md#contraction)  
 [Be : Negative](https://github.com/kashanimorteza/english_document/tree/main/be.md#negative)  
-[Noun : Singular and Plural](https://github.com/kashanimorteza/english_document/tree/main/noun.md#singular-and-plural)  
 [Noun : Article : Indefinite](https://github.com/kashanimorteza/english_document/tree/main/noun.md#indefinite)  
+[Noun : Plural](https://github.com/kashanimorteza/english_document/tree/main/noun.md#plural)  
+
 [Verb : Be : Adjective](https://github.com/kashanimorteza/english_document/tree/main/verb.md#adjective)  
 [Verb : Be : Place](https://github.com/kashanimorteza/english_document/tree/main/verb.md#place)  
 

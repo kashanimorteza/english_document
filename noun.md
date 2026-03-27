@@ -13,27 +13,19 @@
 
 
 
-<!--------------------------------------------------------------------------------- Singular and Plural -->
+<!--------------------------------------------------------------------------------- Plural -->
 <br><br>
 
-## Singular and Plural
-<!-------------------------- Singular -->
+## Plural
 <table><tbody>
 <tr>
-<td align="center">Singular</td>
-<td align="center">Canada is a country</td>
-<td align="center">Bali is an island</td>
-</tr>
-</tbody></table>
-<!-------------------------- Plural -->
-<table><tbody>
-<tr>
-<td rowspan="2">Plural</td>
+<td align="center">For all</td>
 <td align="center">add s to end</td>
-<td align="center">end with 'y' > chenge to '-ies'</td>
+<td align="center">Cats are animals</td>
 </tr>
 <tr>
-<td align="center">Cats are animals</td>
+<td align="center">for end with 'y'</td>
+<td align="center">chenge y to '-ies'</td>
 <td align="center">Canada and china are countries</td>
 </tr>
 </tbody></table>
