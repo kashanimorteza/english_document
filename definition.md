@@ -1,6 +1,6 @@
 <!--------------------------------------------------------------------------------- Definition -->
 # Definition
-[English]
+[English] > [Definition]
 
 
 
@@ -10,13 +10,6 @@
 ## Diagram
 
 ![](https://github.com/kashanimorteza/english_document/blob/main/design/definition.png)
-
-
-
-<!--------------------------------------------------------------------------------- Description -->
-<br><br>
-
-## Description
 
 
 
