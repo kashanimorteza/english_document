@@ -103,6 +103,6 @@
 
 <!--------------------------------------------------------------------------------- Link -->
 [English]: https://github.com/kashanimorteza/english_document/blob/main/README.md
-[Definition]: https://github.com/kashanimorteza/english_document/blob/main/definition.md
+[Structure]: https://github.com/kashanimorteza/english_document/blob/main/structure.md
 [Role]: https://github.com/kashanimorteza/english_document/blob/main/role.md
 [Noun]: https://github.com/kashanimorteza/english_document/blob/main/noun.md
