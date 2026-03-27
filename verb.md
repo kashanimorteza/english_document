@@ -78,7 +78,17 @@
 
 <!-------------------------- Adjective -->
 ### Adjective
-
+<table><tbody>
+<tr>
+<td rowspan="2">Noun</td>
+<td align="center">Singular</td>
+<td align="center">Plural</td>
+</tr>
+<tr>
+<td align="center">A ball is red</td>
+<td align="center">Balls are red</td>
+</tr>
+</tbody></table>
 
 
 
