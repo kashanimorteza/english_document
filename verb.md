@@ -108,4 +108,4 @@
 [English]: https://github.com/kashanimorteza/english_document/blob/main/README.md
 [Definition]: https://github.com/kashanimorteza/english_document/blob/main/definition.md
 [Role]: https://github.com/kashanimorteza/english_document/blob/main/role.md
-[verb]: https://github.com/kashanimorteza/english_document/blob/main/verb.md
+[Verb]: https://github.com/kashanimorteza/english_document/blob/main/verb.md
