@@ -1,9 +1,11 @@
 <!--------------------------------------------------------------------------------- Head -->
 ![](https://github.com/kashanimorteza/english_document/blob/main/design/general.png)
 
-<div align="center">
-![](https://github.com/kashanimorteza/english_document/blob/main/design/general.png)
-</div>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kashanimorteza/english_document/main/design/general.png" width="500"/>
+</p>
 
 
 <!--------------------------------------------------------------------------------- Resource -->
