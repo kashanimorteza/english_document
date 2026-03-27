@@ -98,7 +98,7 @@ The adjectives give information about a noun or pronoun that comes at the beginn
 <!--------- Pronoun -->
 <table><tbody>
 <tr>
-<td rowspan="2">Pronoun</td>
+<td rowspan="3">Pronoun</td>
 <td align="center">I</td>
 <td align="center">I am hungry</td>
 </tr>
