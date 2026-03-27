@@ -19,15 +19,20 @@
 
 <!-------------------------- Subject -->
 ### Subject
+<!---------- Singular -->
 <table><tbody>
-<tr>
-<td align="center">Singular</td>
-<td align="center">I / You / He / She / It</td>
-</tr>
-<tr>
-<td align="center">Plural</td>
-<td align="center">We / You / They</td>
-</tr>
+<tr><td align="center" rowspan="5">Singular</td><td align="center">I</td></tr>
+<tr><td align="center">You</td></tr>
+<tr><td align="center">He</td></tr>
+<tr><td align="center">She</td></tr>
+<tr><td align="center">It</td></tr>
+</tbody></table>
+<!---------- Plural -->
+<table><tbody>
+<tr><td align="center" rowspan="5">Plural</td><td align="center">I</td></tr>
+<tr><td align="center">We</td></tr>
+<tr><td align="center">You</td></tr>
+<tr><td align="center">They</td></tr>
 </tbody></table>
 
 
