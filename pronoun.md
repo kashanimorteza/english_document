@@ -1,6 +1,6 @@
 <!--------------------------------------------------------------------------------- Pronoun -->
 # Pronoun
-[English] > [Definition] > [Role] > [Pronoun]
+[English] > [Structure] > [Role] > [Pronoun]
 
 
 
@@ -8,8 +8,7 @@
 <br><br>
 
 ## Diagram
-
-![](https://github.com/kashanimorteza/english_document/blob/main/design/pronoun.png)
+<p align="center"><img src="https://raw.githubusercontent.com/kashanimorteza/english_document/main/design/pronoun.png" /></p>
 
 
 
@@ -171,6 +170,6 @@ Much | Many | Little | Few | Several | Enough
 
 <!--------------------------------------------------------------------------------- Link -->
 [English]: https://github.com/kashanimorteza/english_document/blob/main/README.md
-[Definition]: https://github.com/kashanimorteza/english_document/blob/main/definition.md
+[Structure]: https://github.com/kashanimorteza/english_document/blob/main/definition.md
 [Role]: https://github.com/kashanimorteza/english_document/blob/main/role.md
 [Pronoun]: https://github.com/kashanimorteza/english_document/blob/main/pronoun.md

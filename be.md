@@ -13,10 +13,30 @@
 
 
 
-<!--------------------------------------------------------------------------------- Noun -->
+<!--------------------------------------------------------------------------------- Pronoun -->
 <br><br>
 
-## Noun
+## Pronoun
+
+<table><tbody>
+<tr><td align="center" rowspan="5">Singular</td><td align="center">Pronoun</td><td align="center">Be</td><td align="center">Noun</td></tr>
+<tr><td align="center">I</td><td align="center">Am</td><td align="center">Late</td></tr>
+<tr><td align="center">You</td><td align="center">Is</td><td align="center">Late</td></tr>
+<tr><td align="center">He</td><td align="center">Is</td><td align="center">Late</td></tr>
+<tr><td align="center">She</td><td align="center">Is</td><td align="center">Late</td></tr>
+<tr><td align="center">Ii</td><td align="center">Is</td><td align="center">Late</td></tr>
+</tbody></table>
+
+<table><tbody>
+<tr><td align="center" rowspan="3">Plural</td><td align="center">Pronoun</td><td align="center">Be</td><td align="center">Noun</td></tr>
+<tr><td align="center">We</td><td align="center">Are</td><td align="center">Late</td></tr>
+<tr><td align="center">You</td><td align="center">Are</td><td align="center">Late</td></tr>
+<tr><td align="center">They</td><td align="center">Are</td><td align="center">Late</td></tr>
+</tbody></table>
+
+
+
+## Pronoun
 <table><tbody>
 <tr>
 <td align="center" ></td>
@@ -71,6 +91,7 @@
 <td align="center">They're not | They aren't</td>
 </tr>
 </tbody></table>
+
 
 
 <!--------------------------------------------------------------------------------- Adjective -->
