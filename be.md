@@ -74,6 +74,7 @@
 </table>
 
 
+
 <!--------------------------------------------------------------------------------- Negative -->
 <br><br>
 
@@ -88,7 +89,7 @@
         <tr><td align="center">you</td><td align="center">are not</td><td align="center">you're not | you aren't</td></tr>
         <tr><td align="center">he</td><td align="center">is not</td><td align="center">he's not | he isn't</td></tr>
         <tr><td align="center">she</td><td align="center">is not</td><td align="center">she's not | she isn't</td></tr>
-        <tr><td align="center">Ii</td><td align="center">is not</td><td align="center">it's not | it isn't</td></tr>
+        <tr><td align="center">it</td><td align="center">is not</td><td align="center">it's not | it isn't</td></tr>
         </tbody></table>
     </td>
     <td>
