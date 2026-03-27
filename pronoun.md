@@ -19,11 +19,41 @@
 
 <!-------------------------- Subject -->
 ### Subject
+<table>
+  <tr>
+    <!-- Singular Column -->
+    <td>
+
+| Singular |
+|:--------:|
+| I |
+| You |
+| He |
+| She |
+| It |
+
+    </td>
+
+    <!-- Plural Column -->
+    <td>
+
+| Plural |
+|:------:|
+| We |
+| You |
+| They |
+
+    </td>
+  </tr>
+</table>
+
+
+
 <div style="display: flex; justify-content: center; gap: 50px;">
 
   <!-- Singular Div -->
   <div>
-    <table border="0">
+    <table>
       <tbody>
         <tr>
           <td align="center" colspan="5"><b>Singular</b></td>
@@ -41,7 +71,7 @@
 
   <!-- Plural Div -->
   <div>
-    <table border="0">
+    <table>
       <tbody>
         <tr>
           <td align="center" colspan="3"><b>Plural</b></td>
