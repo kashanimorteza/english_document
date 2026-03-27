@@ -36,16 +36,6 @@
 <td align="center">I am not late</td>
 <td align="center">I'm not</td>
 </tr>
-</tbody></table>
-
-<table><tbody>
-<tr>
-<td align="center" ></td>
-<td align="center" >Simple</td>
-<td align="center" >Contraction</td>
-<td align="center" >Negative</td>
-<td align="center" >Contraction</td>
-</tr>
 <tr>
 <td rowspan="3">Is</td>
 <td align="center">She is late</td>
@@ -64,16 +54,6 @@
 <td align="center">It's</td>
 <td align="center">It is not late</td>
 <td align="center">It's not | It isn't</td>
-</tr>
-</tbody></table>
-
-<table><tbody>
-<tr>
-<td align="center" ></td>
-<td align="center" >Simple</td>
-<td align="center" >Contraction</td>
-<td align="center" >Negative</td>
-<td align="center" >Contraction</td>
 </tr>
 <tr>
 <td rowspan="3">Are</td>
