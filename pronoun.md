@@ -20,8 +20,13 @@
 
 <!-------------------------- Subject -->
 ### Subject
+Singular
 ```
-I | You | He | She | It | We | They
+I | You | He | She | It
+```
+Plural
+```
+We | You | They
 ```
 
 <!-------------------------- Object -->
