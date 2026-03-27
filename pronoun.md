@@ -19,7 +19,7 @@
 
 <!-------------------------- Subject -->
 ### Subject
-<table border="0">
+<table style="border:none;">
   <tbody>
     <tr>
     <td>
