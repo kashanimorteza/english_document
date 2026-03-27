@@ -78,6 +78,11 @@
 
 <!-------------------------- Adjective -->
 ### Adjective
+<!--------- Description -->
+```
+Adjectives often follow a form of be
+The adjective give information about a noun or pronoun that comes at the beginning of a sentence
+```
 <!--------- Noun -->
 <table><tbody>
 <tr>
