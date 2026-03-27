@@ -37,11 +37,11 @@
 <table><tbody>
 <tr>
 <td align="center">Singular</td>
-<td align="center">Me | You | Him | Her | It</td>
+<td align="center">Me / You / Him / Her / It</td>
 </tr>
 <tr>
 <td align="center">Plural</td>
-<td align="center">Us | Them</td>
+<td align="center">Yours / Us / Them</td>
 </tr>
 </tbody></table>
 

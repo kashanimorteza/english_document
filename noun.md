@@ -17,17 +17,21 @@
 <br><br>
 
 ## Singular and Plural
-```
-end with 'y' > chenge to '-ies' > cities
-Other        > add s to end     > cats
-```
+
 <table><tbody>
 <tr>
 <td align="center">Singular</td>
-<td align="center">Canada is a country | Bali is an island</td>
+<td align="center">Canada is a country</td>
+<td align="center">Bali is an island</td>
 </tr>
+</tbody></table>
+
+<table><tbody>
 <tr>
-<td align="center">Plural</td>
+<td align="center" rowspan="2">Plural</td>
+<td align="center">add s to end</td>
+<td align="center">Cats are animals</td>
+<td align="center">end with 'y' > chenge to '-ies'</td>
 <td align="center">Canada and china are countries</td>
 </tr>
 </tbody></table>
