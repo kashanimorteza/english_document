@@ -8,8 +8,7 @@
 <br><br>
 
 ## Diagram
-
-![](https://github.com/kashanimorteza/english_document/blob/main/design/definition.png)
+<p align="center"><img src="https://raw.githubusercontent.com/kashanimorteza/english_document/main/design/definition.png" /></p>
 
 
 

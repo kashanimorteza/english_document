@@ -1,7 +1,5 @@
 <!--------------------------------------------------------------------------------- Head -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kashanimorteza/english_document/main/design/general.png" />
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/kashanimorteza/english_document/main/design/general.png" /></p>
 
 
 <!--------------------------------------------------------------------------------- Resource -->
