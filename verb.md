@@ -18,8 +18,8 @@
 
 ## Be
 
-<!-------------------------- Am -->
-### AM
+<!-------------------------- Simple -->
+### Simple
 
 <table><tbody>
 <tr>
@@ -37,9 +37,6 @@
 <td align="center">I'm not</td>
 </tr>
 </tbody></table>
-
-<!-------------------------- Is -->
-### Is
 
 <table><tbody>
 <tr>
@@ -70,9 +67,6 @@
 </tr>
 </tbody></table>
 
-<!-------------------------- Are -->
-### Are
-
 <table><tbody>
 <tr>
 <td align="center" ></td>
@@ -101,6 +95,11 @@
 <td align="center">They're not | They aren't</td>
 </tr>
 </tbody></table>
+
+<!-------------------------- Adjective -->
+### Adjective
+
+
 
 
 
