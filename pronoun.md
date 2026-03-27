@@ -35,7 +35,7 @@ We | You | They
 Me | You | Him | Her | It | Us | Them
 ```
 
----
+
 
 <!--------------------------------------------------------------------------------- Possessive -->
 <br><br>
@@ -54,7 +54,7 @@ My | Your | His | Her | Its | Our | Their
 Mine | Yours | His | Hers | (Its) | Ours | Theirs
 ```
 
----
+
 
 <!--------------------------------------------------------------------------------- Reflexive -->
 <br><br>
@@ -65,7 +65,7 @@ Mine | Yours | His | Hers | (Its) | Ours | Theirs
 Myself | Yourself | Himself | Herself | Itself | Ourselves | Yourselves | Themselves
 ```
 
----
+
 
 <!--------------------------------------------------------------------------------- Reciprocal -->
 <br><br>
@@ -76,7 +76,7 @@ Myself | Yourself | Himself | Herself | Itself | Ourselves | Yourselves | Themse
 Each other | One another
 ```
 
----
+
 
 <!--------------------------------------------------------------------------------- Interrogative -->
 <br><br>
@@ -87,7 +87,7 @@ Each other | One another
 Who | Whom | Whose | Which | What
 ```
 
----
+
 
 <!--------------------------------------------------------------------------------- Relative -->
 <br><br>
@@ -98,7 +98,7 @@ Who | Whom | Whose | Which | What
 Who | Whom | Whose | Which | That
 ```
 
----
+
 
 <!--------------------------------------------------------------------------------- Demonstrative -->
 <br><br>
@@ -109,7 +109,7 @@ Who | Whom | Whose | Which | That
 This | That | These | Those
 ```
 
----
+
 
 <!--------------------------------------------------------------------------------- Indefinite -->
 <br><br>
@@ -134,7 +134,7 @@ Something | Anything | Everything | Nothing
 All | Some | Any | None | Each | Every | Few | Many | Several
 ```
 
----
+
 
 <!--------------------------------------------------------------------------------- Distributive -->
 <br><br>
@@ -145,7 +145,7 @@ All | Some | Any | None | Each | Every | Few | Many | Several
 Each | Either | Neither
 ```
 
----
+
 
 <!--------------------------------------------------------------------------------- Quantifier -->
 <br><br>
