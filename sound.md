@@ -1,6 +1,6 @@
 <!--------------------------------------------------------------------------------- Sound -->
 # Sound
-[English] > [Definition]
+[English] > [Structure]
 
 ```
 Phonology
@@ -12,8 +12,7 @@ Phonology
 <br><br>
 
 ## Diagram
-
-![](https://github.com/kashanimorteza/english_document/blob/main/design/role.png)
+<p align="center"><img src="https://raw.githubusercontent.com/kashanimorteza/english_document/main/design/sound.png" /></p>
 
 
 
@@ -40,4 +39,4 @@ Phonology
 
 <!--------------------------------------------------------------------------------- Link -->
 [English]: https://github.com/kashanimorteza/english_document/blob/main/README.md
-[Definition]: https://github.com/kashanimorteza/english_document/blob/main/definition.md
+[Structure]: https://github.com/kashanimorteza/english_document/blob/main/structure.md

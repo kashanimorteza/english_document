@@ -1,6 +1,6 @@
 <!--------------------------------------------------------------------------------- Noun -->
 # Noun
-[English] > [Definition] > [Role] > [Noun]
+[English] > [Structure] > [Noun]
 
 
 
@@ -8,8 +8,7 @@
 <br><br>
 
 ## Diagram
-
-![](https://github.com/kashanimorteza/english_document/blob/main/design/noun.png)
+<p align="center"><img src="https://raw.githubusercontent.com/kashanimorteza/english_document/main/design/noun.png" /></p>
 
 
 

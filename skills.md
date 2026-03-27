@@ -3,8 +3,12 @@
 [English]
 
 
-<!--------------------------------------------------------------------------------- Head -->
-![](https://github.com/kashanimorteza/english_document/blob/main/design/skill.png)
+
+<!--------------------------------------------------------------------------------- Diagram -->
+<br><br>
+
+## Diagram
+<p align="center"><img src="https://raw.githubusercontent.com/kashanimorteza/english_document/main/design/skill.png" /></p>
 
 
 

@@ -1,6 +1,6 @@
 <!--------------------------------------------------------------------------------- Pronoun -->
 # Pronoun
-[English] > [Structure] > [Role] > [Pronoun]
+[English] > [Structure] > [Pronoun]
 
 
 
