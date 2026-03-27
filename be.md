@@ -44,67 +44,67 @@
 
 
 
+<!--------------------------------------------------------------------------------- Contraction -->
+<br><br>
+
+## Contraction
+<table>
+  <tbody>
+    <tr>
+    <td>
+        <!---------- Singular -->
+        <table><tbody>
+        <tr><td align="center" rowspan="5">Singular</td><td align="center">I</td><td align="center">Am</td><td align="center">I'm</td></tr>
+        <tr><td align="center">You</td><td align="center">Is</td><td align="center">You're</td></tr>
+        <tr><td align="center">He</td><td align="center">Is</td><td align="center">He's</td></tr>
+        <tr><td align="center">She</td><td align="center">Is</td><td align="center">She's</td></tr>
+        <tr><td align="center">Ii</td><td align="center">Is</td><td align="center">It's</td></tr>
+        </tbody></table>
+    </td>
+    <td>
+        <!---------- Plural -->
+        <table><tbody>
+        <tr><td align="center" rowspan="3">Plural</td><td align="center">We</td><td align="center">Are</td><td align="center">We're</td></tr>
+        <tr><td align="center">You</td><td align="center">Are</td><td align="center">You're</td></tr>
+        <tr><td align="center">They</td><td align="center">Are</td><td align="center">They're</td></tr>
+        </tbody></table>
+    </td>
+    </tr>
+  </tbody>
+</table>
+
+
+<!--------------------------------------------------------------------------------- Negative -->
+<br><br>
+
+## Negative
+<table>
+  <tbody>
+    <tr>
+    <td>
+        <!---------- Singular -->
+        <table><tbody>
+        <tr><td align="center" rowspan="5">Singular</td><td align="center">I</td><td align="center">am not</td><td align="center">late</td><td align="center">I'm not</td></tr>
+        <tr><td align="center">You</td><td align="center">are not</td><td align="center">late</td><td align="center">You're not | You aren't</td></tr>
+        <tr><td align="center">He</td><td align="center">is not</td><td align="center">late</td><td align="center">He's not | He isn't</td></tr>
+        <tr><td align="center">She</td><td align="center">is not</td><td align="center">late</td><td align="center">She's not | She isn't</td></tr>
+        <tr><td align="center">Ii</td><td align="center">is not</td><td align="center">late</td><td align="center">It's not | It isn't</td></tr>
+        </tbody></table>
+    </td>
+    <td>
+        <!---------- Plural -->
+        <table><tbody>
+        <tr><td align="center" rowspan="3">Plural</td><td align="center">We</td><td align="center">are not</td><td align="center">late</td><td align="center">We're not | We aren't</td></tr>
+        <tr><td align="center">You</td><td align="center">are not</td><td align="center">late</td><td align="center">You're not | You aren't</td></tr>
+        <tr><td align="center">They</td><td align="center">are not</td><td align="center">late</td><td align="center">They're not | They aren't</td></tr>
+        </tbody></table>
+    </td>
+    </tr>
+  </tbody>
+</table>
 
 
 
-
-
-
-## Pronoun
-<table><tbody>
-<tr>
-<td align="center" ></td>
-<td align="center" >Simple</td>
-<td align="center" >Contraction</td>
-<td align="center" >Negative</td>
-<td align="center" >Contraction</td>
-</tr>
-<tr>
-<td align="center">Am</td>
-<td align="center">I am late</td>
-<td align="center">I'm</td>
-<td align="center">I am not late</td>
-<td align="center">I'm not</td>
-</tr>
-<tr>
-<td rowspan="3">Is</td>
-<td align="center">She is late</td>
-<td align="center">She's</td>
-<td align="center">She is not late</td>
-<td align="center">She's not | She isn't</td>
-</tr>
-<tr>
-<td align="center">He is late</td>
-<td align="center">He's</td>
-<td align="center">He is not late</td>
-<td align="center">He's not | He isn't</td>
-</tr>
-<tr>
-<td align="center">It is late</td>
-<td align="center">It's</td>
-<td align="center">It is not late</td>
-<td align="center">It's not | It isn't</td>
-</tr>
-<tr>
-<td rowspan="3">Are</td>
-<td align="center">You are late</td>
-<td align="center">You're</td>
-<td align="center">You are not late</td>
-<td align="center">You're not | You aren't</td>
-</tr>
-<tr>
-<td align="center">We are late</td>
-<td align="center">We're</td>
-<td align="center">We are not late</td>
-<td align="center">We're not | We aren't</td>
-</tr>
-<tr>
-<td align="center">They are late</td>
-<td align="center">They're</td>
-<td align="center">They are not late</td>
-<td align="center">They're not | They aren't</td>
-</tr>
-</tbody></table>
 
 
 
