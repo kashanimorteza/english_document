@@ -107,6 +107,35 @@
 
 
 
+<!--------------------------------------------------------------------------------- Noun -->
+<br><br>
+
+## noun
+<table>
+  <tbody>
+    <tr>
+    <td>
+        <!---------- Singular -->
+        <table><tbody>
+        <tr><td align="center" rowspan="2">Singular</td><td align="center">Canada</td><td align="center">is</td><td align="center">a country</td></tr>
+        <tr><td align="center">bali</td><td align="center">is</td><td align="center">an island</td></tr>
+        </tbody></table>
+    </td>
+    <td>
+        <!---------- Plural -->
+        <table><tbody>
+        <tr><td align="center" rowspan="2">Singular</td><td align="center">Cats</td><td align="center">are</td><td align="center">animals</td></tr>
+        <tr><td align="center">canada and china</td><td align="center">are</td><td align="center">countries</td></tr>
+        <tr><td align="center">dog and cats</td><td align="center">are</td><td align="center">animals</td></tr>
+        </tbody></table>
+    </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
 
 
 <!--------------------------------------------------------------------------------- Adjective -->
@@ -174,7 +203,7 @@ The adjectives give information about a noun or pronoun that comes at the beginn
 
 
 
-<!--------------------------------------------------------------------------------- Place -->
+<!--------------------------------------------------------------------------------- Question -->
 <br><br>
 
 ## Question
