@@ -31,11 +31,11 @@
 
 
 
-<!--------------------------------------------------------------------------------- Definition -->
+<!--------------------------------------------------------------------------------- Structure -->
 <br><br>
 
-## Definition
-[Here...](https://github.com/kashanimorteza/english_document/tree/main/definition.md)
+## Structure
+[Here...](https://github.com/kashanimorteza/english_document/tree/main/structure.md)
 
 
 

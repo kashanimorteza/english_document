@@ -1,6 +1,6 @@
-<!--------------------------------------------------------------------------------- Definition -->
-# Definition
-[English] > [Definition]
+<!--------------------------------------------------------------------------------- Structure -->
+# Structure
+[English] > [Structure]
 
 
 
@@ -8,7 +8,7 @@
 <br><br>
 
 ## Diagram
-<p align="center"><img src="https://raw.githubusercontent.com/kashanimorteza/english_document/main/design/definition.png" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/kashanimorteza/english_document/main/design/structure.png" /></p>
 
 
 
@@ -25,6 +25,14 @@
 
 ## Word
 [Here...](https://github.com/kashanimorteza/english_document/tree/main/word.md)
+
+
+
+<!--------------------------------------------------------------------------------- Be -->
+<br><br>
+
+## Be
+[Here...](https://github.com/kashanimorteza/english_document/tree/main/be.md)
 
 
 
@@ -54,4 +62,4 @@
 
 <!--------------------------------------------------------------------------------- Link -->
 [English]: https://github.com/kashanimorteza/english_document/blob/main/README.md
-[Definition]: https://github.com/kashanimorteza/english_document/blob/main/definition.md
+[Structure]: https://github.com/kashanimorteza/english_document/blob/main/definition.md

@@ -1,6 +1,6 @@
-<!--------------------------------------------------------------------------------- Verb -->
-# Verb
-[English] > [Definition] > [Role] > [Verb]
+<!--------------------------------------------------------------------------------- Be -->
+# Be
+[English] > [Structure] > [Be]
 
 
 
@@ -9,17 +9,14 @@
 
 ## Diagram
 
-![](https://github.com/kashanimorteza/english_document/blob/main/design/verb.png)
+![](https://github.com/kashanimorteza/english_document/blob/main/design/be.png)
 
 
 
-<!--------------------------------------------------------------------------------- Be -->
+<!--------------------------------------------------------------------------------- Noun -->
 <br><br>
 
-## Be
-
-<!-------------------------- Noun -->
-### Noun
+## Noun
 <table><tbody>
 <tr>
 <td align="center" ></td>
@@ -75,14 +72,17 @@
 </tr>
 </tbody></table>
 
-<!-------------------------- Adjective -->
-### Adjective
-<!--------- Description -->
+
+<!--------------------------------------------------------------------------------- Adjective -->
+<br><br>
+
+## Adjective
+<!-------------------------- Description -->
 ```
 Adjectives often follow a form of be
 The adjectives give information about a noun or pronoun that comes at the beginning of a sentence
 ```
-<!--------- Noun -->
+<!-------------------------- Noun -->
 <table><tbody>
 <tr>
 <td rowspan="2">Noun</td>
@@ -94,7 +94,7 @@ The adjectives give information about a noun or pronoun that comes at the beginn
 <td align="center">Balls are red</td>
 </tr>
 </tbody></table>
-<!--------- Pronoun -->
+<!-------------------------- Pronoun -->
 <table><tbody>
 <tr>
 <td rowspan="3">Pronoun</td>
@@ -111,8 +111,12 @@ The adjectives give information about a noun or pronoun that comes at the beginn
 </tr>
 </tbody></table>
 
-<!-------------------------- Place -->
-### Place
+
+
+<!--------------------------------------------------------------------------------- Place -->
+<br><br>
+
+## Place
 <table><tbody>
 <tr>
 <td align="center">Ali</td>
@@ -132,8 +136,12 @@ The adjectives give information about a noun or pronoun that comes at the beginn
 <tr><td align="center">Next to sara</td></tr>
 </tbody></table>
 
-<!-------------------------- Question -->
-### Question
+
+
+<!--------------------------------------------------------------------------------- Place -->
+<br><br>
+
+## Question
 
 
 
@@ -144,6 +152,6 @@ The adjectives give information about a noun or pronoun that comes at the beginn
 
 <!--------------------------------------------------------------------------------- Link -->
 [English]: https://github.com/kashanimorteza/english_document/blob/main/README.md
-[Definition]: https://github.com/kashanimorteza/english_document/blob/main/definition.md
+[Structure]: https://github.com/kashanimorteza/english_document/blob/main/definition.md
 [Role]: https://github.com/kashanimorteza/english_document/blob/main/role.md
-[Verb]: https://github.com/kashanimorteza/english_document/blob/main/verb.md
+[Be]: https://github.com/kashanimorteza/english_document/blob/main/be.md
