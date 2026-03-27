@@ -11,7 +11,14 @@
 [Tutorial](https://github.com/kashanimorteza/english_document/tree/main/doc/resource_tutorial.md)  
 [Article](https://github.com/kashanimorteza/english_document/tree/main/doc/resource_article.md)  
 [Book](https://github.com/kashanimorteza/english_document/tree/main/doc/resource_book.md)  
-[Roadmap](https://github.com/kashanimorteza/english_document/tree/main/doc/resource_roadmap.md)  
+
+
+
+<!--------------------------------------------------------------------------------- Roadmap -->
+<br><br>
+
+## Roadmap
+[Here...](https://github.com/kashanimorteza/english_document/blob/main/roadmap.md)
 
 
 
@@ -36,11 +43,3 @@
 
 ## Skill
 [Here...](https://github.com/kashanimorteza/english_document/blob/main/skills.md)
-
-
-
-<!--------------------------------------------------------------------------------- Roadmap -->
-<br><br>
-
-## Roadmap
-[Here...](https://github.com/kashanimorteza/english_document/blob/main/roadmap.md)
