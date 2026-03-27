@@ -19,6 +19,44 @@
 
 <!-------------------------- Subject -->
 ### Subject
+<div style="display: flex; justify-content: center; gap: 50px;">
+
+  <!-- Singular Div -->
+  <div>
+    <table border="0">
+      <tbody>
+        <tr>
+          <td align="center" colspan="5"><b>Singular</b></td>
+        </tr>
+        <tr>
+          <td align="center">I</td>
+          <td align="center">You</td>
+          <td align="center">He</td>
+          <td align="center">She</td>
+          <td align="center">It</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Plural Div -->
+  <div>
+    <table border="0">
+      <tbody>
+        <tr>
+          <td align="center" colspan="3"><b>Plural</b></td>
+        </tr>
+        <tr>
+          <td align="center">We</td>
+          <td align="center">You</td>
+          <td align="center">They</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+</div>
+
 <table style="border:none;">
   <tbody>
     <tr>
