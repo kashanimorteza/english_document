@@ -12,10 +12,23 @@
 
 
 
+<!--------------------------------------------------------------------------------- Description -->
+<br><br>
+
+## Description
+```
+Used for facts, habits, routines, and general truths
+```
+
+
+
 <!--------------------------------------------------------------------------------- Positive -->
 <br><br>
 
 ## Positive
+```
+Subject + base verb (+ s/es for he/she/it)
+```
 <table>
   <tbody>
     <tr>
