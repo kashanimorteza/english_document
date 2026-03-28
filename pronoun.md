@@ -162,8 +162,9 @@
         <!---------- Singular -->
         <table>
         <tbody>
-            <tr><td align="center">near</td><td align="center">this</td><td align="center">this is book</td></tr>
-            <tr><td align="center">far</td><td align="center">that</td><td align="center">that is book</td></tr>
+            <tr><td align="center" colspan="3">One</td></tr>
+            <tr><td align="center">this</td><td align="center">near</td><td align="center">this is book</td></tr>
+            <tr><td align="center">that</td><td align="center">far</td><td align="center">that is book</td></tr>
         </tbody>
         </table>
     </td>
@@ -171,8 +172,9 @@
         <!---------- Plural -->
         <table>
         <tbody>
-            <tr><td align="center">near</td><td align="center">these</td><td align="center">these are books</td></tr>
-            <tr><td align="center">far</td><td align="center">those</td><td align="center">those are books</td></tr>
+            <tr><td align="center" colspan="3">Many</td></tr>
+            <tr><td align="center">these</td><td align="center">near</td><td align="center">these are books</td></tr>
+            <tr><td align="center">those</td><td align="center">far</td><td align="center">those are books</td></tr>
         </tbody>
         </table>
     </td>
