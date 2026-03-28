@@ -211,8 +211,30 @@ The adjectives give information about a noun or pronoun that comes at the beginn
 <br><br>
 
 ## Question
-
-
+<table>
+  <tbody>
+    <tr>
+    <td>
+        <!---------- Singular -->
+        <table><tbody>
+        <tr><td align="center" rowspan="5">Singular</td><td align="center">am</td><td align="center">i</td><td align="center">late?</td></tr>
+        <tr><td align="center">is</td><td align="center">you</td><td align="center">late?</td></tr>
+        <tr><td align="center">is</td><td align="center">he</td><td align="center">late?</td></tr>
+        <tr><td align="center">is</td><td align="center">she</td><td align="center">late?</td></tr>
+        <tr><td align="center">is</td><td align="center">it</td><td align="center">late?</td></tr>
+        </tbody></table>
+    </td>
+    <td>
+        <!---------- Plural -->
+        <table><tbody>
+        <tr><td align="center" rowspan="3">Plural</td><td align="center">are</td><td align="center">we</td><td align="center">late?</td></tr>
+        <tr><td align="center">are</td><td align="center">you</td><td align="center">late?</td></tr>
+        <tr><td align="center">are</td><td align="center">they</td><td align="center">late?</td></tr>
+        </tbody></table>
+    </td>
+    </tr>
+  </tbody>
+</table>
 
 
 
