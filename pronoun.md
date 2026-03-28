@@ -19,6 +19,9 @@
 
 <!-------------------------- Subject -->
 ### Subject
+```
+ضمایر فاعلی شخصی
+```
 <table>
   <tbody>
     <tr>
@@ -26,16 +29,8 @@
         <!---------- Singular -->
         <table>
         <tbody>
-            <tr>
-            <td align="center" colspan="6">Singular</td>
-            </tr>
-            <tr>
-            <td align="center">I</td>
-            <td align="center">You</td>
-            <td align="center">He</td>
-            <td align="center">She</td>
-            <td align="center">It</td>
-            </tr>
+            <tr><td align="center" colspan="6">Singular</td></tr>
+            <tr><td align="center">I</td><td align="center">You</td><td align="center">He</td><td align="center">She</td><td align="center">It</td></tr>
         </tbody>
         </table>
     </td>
@@ -43,14 +38,8 @@
         <!---------- Plural -->
         <table>
         <tbody>
-            <tr>
-            <td align="center" colspan="4">Plural</td>
-            </tr>
-            <tr>
-            <td align="center">We</td>
-            <td align="center">You</td>
-            <td align="center">They</td>
-            </tr>
+            <tr><td align="center" colspan="4">Plural</td></tr>
+            <tr><td align="center">We</td><td align="center">You</td><td align="center">They</td></tr>
         </tbody>
         </table>
     </td>
@@ -58,20 +47,35 @@
   </tbody>
 </table>
 
-
-
 <!-------------------------- Object -->
 ### Object
-<table><tbody>
-<tr>
-<td align="center">Singular</td>
-<td align="center">Me / You / Him / Her / It</td>
-</tr>
-<tr>
-<td align="center">Plural</td>
-<td align="center">Yours / Us / Them</td>
-</tr>
-</tbody></table>
+```
+ضمایر مفعولی شخصی
+```
+<table>
+  <tbody>
+    <tr>
+    <td>
+        <!---------- Singular -->
+        <table>
+        <tbody>
+            <tr><td align="center" colspan="6">Singular</td></tr>
+            <tr><td align="center">me</td><td align="center">you</td><td align="center">him</td><td align="center">her</td><td align="center">Itit</td></tr>
+        </tbody>
+        </table>
+    </td>
+    <td>
+        <!---------- Plural -->
+        <table>
+        <tbody>
+            <tr><td align="center" colspan="4">Plural</td></tr>
+            <tr><td align="center">us</td><td align="center">yours</td><td align="center">them</td></tr>
+        </tbody>
+        </table>
+    </td>
+    </tr>
+  </tbody>
+</table>
 
 
 
@@ -83,14 +87,62 @@
 <!-------------------------- Adjectives -->
 ### Possessive Adjectives
 ```
-My | Your | His | Her | Its | Our | Their
+صفت‌های ملکی
 ```
+<table>
+  <tbody>
+    <tr>
+    <td>
+        <!---------- Singular -->
+        <table>
+        <tbody>
+            <tr><td align="center" colspan="6">Singular</td></tr>
+            <tr><td align="center">my</td><td align="center">your</td><td align="center">his</td><td align="center">her</td><td align="center">its</td></tr>
+        </tbody>
+        </table>
+    </td>
+    <td>
+        <!---------- Plural -->
+        <table>
+        <tbody>
+            <tr><td align="center" colspan="4">Plural</td></tr>
+            <tr><td align="center">our</td><td align="center">your</td><td align="center">their</td></tr>
+        </tbody>
+        </table>
+    </td>
+    </tr>
+  </tbody>
+</table>
 
 <!-------------------------- Pronouns -->
 ### Possessive Pronouns
 ```
-Mine | Yours | His | Hers | (Its) | Ours | Theirs
+ضمایر ملکی
 ```
+<table>
+  <tbody>
+    <tr>
+    <td>
+        <!---------- Singular -->
+        <table>
+        <tbody>
+            <tr><td align="center" colspan="6">Singular</td></tr>
+            <tr><td align="center">mine</td><td align="center">yours</td><td align="center">his</td><td align="center">hers</td><td align="center">its</td></tr>
+        </tbody>
+        </table>
+    </td>
+    <td>
+        <!---------- Plural -->
+        <table>
+        <tbody>
+            <tr><td align="center" colspan="4">Plural</td></tr>
+            <tr><td align="center">ours</td><td align="center">yours</td><td align="center">theirs</td></tr>
+        </tbody>
+        </table>
+    </td>
+    </tr>
+  </tbody>
+</table>
 
 
 

@@ -218,7 +218,7 @@ The adjectives give information about a noun or pronoun that comes at the beginn
         <!---------- Singular -->
         <table><tbody>
         <tr><td align="center" rowspan="5">Singular</td><td align="center">am</td><td align="center">i</td><td align="center">late?</td><td align="center">yes, i am</td></tr>
-        <tr><td align="center">is</td><td align="center">you</td><td align="center">late?</td><td align="center">yes, i am</td></tr>
+        <tr><td align="center">are</td><td align="center">you</td><td align="center">late?</td><td align="center">yes, i am</td></tr>
         <tr><td align="center">is</td><td align="center">he</td><td align="center">late?</td><td align="center">yes, he is</td></tr>
         <tr><td align="center">is</td><td align="center">she</td><td align="center">late?</td><td align="center">yes, she is</td></tr>
         <tr><td align="center">is</td><td align="center">it</td><td align="center">late?</td><td align="center">yes, it is</td></tr>
@@ -242,8 +242,8 @@ The adjectives give information about a noun or pronoun that comes at the beginn
         <!---------- Singular -->
         <table><tbody>
         <tr>
-        <td align="center" rowspan="5">Singular</td><td align="center">where</td><td align="center">am</td><td align="center">i</td></tr>
-        <tr><td align="center">where</td><td align="center">is</td><td align="center">you?</td></tr>
+        <td align="center" rowspan="5">Singular</td><td align="center">where</td><td align="center">am</td><td align="center">i?</td></tr>
+        <tr><td align="center">where</td><td align="center">are</td><td align="center">you?</td></tr>
         <tr><td align="center">where</td><td align="center">is</td><td align="center">he?</td></tr>
         <tr><td align="center">where</td><td align="center">is</td><td align="center">she?</td></tr>
         <tr><td align="center">where</td><td align="center">is</td><td align="center">it?</td></tr>
@@ -259,8 +259,7 @@ The adjectives give information about a noun or pronoun that comes at the beginn
     </td>
     </tr>
   </tbody>
-</table>s
-
+</table>
 
 
 
