@@ -211,6 +211,8 @@ The adjectives give information about a noun or pronoun that comes at the beginn
 <br><br>
 
 ## Question
+<!-------------------------- Simple -->
+### Simple
 <table>
   <tbody>
     <tr>
@@ -235,6 +237,9 @@ The adjectives give information about a noun or pronoun that comes at the beginn
     </tr>
   </tbody>
 </table>
+
+<!-------------------------- Where -->
+### Where
 <table>
   <tbody>
     <tr>
@@ -261,6 +266,33 @@ The adjectives give information about a noun or pronoun that comes at the beginn
   </tbody>
 </table>
 
+<!-------------------------- What/who -->
+### What/Who 
+<table>
+  <tbody>
+    <tr>
+    <td>
+        <!---------- Singular -->
+        <table><tbody>
+        <tr>
+        <td align="center" rowspan="5">Singular</td><td align="center">who</td><td align="center">am</td><td align="center">i?</td></tr>
+        <tr><td align="center">who</td><td align="center">are</td><td align="center">you?</td></tr>
+        <tr><td align="center">who</td><td align="center">is</td><td align="center">he?</td></tr>
+        <tr><td align="center">who</td><td align="center">is</td><td align="center">she?</td></tr>
+        <tr><td align="center">what</td><td align="center">is</td><td align="center">it?</td></tr>
+        </tbody></table>
+    </td>
+    <td>
+        <!---------- Plural -->
+        <table><tbody>
+        <tr><td align="center" rowspan="3">Plural</td><td align="center">who</td><td align="center">are</td><td align="center">we?</td></tr>
+        <tr><td align="center">who</td><td align="center">are</td><td align="center">you?</td></tr>
+        <tr><td align="center">who</td><td align="center">are</td><td align="center">they?</td></tr>
+        </tbody></table>
+    </td>
+    </tr>
+  </tbody>
+</table>
 
 
 
