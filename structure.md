@@ -42,7 +42,7 @@
 
 <!-------------------------- Time -->
 ### Time
-[Present](https://github.com/kashanimorteza/english_document/tree/main/present.md)
+[Simple Present](https://github.com/kashanimorteza/english_document/tree/main/simple_present.md)
 [Past](https://github.com/kashanimorteza/english_document/tree/main/past.md)
 [Future](https://github.com/kashanimorteza/english_document/tree/main/future.md)
 [Present Continuous](https://github.com/kashanimorteza/english_document/tree/main/present-continuous.md)
