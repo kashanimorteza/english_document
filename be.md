@@ -267,7 +267,7 @@ The adjectives give information about a noun or pronoun that comes at the beginn
 </table>
 
 <!-------------------------- What/who -->
-### What/Who 
+### What / Who 
 <table>
   <tbody>
     <tr>
