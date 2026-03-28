@@ -24,6 +24,9 @@
 
 ## Step-2
 [Be : Question](https://github.com/kashanimorteza/english_document/tree/main/be.md#question)  
+[Have : Pronoun](https://github.com/kashanimorteza/english_document/tree/main/have.md#pronoun)  
+[Pronoun : Possessive-Adjectives](https://github.com/kashanimorteza/english_document/tree/main/pronoun.md#possessive-adjectives) 
+[Pronoun : Demonstrative](https://github.com/kashanimorteza/english_document/tree/main/pronoun.md#demonstrative)  
 
 
 

@@ -148,6 +148,44 @@
 
 
 
+<!--------------------------------------------------------------------------------- Demonstrative -->
+<br><br>
+
+## Demonstrative
+```
+ضمایر اشاره
+```
+<table>
+  <tbody>
+    <tr>
+    <td>
+        <!---------- Singular -->
+        <table>
+        <tbody>
+            <tr><td align="center">near</td><td align="center">this</td><td align="center">this is book</td></tr>
+            <tr><td align="center">far</td><td align="center">that</td><td align="center">that is book</td></tr>
+        </tbody>
+        </table>
+    </td>
+    <td>
+        <!---------- Plural -->
+        <table>
+        <tbody>
+            <tr><td align="center">near</td><td align="center">these</td><td align="center">these are books</td></tr>
+            <tr><td align="center">far</td><td align="center">those</td><td align="center">those are books</td></tr>
+        </tbody>
+        </table>
+    </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
+
+
 <!--------------------------------------------------------------------------------- Reflexive -->
 <br><br>
 
@@ -192,14 +230,6 @@ Who | Whom | Whose | Which | That
 
 
 
-<!--------------------------------------------------------------------------------- Demonstrative -->
-<br><br>
-
-## Demonstrative
-
-```
-This | That | These | Those
-```
 
 
 
