@@ -89,6 +89,39 @@ Subject + do/does + not + base verb
 </table>
 
 
+<!--------------------------------------------------------------------------------- Question -->
+<br><br>
+
+## Question
+```
+Do/Does + subject + base verb?
+```
+<table>
+  <tbody>
+    <tr>
+    <td>
+        <!---------- Singular -->
+        <table><tbody>
+        <tr><td align="center" rowspan="5">Singular</td><td align="center">do</td><td align="center">I</td><td align="center">work?</td></tr>
+        <tr><td align="center">do</td><td align="center">you</td><td align="center">work?</td></tr>
+        <tr><td align="center">does</td><td align="center">he</td><td align="center">work?</td></tr>
+        <tr><td align="center">does</td><td align="center">she</td><td align="center">work?</td></tr>
+        <tr><td align="center">does</td><td align="center">it</td><td align="center">work?</td></tr>
+        </tbody></table>
+    </td>
+    <td>
+        <!---------- Plural -->
+        <table><tbody>
+        <tr><td align="center" rowspan="3">Plural</td><td align="center">do</td><td align="center">we</td><td align="center">work?</td></tr>
+        <tr><td align="center">do</td><td align="center">you</td><td align="center">work?</td></tr>
+        <tr><td align="center">do</td><td align="center">they</td><td align="center">work?</td></tr>
+        </tbody></table>
+    </td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 
 <!--------------------------------------------------------------------------------- Link -->
