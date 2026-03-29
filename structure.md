@@ -26,7 +26,7 @@
 <br>
 
 ## Auxiliary verb
-<p align="right"><img src="https://raw.githubusercontent.com/kashanimorteza/english_document/main/design/verb_auxiliary.png" /></p>
+<p align="left"><img src="https://raw.githubusercontent.com/kashanimorteza/english_document/main/design/verb_auxiliary.png" /></p>
 
 [Be](https://github.com/kashanimorteza/english_document/tree/main/be.md)  
 [Have](https://github.com/kashanimorteza/english_document/tree/main/have.md)  
@@ -39,7 +39,7 @@
 <br>
 
 ## Role
-<p align="right"><img src="https://raw.githubusercontent.com/kashanimorteza/english_document/main/design/role.png" /></p>
+<p align="left"><img src="https://raw.githubusercontent.com/kashanimorteza/english_document/main/design/role.png" /></p>
 
 [Noun](https://github.com/kashanimorteza/english_document/tree/main/noun.md)  
 [Verb](https://github.com/kashanimorteza/english_document/tree/main/verb.md)  
