@@ -26,7 +26,9 @@
 <br><br>
 
 ## Auxiliary verb
-<p align="left"><img src="https://raw.githubusercontent.com/kashanimorteza/english_document/main/design/verb_auxiliary.png" /></p>
+
+
+[B<p align="left"><img src="https://raw.githubusercontent.com/kashanimorteza/english_document/main/design/verb_auxiliary.png" /></p>e](https://github.com/kashanimorteza/english_document/tree/main/be.md)  
 
 [Be](https://github.com/kashanimorteza/english_document/tree/main/be.md)  
 [Have](https://github.com/kashanimorteza/english_document/tree/main/have.md)  
