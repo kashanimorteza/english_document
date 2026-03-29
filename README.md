@@ -1,9 +1,5 @@
 <!--------------------------------------------------------------------------------- English -->
 # English
-[English]
-
-<p align="center"><img src="https://raw.githubusercontent.com/kashanimorteza/english_document/main/design/general.png" /></p>
-
 
 [Resource](https://github.com/kashanimorteza/english_document/blob/main/resourc.md)  
 [Roadmap](https://github.com/kashanimorteza/english_document/blob/main/roadmap.md)  

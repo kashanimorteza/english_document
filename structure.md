@@ -2,8 +2,6 @@
 # Structure
 [English] > [Structure]
 
-<p align="center"><img src="https://raw.githubusercontent.com/kashanimorteza/english_document/main/design/structure.png" /></p>
-
 
 
 <!--------------------------------------------------------------------------------- Sound -->
@@ -27,9 +25,6 @@
 
 ## Auxiliary verb
 
-
-[B<p align="left"><img src="https://raw.githubusercontent.com/kashanimorteza/english_document/main/design/verb_auxiliary.png" /></p>e](https://github.com/kashanimorteza/english_document/tree/main/be.md)  
-
 [Be](https://github.com/kashanimorteza/english_document/tree/main/be.md)  
 [Have](https://github.com/kashanimorteza/english_document/tree/main/have.md)  
 [Do](https://github.com/kashanimorteza/english_document/tree/main/do.md)  
@@ -41,8 +36,6 @@
 <br><br>
 
 ## Role
-<p align="left"><img src="https://raw.githubusercontent.com/kashanimorteza/english_document/main/design/role.png" /></p>
-
 [Noun](https://github.com/kashanimorteza/english_document/tree/main/noun.md)  
 [Verb](https://github.com/kashanimorteza/english_document/tree/main/verb.md)  
 [Adjective](https://github.com/kashanimorteza/english_document/tree/main/adjective.md)  
