@@ -12,11 +12,18 @@
 
 
 
-<!--------------------------------------------------------------------------------- Base -->
+<!--------------------------------------------------------------------------------- Sound -->
 <br>
 
-## Base
-[Sound](https://github.com/kashanimorteza/english_document/tree/main/sound.md)  
+## Sound
+[Sound](https://github.com/kashanimorteza/english_document/tree/main/sound.md)
+
+
+
+<!--------------------------------------------------------------------------------- Word -->
+<br>
+
+## Word
 [Word](https://github.com/kashanimorteza/english_document/tree/main/word.md)  
 
 
@@ -24,7 +31,9 @@
 <!--------------------------------------------------------------------------------- Auxiliary verb -->
 <br>
 
-## Auxiliary verbs
+## Auxiliary verb
+<p align="center"><img src="https://raw.githubusercontent.com/kashanimorteza/english_document/main/design/verb_auxiliary.png" /></p>
+
 [Be](https://github.com/kashanimorteza/english_document/tree/main/be.md)  
 [Have](https://github.com/kashanimorteza/english_document/tree/main/have.md)  
 [Do](https://github.com/kashanimorteza/english_document/tree/main/do.md)  
@@ -36,6 +45,8 @@
 <br>
 
 ## Role
+<p align="center"><img src="https://raw.githubusercontent.com/kashanimorteza/english_document/main/design/role.png" /></p>
+
 [Noun](https://github.com/kashanimorteza/english_document/tree/main/noun.md)  
 [Verb](https://github.com/kashanimorteza/english_document/tree/main/verb.md)  
 [Adjective](https://github.com/kashanimorteza/english_document/tree/main/adjective.md)  
