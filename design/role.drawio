@@ -1,32 +1,32 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.1 Chrome/142.0.7444.265 Electron/39.8.0 Safari/537.36" version="29.6.1" pages="2">
   <diagram name="AI" id="fiwOMywQT2bl2BIg0qe0">
-    <mxGraphModel dx="1872" dy="1830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2076" dy="1976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HRdKpd_t4PCCufJs8SFI-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=24;" value="Adjective" vertex="1">
-          <mxGeometry height="110" width="110" x="240" y="-90" as="geometry" />
+          <mxGeometry height="110" width="110" x="-340" y="-1080" as="geometry" />
         </mxCell>
         <mxCell id="aeT9FSfwdUyCj6KDq3xD-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=24;" value="Pronoun" vertex="1">
-          <mxGeometry height="110" width="110" y="-90" as="geometry" />
+          <mxGeometry height="110" width="110" x="-580" y="-1080" as="geometry" />
         </mxCell>
         <mxCell id="COEvjrz7dM8iQSiR4-q4-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=24;" value="Verb" vertex="1">
-          <mxGeometry height="110" width="110" x="-120" y="-90" as="geometry" />
+          <mxGeometry height="110" width="110" x="-700" y="-1080" as="geometry" />
         </mxCell>
         <mxCell id="nO5MLRyQDXAvk3Oy3mln-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=24;" value="Adverb" vertex="1">
-          <mxGeometry height="110" width="110" x="120" y="-90" as="geometry" />
+          <mxGeometry height="110" width="110" x="-460" y="-1080" as="geometry" />
         </mxCell>
         <mxCell id="SvB1TmC0K4GEKoGrgyMx-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=default;fillColor=default;" value="Noun" vertex="1">
-          <mxGeometry height="110" width="110" x="-240" y="-90" as="geometry" />
+          <mxGeometry height="110" width="110" x="-820" y="-1080" as="geometry" />
         </mxCell>
         <mxCell id="WHLnvbmspYgvutdc24nB-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=default;fillColor=default;" value="&lt;span&gt;Preposition&lt;/span&gt;" vertex="1">
-          <mxGeometry height="130" width="130" x="-40" y="30" as="geometry" />
+          <mxGeometry height="130" width="130" x="-80" y="-1090" as="geometry" />
         </mxCell>
         <mxCell id="WHLnvbmspYgvutdc24nB-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=default;fillColor=default;" value="&lt;span&gt;Interjection&lt;/span&gt;" vertex="1">
-          <mxGeometry height="130" width="130" x="-180" y="30" as="geometry" />
+          <mxGeometry height="130" width="130" x="-220" y="-1090" as="geometry" />
         </mxCell>
         <mxCell id="WHLnvbmspYgvutdc24nB-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=default;fillColor=default;" value="&lt;span&gt;Conjuction&lt;/span&gt;" vertex="1">
-          <mxGeometry height="130" width="130" x="100" y="30" as="geometry" />
+          <mxGeometry height="130" width="130" x="60" y="-1090" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -7,7 +7,7 @@
 
 
 <!--------------------------------------------------------------------------------- Sound -->
-<br>
+<br><br>
 
 ## Sound
 [Sound](https://github.com/kashanimorteza/english_document/tree/main/sound.md)
@@ -15,7 +15,7 @@
 
 
 <!--------------------------------------------------------------------------------- Word -->
-<br>
+<br><br>
 
 ## Word
 [Word](https://github.com/kashanimorteza/english_document/tree/main/word.md)  
@@ -23,7 +23,7 @@
 
 
 <!--------------------------------------------------------------------------------- Auxiliary verb -->
-<br>
+<br><br>
 
 ## Auxiliary verb
 <p align="left"><img src="https://raw.githubusercontent.com/kashanimorteza/english_document/main/design/verb_auxiliary.png" /></p>
@@ -36,7 +36,7 @@
 
 
 <!--------------------------------------------------------------------------------- Role -->
-<br>
+<br><br>
 
 ## Role
 <p align="left"><img src="https://raw.githubusercontent.com/kashanimorteza/english_document/main/design/role.png" /></p>
@@ -55,7 +55,7 @@
 
 
 <!--------------------------------------------------------------------------------- Time -->
-<br>
+<br><br>
 
 ## Time
 [Simple Present](https://github.com/kashanimorteza/english_document/tree/main/simple_present.md)  
@@ -68,7 +68,7 @@
 
 
 <!--------------------------------------------------------------------------------- Type -->
-<br>
+<br><br>
 
 ## Type
 [Statement](https://github.com/kashanimorteza/english_document/tree/main/type.md)  
