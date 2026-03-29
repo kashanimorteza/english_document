@@ -2,12 +2,6 @@
 # Structure
 [English] > [Structure]
 
-
-
-<!--------------------------------------------------------------------------------- Diagram -->
-<br>
-
-## Diagram
 <p align="center"><img src="https://raw.githubusercontent.com/kashanimorteza/english_document/main/design/structure.png" /></p>
 
 
