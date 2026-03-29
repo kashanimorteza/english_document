@@ -1,71 +1,99 @@
-<style>
-.md0{padding-bottom: 150px;}
-.md1{padding-bottom: 75px;}
-.md2{padding-bottom: 50px;}
-.md3{padding-bottom: 25px;}
-.md4{padding-bottom: 5px;}
-.md5{padding-bottom: 10px;}
-.a{display: inline-block;width: 50px;background-color: white}
-.b{display: inline-block;width: 150px;background-color: white}
-.c{display: inline-block;width: 450px;background-color: white}
-.d{display: inline-block;width: 400px;background-color: white}
-.tbl1 td#header{background-color: D1ECCF}
-.tbl1 tr#header{background-color: D1ECCF}
-.red{color:#E74C3C}
-.blue{color:#3498DB}
-.green{color:#28B463}
-table{border: 0px solid black;}
-.child {display:inline-block;vertical-align: top;margin-right: 10px;}
-</style>
-
-# [<span style="color:black;">Adverb</span>](../index.md) 
-
-[English](index.md) |
-[Verb](verb.md) |
-[Name](name.md) | 
-[Adjective](adjective.md) | 
-[Pronouns](pronouns.md) | 
-[Adverb](adverb.md) | 
-[Preposition](preposition.md) | 
-[Prefix](prefix.md) | 
-[Postfix](postfix.md) | 
-[Interjection](interjection.md) |
-[Conjunction](conjunction.md) |
-[Subject](subject.md)
-
-<div align="left"><img src="diagram/adverb.jpeg"></div>
-
-<a href="#aaa">AAA</a> - 
-<a href="#aaa">AAA</a> - 
-<a href="#aaa">AAA</a> - 
+<!--------------------------------------------------------------------------------- Adverb -->
+# Adverb
+[English] > [Structure] > [Adverb]
 
 
 
-<!------------------------------------------------------------------- [ AAA ] --->
-<div class="md5"></div>
+<!--------------------------------------------------------------------------------- Frequency -->
+<br><br>
 
-## AAA
+## Frequency
+<table>
+  <tbody>
+    <tr>
+      <td>Always</td>
+      <td>100%</td>
+      <td>I always drink coffee</td>
+    </tr>
+    <tr>
+      <td>Usually</td>
+      <td>80–90%</td>
+      <td>I usually wake up early</td>
+    </tr>
+    <tr>
+      <td>Often</td>
+      <td>60–70%</td>
+      <td>I often read books</td>
+    </tr>
+    <tr>
+      <td>Sometimes</td>
+      <td>40–50%</td>
+      <td>I sometimes watch TV</td>
+    </tr>
+    <tr>
+      <td>Rarely</td>
+      <td>10–20%</td>
+      <td>I rarely eat fast food</td>
+    </tr>
+    <tr>
+      <td>Never</td>
+      <td>0%</td>
+      <td>I never smoke</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<!--------------------------------------------------------------------------------- Manner -->
+<br><br>
+
+## Manner
 
 
 
+<!--------------------------------------------------------------------------------- Time -->
+<br><br>
 
-<!------------------------------------------------------------------- [ BBB ] --->
-<div class="md1"></div>
-
-## BBB
-
+## Time
 
 
-<!------------------------------------------------------------------- [ Note ] --->
-<div class="md1"></div>
 
-## Note
+<!--------------------------------------------------------------------------------- Place -->
+<br><br>
 
-<div class="" align="left" dir="rtl">
-<div class="md4"></div>
-<div class="md4"></div>
-<div class="md4"></div>
-<div class="md4"></div>
-<div class="md4"></div>
-<div class="md4"></div>
-</div>
+## Place
+
+
+
+<!--------------------------------------------------------------------------------- Degree -->
+<br><br>
+
+## Degree
+
+
+
+<!--------------------------------------------------------------------------------- Certainty -->
+<br><br>
+
+## Certainty
+
+
+
+<!--------------------------------------------------------------------------------- Interrogative -->
+<br><br>
+
+## Interrogative
+
+
+
+<!--------------------------------------------------------------------------------- Relative -->
+<br><br>
+
+## Relative
+
+
+
+<!--------------------------------------------------------------------------------- Link -->
+[English]: https://github.com/kashanimorteza/english_document/blob/main/README.md
+[Structure]: https://github.com/kashanimorteza/english_document/blob/main/structure.md
+[Adverb]: https://github.com/kashanimorteza/english_document/blob/main/adverb.md

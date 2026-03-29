@@ -123,10 +123,12 @@ Do/Does + subject + base verb?
 
 <table>
   <tbody>
-    <tr><td>Daily routines</td><td>I wake up at 7</td><td>She goes to school</td></tr>
-    <tr><td>Facts / general truths</td><td>The sun rises in the east</td><td>Water boils at 100°C</td></tr>
+    <tr><td>Facts</td><td>The sun rises in the east</td><td>Water boils at 100°C</td></tr>
     <tr><td>Habits</td><td>I drink coffee every day</td><td>He plays football on weekends</td></tr>
-    <tr><td>Timetables / schedules</td><td>The train leaves at 6</td><td>The class starts at 9</td></tr>
+    <tr><td>Daily routines</td><td>I wake up at 7</td><td>She goes to school</td></tr>
+    <tr><td>General Truths</td><td>Birds fly</td><td>Fish live in water</td></tr>
+    <tr><td>Habits</td><td>I drink coffee every day</td><td>He plays football on weekends</td></tr>
+    <tr><td>Habits</td><td>I drink coffee every day</td><td>He plays football on weekends</td></tr>
   </tbody>
 </table>
 
