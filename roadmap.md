@@ -33,7 +33,8 @@
 <br><br>
 
 ## Step-3
-[Time : Simple Present](https://github.com/kashanimorteza/english_document/tree/main/tense_simple_present.md#positive)  
+[Verb : 3rd persion](https://github.com/kashanimorteza/english_document/tree/main/verb.md#he--she--it-rule) 
+[Tense : Simple Present](https://github.com/kashanimorteza/english_document/tree/main/tense_simple_present.md#positive)  
 
 
 

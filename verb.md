@@ -38,9 +38,9 @@ The verb after 3rd persion singular has final -s
 
 <table>
   <tbody>
-    <tr><td>work</td><td>works</td></tr>
-    <tr><td>go</td><td>goes</td></tr>
-    <tr><td>watch</td><td>watches</td></tr>
+    <tr><td>work</td><td>-s</td><td>works</td></tr>
+    <tr><td>go</td><td>-es</td><td>goes</td></tr>
+    <tr><td>watch</td><td>-es</td><td>watches</td></tr>
   </tbody>
 </table>
 
