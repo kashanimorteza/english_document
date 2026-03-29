@@ -2,20 +2,9 @@
 # English
 [English]
 
-
-
-<!--------------------------------------------------------------------------------- Diagram -->
-<br>
-
-## Diagram
 <p align="center"><img src="https://raw.githubusercontent.com/kashanimorteza/english_document/main/design/general.png" /></p>
 
 
-
-<!--------------------------------------------------------------------------------- Content -->
-<br>
-
-## Content
 [Resource](https://github.com/kashanimorteza/english_document/blob/main/resourc.md)  
 [Roadmap](https://github.com/kashanimorteza/english_document/blob/main/roadmap.md)  
 [Structure](https://github.com/kashanimorteza/english_document/tree/main/structure.md)  
