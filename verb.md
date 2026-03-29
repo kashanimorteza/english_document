@@ -9,8 +9,33 @@
 
 ## He / She / It Rule
 ```
-Add -s / -es to the verb
+The verb after 3rd persion singular has final -s
 ```
+<table>
+  <tbody>
+    <tr>
+    <td>
+        <!---------- Singular -->
+        <table><tbody>
+        <tr><td align="center" rowspan="5">Singular</td><td align="center">I</td><td align="center">work</td></tr>
+        <tr><td align="center">you</td><td align="center">work</td></tr>
+        <tr><td align="center">he</td><td align="center">works</td></tr>
+        <tr><td align="center">she</td><td align="center">works</td></tr>
+        <tr><td align="center">it</td><td align="center">works</td></tr>
+        </tbody></table>
+    </td>
+    <td>
+        <!---------- Plural -->
+        <table><tbody>
+        <tr><td align="center" rowspan="3">Plural</td><td align="center">we</td><td align="center">work</td></tr>
+        <tr><td align="center">you</td><td align="center">work</td></tr>
+        <tr><td align="center">they</td><td align="center">work</td></tr>
+        </tbody></table>
+    </td>
+    </tr>
+  </tbody>
+</table>
+
 <table>
   <tbody>
     <tr><td>work</td><td>works</td></tr>
@@ -23,5 +48,5 @@ Add -s / -es to the verb
 
 <!--------------------------------------------------------------------------------- Link -->
 [English]: https://github.com/kashanimorteza/english_document/blob/main/README.md
-[Definition]: https://github.com/kashanimorteza/english_document/blob/main/definition.md
+[Structure]: https://github.com/kashanimorteza/english_document/blob/main/structure.md
 [Verb]: https://github.com/kashanimorteza/english_document/blob/main/verb.md
