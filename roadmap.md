@@ -36,7 +36,7 @@
 
 ## Step-3
 [Verb : 3rd persion](https://github.com/kashanimorteza/english_document/tree/main/verb.md#he--she--it-rule)  
-[Tense : Simple Present](https://github.com/kashanimorteza/english_document/tree/main/tense_simple_present.md#positive)  
+[Tense : Simple Present : Positive](https://github.com/kashanimorteza/english_document/tree/main/tense_simple_present.md#positive)  
 [Adverb : Frequency](https://github.com/kashanimorteza/english_document/tree/main/adverb.md#frequency)  
 [Word : Spelling and Pronunciation of Final -es](https://github.com/kashanimorteza/english_document/tree/main/word.md#spelling-and-pronunciation-of-final--es)  
 [Word : Adding Final -s -es to Words That End in -y](https://github.com/kashanimorteza/english_document/tree/main/word.md#adding-final--s--es-to-words-that-end-in--y)  
@@ -44,6 +44,11 @@
 [Go : Positive](https://github.com/kashanimorteza/english_document/tree/main/go.md#positive)  
 [Go : 3rd persion](https://github.com/kashanimorteza/english_document/tree/main/go.md#3rd-persion)  
 [Verb : To + Verb](https://github.com/kashanimorteza/english_document/tree/main/verb.md#to--verb)  
+[Tense : Simple Present : Negative](https://github.com/kashanimorteza/english_document/tree/main/tense_simple_present.md#negative)  
+[Tense : Simple Present : Question : Do](https://github.com/kashanimorteza/english_document/tree/main/tense_simple_present.md#question-do)  
+[Tense : Simple Present : Question : WH](https://github.com/kashanimorteza/english_document/tree/main/tense_simple_present.md#question-wh)  
+
+
 
 
 <!--------------------------------------------------------------------------------- Link -->

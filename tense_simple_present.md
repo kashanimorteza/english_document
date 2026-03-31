@@ -82,10 +82,10 @@ Subject + do/does + not + base verb
 
 
 
-<!--------------------------------------------------------------------------------- Question -->
+<!--------------------------------------------------------------------------------- Question Do -->
 <br><br>
 
-## Question
+## Question Do
 ```
 Do/Does + subject + base verb?
 ```
@@ -95,19 +95,53 @@ Do/Does + subject + base verb?
     <td>
         <!---------- Singular -->
         <table><tbody>
-        <tr><td align="center" rowspan="5">Singular</td><td align="center">do</td><td align="center">I</td><td align="center">work?</td></tr>
-        <tr><td align="center">do</td><td align="center">you</td><td align="center">work?</td></tr>
-        <tr><td align="center">does</td><td align="center">he</td><td align="center">work?</td></tr>
-        <tr><td align="center">does</td><td align="center">she</td><td align="center">work?</td></tr>
-        <tr><td align="center">does</td><td align="center">it</td><td align="center">work?</td></tr>
+        <tr><td align="center" rowspan="5">Singular</td><td align="center">do</td><td align="center">I</td><td align="center">work?</td><td align="center">Yes, i am | No, i am not</td></tr>
+        <tr><td align="center">do</td><td align="center">you</td><td align="center">work?</td><td align="center">Yes, i do | No, i do not</td></tr>
+        <tr><td align="center">does</td><td align="center">he</td><td align="center">work?</td><td align="center">Yes, he is | No, he does not</td></tr>
+        <tr><td align="center">does</td><td align="center">she</td><td align="center">work?</td><td align="center">Yes, she is | No, she does not</td></tr>
+        <tr><td align="center">does</td><td align="center">it</td><td align="center">work?</td><td align="center">Yes, it does | No, it does not</td></tr>
         </tbody></table>
     </td>
     <td>
         <!---------- Plural -->
         <table><tbody>
-        <tr><td align="center" rowspan="3">Plural</td><td align="center">do</td><td align="center">we</td><td align="center">work?</td></tr>
-        <tr><td align="center">do</td><td align="center">you</td><td align="center">work?</td></tr>
-        <tr><td align="center">do</td><td align="center">they</td><td align="center">work?</td></tr>
+        <tr><td align="center" rowspan="3">Plural</td><td align="center">do</td><td align="center">we</td><td align="center">work?</td><td align="center">work?</td><td align="center">Yes, we do | No, we do not</td></tr>
+        <tr><td align="center">do</td><td align="center">you</td><td align="center">work?</td><td align="center">work?</td><td align="center">Yes, we do | No, we do not</td></tr>
+        <tr><td align="center">do</td><td align="center">they</td><td align="center">work?</td><td align="center">work?</td><td align="center">Yes, they do | No, they do not</td></tr>
+        </tbody></table>
+    </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+<!--------------------------------------------------------------------------------- Question WH -->
+<br><br>
+
+## Question WH
+```
+Wh + Do/Does + subject + base verb?
+```
+<table>
+  <tbody>
+    <tr>
+    <td>
+        <!---------- Singular -->
+        <table><tbody>
+        <tr><td align="center" rowspan="5">Singular</td><td align="center">Where</td><td align="center">do</td><td align="center">I</td><td align="center">work?</td><td align="center">In tehran</td></tr>
+        <tr><td align="center">Where</td><td align="center">do</td><td align="center">you</td><td align="center">work?</td><td align="center">In tehran</td></tr>
+        <tr><td align="center">Where</td><td align="center">does</td><td align="center">he</td><td align="center">work?</td><td align="center">In tehran</td></tr>
+        <tr><td align="center">Where</td><td align="center">does</td><td align="center">she</td><td align="center">work?</td><td align="center">In tehran</td></tr>
+        <tr><td align="center">Where</td><td align="center">does</td><td align="center">it</td><td align="center">work?</td><td align="center">In tehran</td></tr>
+        </tbody></table>
+    </td>
+    <td>
+        <!---------- Plural -->
+        <table><tbody>
+        <tr><td align="center" rowspan="3">Plural</td><td align="center">Where</td><td align="center">do</td><td align="center">we</td><td align="center">work?</td><td align="center">work?</td><td align="center">In tehran</td></tr>
+        <tr><td align="center">Where</td><td align="center">do</td><td align="center">you</td><td align="center">work?</td><td align="center">work?</td><td align="center">In tehran</td></tr>
+        <tr><td align="center">Where</td><td align="center">do</td><td align="center">they</td><td align="center">work?</td><td align="center">work?</td><td align="center">In tehran</td></tr>
         </tbody></table>
     </td>
     </tr>
