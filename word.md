@@ -43,11 +43,10 @@ Pronunciation  : /ez/
 ```
 <table>
   <tbody>
-    <tr>
-    <td>-sh</td><td>Push</td><td>Pushes</td>
-    <td>-ch</td><td>Teach</td><td>Teaches</td>
-    <td>-ss</td><td>Kiss</td><td>Kisses</td>
-    <td>-x</td><td>Fix</td><td>Fixes</td>
+    <tr><td>-sh</td><td>Push</td><td>Pushes</td></tr>
+    </tr><td>-ch</td><td>Teach</td><td>Teaches</td></tr>
+    </tr><td>-ss</td><td>Kiss</td><td>Kisses</td></tr>
+    </tr><td>-x</td><td>Fix</td><td>Fixes</td></tr>
   </tbody>
 </table>
 
