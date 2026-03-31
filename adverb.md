@@ -13,7 +13,7 @@ They come between the subject and simple present verb
 ```
 
 <!-------------------------- Indefinite -->
-### Indefinite
+Indefinite
 ```
 Not exact — general frequency
 ```
@@ -53,7 +53,7 @@ Not exact — general frequency
 </table>
 
 <!-------------------------- Definite -->
-### Definite
+Definite
 ```
 Exact frequency (specific time)
 ```
@@ -91,12 +91,6 @@ Exact frequency (specific time)
     </tr>
   </tbody>
 </table>
-<!-------------------------- Definite -->
-### Definite
-```
-Exact frequency (specific time)
-```
-Questions
 
 <!-------------------------- Questions -->
 ### Questions
