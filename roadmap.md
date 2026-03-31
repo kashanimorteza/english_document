@@ -40,7 +40,8 @@
 [Adverb : Frequency](https://github.com/kashanimorteza/english_document/tree/main/adverb.md#frequency)  
 [Word : Spelling and Pronunciation of Final -es](https://github.com/kashanimorteza/english_document/tree/main/word.md#spelling-and-pronunciation-of-final--es)  
 [Word : Adding Final -s -es to Words That End in -y](https://github.com/kashanimorteza/english_document/tree/main/word.md#adding-final--s--es-to-words-that-end-in--y)  
-
+[Do](https://github.com/kashanimorteza/english_document/tree/main/do.md#positive)  
+[Go](https://github.com/kashanimorteza/english_document/tree/main/go.md#positive)  
 
 
 <!--------------------------------------------------------------------------------- Link -->
