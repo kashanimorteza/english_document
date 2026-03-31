@@ -52,6 +52,17 @@ Pronunciation  : /ez/
 
 
 
+<!-------------------------- Adding Final -s -es to Words That End in -y -->
+### Adding Final -s -es to Words That End in -y
+<table>
+  <tbody>
+    <tr><td>Consonant</td><td>-y</td><td>cry</td><td>cries</td></tr>
+    <tr><td>Vowel</td><td>-y</td><td>pay</td><td>pays</td></tr>
+  </tbody>
+</table>
+
+
+
 <!--------------------------------------------------------------------------------- Link -->
 [English]: https://github.com/kashanimorteza/english_document/blob/main/README.md
 [Definition]: https://github.com/kashanimorteza/english_document/blob/main/definition.md
