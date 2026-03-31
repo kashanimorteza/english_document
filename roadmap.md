@@ -38,7 +38,7 @@
 [Verb : 3rd persion](https://github.com/kashanimorteza/english_document/tree/main/verb.md#he--she--it-rule)  
 [Tense : Simple Present](https://github.com/kashanimorteza/english_document/tree/main/tense_simple_present.md#positive)  
 [Adverb : Frequency](https://github.com/kashanimorteza/english_document/tree/main/adverb.md#frequency)  
-[Word : Spelling and Pronunciation of Final -es](https://github.com/kashanimorteza/english_document/tree/main/word.md#frequency)  
+[Word : Spelling and Pronunciation of Final -es](https://github.com/kashanimorteza/english_document/tree/main/word.md#spelling-and-pronunciation-of-final--es)  
 
 
 <!--------------------------------------------------------------------------------- Link -->
