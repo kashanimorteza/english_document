@@ -46,6 +46,24 @@ The verb after 3rd persion singular has final -s
 
 
 
+<!--------------------------------------------------------------------------------- To + Verb -->
+<br><br>
+
+## To + Verb
+```
+verb + infinitive
+```
+
+<table>
+  <tbody>
+    <tr><td>like to</td><td>i like to travel</td></tr>
+    <tr><td>want to</td><td>i want to travel</td></tr>
+    <tr><td>need to</td><td>i need to travel</td></tr>
+  </tbody>
+</table>
+
+
+
 <!--------------------------------------------------------------------------------- Link -->
 [English]: https://github.com/kashanimorteza/english_document/blob/main/README.md
 [Structure]: https://github.com/kashanimorteza/english_document/blob/main/structure.md
