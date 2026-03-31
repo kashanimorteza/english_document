@@ -4,14 +4,6 @@
 
 
 
-<!--------------------------------------------------------------------------------- Diagram -->
-<br><br>
-
-## Diagram
-<p align="center"><img src="https://raw.githubusercontent.com/kashanimorteza/english_document/main/design/noun.png" /></p>
-
-
-
 <!--------------------------------------------------------------------------------- Plural -->
 <br><br>
 

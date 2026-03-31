@@ -4,14 +4,6 @@
 
 
 
-<!--------------------------------------------------------------------------------- Diagram -->
-<br><br>
-
-## Diagram
-<p align="center"><img src="https://raw.githubusercontent.com/kashanimorteza/english_document/main/design/have.png" /></p>
-
-
-
 <!--------------------------------------------------------------------------------- Pronoun -->
 <br><br>
 
@@ -40,8 +32,6 @@
     </tr>
   </tbody>
 </table>
-
-
 
 
 
