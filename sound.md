@@ -8,14 +8,6 @@ Phonology
 
 
 
-<!--------------------------------------------------------------------------------- Diagram -->
-<br><br>
-
-## Diagram
-<p align="center"><img src="https://raw.githubusercontent.com/kashanimorteza/english_document/main/design/sound.png" /></p>
-
-
-
 <!--------------------------------------------------------------------------------- Phonemes -->
 <br><br>
 

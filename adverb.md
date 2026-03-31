@@ -108,12 +108,18 @@ Short answers using adverbs
 <!-------------------------- Before main verb -->
 ### Before main verb
 ```
+Subject + Frequency adverb + Verb
+```
+```
 I always eat breakfast
 She often goes to school
 ```
 
 <!-------------------------- After verb “be” -->
 ### After verb “be”
+```
+Subject + Be + Frequency adverb
+```
 ```
 He is always late
 They are usually happy
