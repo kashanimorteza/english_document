@@ -8,6 +8,14 @@
 <br><br>
 
 ## Frequency
+```
+They come between the subject and simple present verb
+```
+<!-------------------------- Indefinite -->
+### Indefinite
+```
+Not exact — general frequency
+```
 <table>
   <tbody>
     <tr>
@@ -42,6 +50,47 @@
     </tr>
   </tbody>
 </table>
+
+<!-------------------------- Definite -->
+### Definite
+```
+Exact frequency (specific time)
+```
+<table>
+  <tbody>
+    <tr>
+      <td>Every day</td>
+      <td>100%</td>
+      <td>I drink coffee every day</td>
+    </tr>
+    <tr>
+      <td>Every week</td>
+      <td>Regular</td>
+      <td>I go to the gym every week</td>
+    </tr>
+    <tr>
+      <td>Once a week</td>
+      <td>1 time / week</td>
+      <td>I play football once a week</td>
+    </tr>
+    <tr>
+      <td>Twice a month</td>
+      <td>2 times / month</td>
+      <td>I visit my parents twice a month</td>
+    </tr>
+    <tr>
+      <td>Three times a year</td>
+      <td>3 times / year</td>
+      <td>I travel three times a year</td>
+    </tr>
+    <tr>
+      <td>Every year</td>
+      <td>Regular</td>
+      <td>I take a vacation every year</td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 <!--------------------------------------------------------------------------------- Manner -->
