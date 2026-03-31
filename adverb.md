@@ -11,6 +11,7 @@
 ```
 They come between the subject and simple present verb
 ```
+
 <!-------------------------- Indefinite -->
 ### Indefinite
 ```
@@ -90,6 +91,38 @@ Exact frequency (specific time)
     </tr>
   </tbody>
 </table>
+<!-------------------------- Definite -->
+### Definite
+```
+Exact frequency (specific time)
+```
+Questions
+
+<!-------------------------- Questions -->
+### Questions
+```
+Used to ask about frequency
+```
+
+<!-------------------------- Answers -->
+### Answers
+```
+Short answers using adverbs
+```
+
+<!-------------------------- Before main verb -->
+### Before main verb
+```
+I always eat breakfast
+She often goes to school
+```
+
+<!-------------------------- After verb “be” -->
+### After verb “be”
+```
+He is always late
+They are usually happy
+```
 
 
 
