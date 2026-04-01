@@ -30,6 +30,8 @@ Morphology
 
 
 <!--------------------------------------------------------------------------------- Spelling and Pronunciation of Final -es -->
+<br><br>
+
 ## Spelling and Pronunciation of Final -es
 ```
 Ending of verb : -sh, -ch, -ss, -x
@@ -48,6 +50,8 @@ Pronunciation  : /ez/
 
 
 <!--------------------------------------------------------------------------------- Adding Final -s -es to Words That End in -y -->
+<br><br>
+
 ## Adding Final -s -es to Words That End in -y
 <table>
   <tbody>
@@ -59,6 +63,8 @@ Pronunciation  : /ez/
 
 
 <!--------------------------------------------------------------------------------- Spelling of -ing -->
+<br><br>
+
 ## Spelling of -ing
 <table>
   <tbody>
