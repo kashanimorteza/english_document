@@ -63,6 +63,22 @@ Pronunciation  : /ez/
 
 
 
+<!-------------------------- Spelling of -ing -->
+### Spelling of -ing
+<table>
+  <tbody>
+    <tr><td>Rule 1</td><td>Verb ends with -e</td><td>Drop the -e and add -ing</td><td>make</td><td>making</td></tr>
+    <tr><td>Rule 2</td><td>Short vowel + consonant (CVC)</td><td>Double the consonant + -ing</td><td>run</td><td>running</td></tr>
+    <tr><td>Rule 3</td><td>Verb ends with -ie</td><td>Change -ie to -y + -ing</td><td>lie</td><td>lying</td></tr>
+    <tr><td>Rule 4</td><td>One syllable, stressed</td><td>Double final consonant + -ing</td><td>sit</td><td>sitting</td></tr>
+    <tr><td>Rule 5</td><td>Two syllables, stress on last</td><td>Double final consonant + -ing</td><td>begin</td><td>beginning</td></tr>
+    <tr><td>Rule 6</td><td>Ends with -w, -x, -y</td><td>Do NOT double + -ing</td><td>play</td><td>playing</td></tr>
+    <tr><td>Rule 7</td><td>Most verbs</td><td>Just add -ing</td><td>work</td><td>working</td></tr>
+  </tbody>
+</table>
+
+
+
 <!--------------------------------------------------------------------------------- Link -->
 [English]: https://github.com/kashanimorteza/english_document/blob/main/README.md
 [Definition]: https://github.com/kashanimorteza/english_document/blob/main/definition.md
