@@ -1,89 +1,24 @@
 <!--------------------------------------------------------------------------------- Subject -->
 # Subject
-[English]
-
-
-<!--------------------------------------------------------------------------------- Head -->
-![](https://github.com/kashanimorteza/english_document/blob/main/design/subject.png)
+[English] > [Subject]
 
 
 
-<!--------------------------------------------------------------------------------- Number -->
-<br><br>
-
-## Number
-
-
-
-<!--------------------------------------------------------------------------------- Time -->
-<br><br>
-
-## Time
-
-
-
-<!--------------------------------------------------------------------------------- Date -->
-<br><br>
-
-## Date
-
-
-
-<!--------------------------------------------------------------------------------- Weather -->
-<br><br>
-
-## Weather
-
-
-
-<!--------------------------------------------------------------------------------- Color -->
-<br><br>
-
-## Color
-
-
-
-<!--------------------------------------------------------------------------------- Food -->
-<br><br>
-
-## Food
-
-
-
-<!--------------------------------------------------------------------------------- Fruit -->
-<br><br>
-
-## Fruit
-
-
-
-<!--------------------------------------------------------------------------------- Dress -->
-<br><br>
-
-## Dress
-
-
-
-<!--------------------------------------------------------------------------------- Body -->
-<br><br>
-
-## Body
-
-
-
-<!--------------------------------------------------------------------------------- Quantity -->
-<br><br>
-
-## Quantity
-
-
-
-<!--------------------------------------------------------------------------------- Punctuation -->
-<br><br>
-
-## Punctuation
+[Time](https://github.com/kashanimorteza/english_document/blob/main/subject_time.md)  
+[Date](https://github.com/kashanimorteza/english_document/blob/main/subject_date.md)  
+[Weather](https://github.com/kashanimorteza/english_document/blob/main/subject_weather.md)  
+[Place](https://github.com/kashanimorteza/english_document/blob/main/subject_place.md)  
+[Number](https://github.com/kashanimorteza/english_document/blob/main/subject_number.md)  
+[Color](https://github.com/kashanimorteza/english_document/blob/main/subject_color.md)  
+[Food](https://github.com/kashanimorteza/english_document/blob/main/subject_food.md)  
+[Fruit](https://github.com/kashanimorteza/english_document/blob/main/subject_fruit.md)  
+[Dress](https://github.com/kashanimorteza/english_document/blob/main/subject_dress.md)  
+[Body](https://github.com/kashanimorteza/english_document/blob/main/subject_body.md)  
+[Quantity](https://github.com/kashanimorteza/english_document/blob/main/subject_quantity.md)  
+[Punctuation](https://github.com/kashanimorteza/english_document/blob/main/subject_punctuation.md)  
 
 
 
 <!--------------------------------------------------------------------------------- Link -->
 [English]: https://github.com/kashanimorteza/english_document/blob/main/README.md
+[Subject]: https://github.com/kashanimorteza/english_document/blob/main/subject.md
