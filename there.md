@@ -18,54 +18,10 @@ Used to show that something exists (existence)
 <br><br>
 
 ## Be
-<table>
-  <tbody>
-    <tr>
-    <td>
-        <!---------- Singular -->
-        <table><tbody>
-        <tr><td align="center" rowspan="3">Singular</td><td align="center">there</td><td align="center">is</td><td align="center">a book</td></tr>
-        <tr><td align="center">there</td><td align="center">is</td><td align="center">a car</td></tr>
-        <tr><td align="center">there</td><td align="center">is</td><td align="center">an apple</td></tr>
-        </tbody></table>
-    </td>
-    <td>
-        <!---------- Plural -->
-        <table><tbody>
-        <tr><td align="center" rowspan="3">Plural</td><td align="center">there</td><td align="center">are</td><td align="center">books</td></tr>
-        <tr><td align="center">there</td><td align="center">are</td><td align="center">cars</td></tr>
-        <tr><td align="center">there</td><td align="center">are</td><td align="center">apples</td></tr>
-        </tbody></table>
-    </td>
-    </tr>
-  </tbody>
-</table>
-
-
-
-<!--------------------------------------------------------------------------------- Place -->
-<br><br>
-
-## Place
 <table><tbody>
-  <tr>
-  <td align="center">there is</td>
-  <td align="center">a book</td>
-  <td align="center">on the table</td>
-  </tr>
-  </tbody></table>
-
-  <table><tbody>
-  <tr>
-  <td align="center" rowspan="5">there are</td>
-  <td align="center">in the room</td>
-  </tr>
-  <tr><td align="center">on the table</td></tr>
-  <tr><td align="center">under the chair</td></tr>
-  <tr><td align="center">next to the door</td></tr>
-  <tr><td align="center">in the box</td></tr>
+    <tr><td>Singular</td><td>There</td><td>is</td><td>a car</td></tr>
+    <tr><td>Plural</td><td>There</td><td>are</td><td>cars</td></tr>
 </tbody></table>
-
 
 
 
@@ -73,19 +29,10 @@ Used to show that something exists (existence)
 <br><br>
 
 ## Contraction
-<table>
-  <tbody>
-    <tr>
-    <td>
-        <table><tbody>
-        <tr><td align="center">there is</td><td align="center">there's</td></tr>
-        <tr><td align="center">there are</td><td align="center">there're (rare)</td></tr>
-        </tbody></table>
-    </td>
-    </tr>
-  </tbody>
-</table>
-
+<table><tbody>
+  <tr><td>Singular</td><td>there is</td><td>there's</td></tr>
+  <tr><td>Plural</td><td>there are</td><td>there're</td></tr>
+</tbody></table>
 
 
 
@@ -93,18 +40,10 @@ Used to show that something exists (existence)
 <br><br>
 
 ## Negative
-<table>
-  <tbody>
-    <tr>
-    <td>
-        <table><tbody>
-        <tr><td align="center">there is not</td><td align="center">there isn't</td></tr>
-        <tr><td align="center">there are not</td><td align="center">there aren't</td></tr>
-        </tbody></table>
-    </td>
-    </tr>
-  </tbody>
-</table>
+<table><tbody>
+  <tr><td>Singular</td><td>there is not</td><td>there isn't</td></tr>
+  <tr><td>Plural</td><td>there are not</td><td>there aren't</td></tr>
+</tbody></table>
 
 
 
@@ -114,32 +53,41 @@ Used to show that something exists (existence)
 ## Question
 <!-------------------------- Simple -->
 ### Simple
-<table>
-  <tbody>
-    <tr>
-    <td>
-        <table><tbody>
-        <tr><td align="center">is</td><td align="center">there</td><td align="center">a book?</td><td align="center">Yes, there is</td></tr>
-        <tr><td align="center">are</td><td align="center">there</td><td align="center">books?</td><td align="center">Yes, there are</td></tr>
-        </tbody></table>
-    </td>
-    </tr>
-  </tbody>
-</table>
+<table><tbody>
+  <tr><td>is</td><td>there</td><td>a book?</td><td>Yes, there is</td></tr>
+  <tr><td>are</td><td>there</td><td>books?</td><td>Yes, there are</td></tr>
+</tbody></table>
 
 <!-------------------------- How many -->
 ### How many
-<table>
-  <tbody>
-    <tr>
-    <td>
-        <table><tbody>
-        <tr><td align="center">how many</td><td align="center">are</td><td align="center">there?</td><td align="center">There are 5 books</td></tr>
-        </tbody></table>
-    </td>
-    </tr>
-  </tbody>
-</table>
+<table><tbody>
+  <tr><td>how many</td><td>are</td><td>there?</td><td>There are 5 books</td></tr>
+</tbody></table>
+
+
+
+<!--------------------------------------------------------------------------------- Place -->
+<br><br>
+
+## Place
+<table><tbody>
+  <tr>
+  <td>there is</td>
+  <td>a book</td>
+  <td>on the table</td>
+  </tr>
+  </tbody></table>
+
+  <table><tbody>
+  <tr>
+  <td rowspan="5">there are</td>
+  <td>in the room</td>
+  </tr>
+  <tr><td>on the table</td></tr>
+  <tr><td>under the chair</td></tr>
+  <tr><td>next to the door</td></tr>
+  <tr><td>in the box</td></tr>
+</tbody></table>
 
 
 
