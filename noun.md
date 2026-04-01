@@ -14,7 +14,6 @@ AI
 how can i Plural of nouns
 ```
 <!-------------------------- Subject -->
-<br>
 Subject
 ```
 Basic Rule
