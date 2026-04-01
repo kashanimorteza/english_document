@@ -78,6 +78,54 @@ Pronunciation  : /ez/
   </tbody>
 </table>
 
+### Spelling of -ing
+
+<table>
+  <tbody>
+    <tr>
+      <td>Rule 1</td>
+      <td>Verb ends with -e</td>
+      <td>Drop the -e and add -ing</td>
+      <td>make → making</td>
+      <td>She is making a cake</td>
+    </tr>
+    <tr>
+      <td>Rule 2</td>
+      <td>Short vowel + consonant (CVC)</td>
+      <td>Double the last consonant</td>
+      <td>run → running</td>
+      <td>He is running fast</td>
+    </tr>
+    <tr>
+      <td>Rule 3</td>
+      <td>Verb ends with -ie</td>
+      <td>Change -ie to -y + -ing</td>
+      <td>lie → lying</td>
+      <td>He is lying on the bed</td>
+    </tr>
+    <tr>
+      <td>Rule 4</td>
+      <td>Two syllables (stress at end)</td>
+      <td>Double the last consonant</td>
+      <td>begin → beginning</td>
+      <td>She is beginning a new job</td>
+    </tr>
+    <tr>
+      <td>Rule 5</td>
+      <td>Ends with w, x, y</td>
+      <td>Do NOT double</td>
+      <td>play → playing</td>
+      <td>They are playing football</td>
+    </tr>
+    <tr>
+      <td>Rule 6</td>
+      <td>Most verbs</td>
+      <td>Just add -ing</td>
+      <td>work → working</td>
+      <td>I am working now</td>
+    </tr>
+  </tbody>
+</table>
 
 
 <!--------------------------------------------------------------------------------- Link -->
