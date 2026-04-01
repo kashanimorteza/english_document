@@ -29,13 +29,8 @@ Morphology
 
 
 
-<!--------------------------------------------------------------------------------- General -->
-<br><br>
-
-## General
-
-<!-------------------------- Spelling and Pronunciation of Final -es -->
-### Spelling and Pronunciation of Final -es
+<!--------------------------------------------------------------------------------- Spelling and Pronunciation of Final -es -->
+## Spelling and Pronunciation of Final -es
 ```
 Ending of verb : -sh, -ch, -ss, -x
 Spelling       : add -es
@@ -52,8 +47,8 @@ Pronunciation  : /ez/
 
 
 
-<!-------------------------- Adding Final -s -es to Words That End in -y -->
-### Adding Final -s -es to Words That End in -y
+<!--------------------------------------------------------------------------------- Adding Final -s -es to Words That End in -y -->
+## Adding Final -s -es to Words That End in -y
 <table>
   <tbody>
     <tr><td>Consonant</td><td>-y</td><td>cry</td><td>cries</td></tr>
@@ -63,8 +58,8 @@ Pronunciation  : /ez/
 
 
 
-<!-------------------------- Spelling of -ing -->
-### Spelling of -ing
+<!--------------------------------------------------------------------------------- Spelling of -ing -->
+## Spelling of -ing
 <table>
   <tbody>
     <tr><td>Rule 1</td><td>Verb ends with -e</td><td>Drop the -e and add -ing</td><td>make</td><td>making</td></tr>
