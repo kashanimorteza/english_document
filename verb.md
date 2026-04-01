@@ -100,6 +100,30 @@ verb + infinitive
 </table>
 
 
+<!--------------------------------------------------------------------------------- Think about / Think that -->
+<br><br>
+
+## Think about / Think that
+<table>
+  <tbody>
+    <tr><td>Verb</td><td>Explanation</td><td>Example</td></tr>
+
+    <tr>
+      <td>Think about</td>
+      <td>Consider or focus your mind on something</td>
+      <td>I am thinking about my future</td>
+    </tr>
+
+    <tr>
+      <td>Think that</td>
+      <td>Give your opinion or belief</td>
+      <td>I think that this is a good idea</td>
+    </tr>
+
+  </tbody>
+</table>
+
+
 <!--------------------------------------------------------------------------------- Link -->
 [English]: https://github.com/kashanimorteza/english_document/blob/main/README.md
 [Structure]: https://github.com/kashanimorteza/english_document/blob/main/structure.md
