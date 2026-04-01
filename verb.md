@@ -70,11 +70,32 @@ verb + infinitive
 
 <table>
   <tbody>
-    <tr><td>See</td><td>Physical reaction</td><td>I see many things in this room</td></tr>
-    <tr><td>Look at</td><td>Physical reaction</td><td>I see many things in this room</td></tr>
-    <tr><td>Watch</td><td>Physical reaction</td><td>I see many things in this room</td></tr>
-    <tr><td>Hear</td><td>Physical reaction</td><td>I see many things in this room</td></tr>
-    <tr><td>Listen to</td><td>Physical reaction</td><td>I see many things in this room</td></tr>
+    <tr><td>Verb</td><td>Explanation</td><td>Example</td></tr>
+    <tr>
+      <td>See</td>
+      <td>Use your eyes naturally (no effort)</td>
+      <td>I see a bird in the sky</td>
+    </tr>
+    <tr>
+      <td>Look at</td>
+      <td>Use your eyes with intention (you try to see)</td>
+      <td>Look at the board</td>
+    </tr>
+    <tr>
+      <td>Watch</td>
+      <td>Look at something for a time (movement/activity)</td>
+      <td>I watch TV every night</td>
+    </tr>
+    <tr>
+      <td>Hear</td>
+      <td>Receive sound naturally (no effort)</td>
+      <td>I hear a noise outside</td>
+    </tr>
+    <tr>
+      <td>Listen to</td>
+      <td>Try to hear carefully (attention)</td>
+      <td>Listen to the teacher</td>
+    </tr>
   </tbody>
 </table>
 

@@ -56,7 +56,7 @@
 ## Step-4
 [Tense : Present Progressive : Positive](https://github.com/kashanimorteza/english_document/tree/main/tense_present_progressive.md#positive)  
 [Word : Spelling of -ing](https://github.com/kashanimorteza/english_document/tree/main/word.md#spelling-of--ing)
-[Word : Spelling of -ing](https://github.com/kashanimorteza/english_document/tree/main/verb.md#spelling-of--ing)
+[Verb : See, Look at, Watch, Hear, Listen to](https://github.com/kashanimorteza/english_document/tree/main/verb.md#see-look-at-watch-hear-listen-to)
 
 <!--------------------------------------------------------------------------------- Link -->
 [English]: https://github.com/kashanimorteza/english_document/blob/main/README.md
