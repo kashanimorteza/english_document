@@ -8,11 +8,22 @@
 <br><br>
 
 ## Plural
-<table><tbody>
-<tr><td align="center">For all</td><td align="center">add s to end</td><td align="center">Cats are animals</td></tr>
-<tr><td align="center">for end with 'y'</td><td align="center">chenge y to '-ies'</td><td align="center">Canada and china are countries</td></tr>
-</tbody></table>
-
+<!-------------------------- AI -->
+AI
+```
+how can i Plural of nouns
+```
+<!-------------------------- Subject -->
+<br>
+Subject
+```
+Basic Rule
+Nouns Ending in -s, -x, -z, -sh, -ch
+Nouns Ending in -y
+Nouns Ending in -f / -fe
+Irregular Nouns
+Nouns with the Same Singular & Plural
+```
 
 
 <!--------------------------------------------------------------------------------- Article -->
