@@ -8,19 +8,22 @@
 <br><br>
 
 ## Subject
-```
+<!-------------------------- Description -->
 Description
 
+<!-------------------------- Structure -->
 Structure
-------------------
+```
 Positive
 Contraction
 Negative
 Question
 Question WH
+```
 
+<!-------------------------- Other -->
 Other
-------------------
+```
 Key Tips
 Examples in Daily Life
 ```
