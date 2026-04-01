@@ -66,31 +66,6 @@ Used to show that something exists (existence)
 
 
 
-<!--------------------------------------------------------------------------------- Place -->
-<br><br>
-
-## Place
-<table><tbody>
-  <tr>
-  <td>there is</td>
-  <td>a book</td>
-  <td>on the table</td>
-  </tr>
-  </tbody></table>
-
-  <table><tbody>
-  <tr>
-  <td rowspan="5">there are</td>
-  <td>in the room</td>
-  </tr>
-  <tr><td>on the table</td></tr>
-  <tr><td>under the chair</td></tr>
-  <tr><td>next to the door</td></tr>
-  <tr><td>in the box</td></tr>
-</tbody></table>
-
-
-
 <!--------------------------------------------------------------------------------- Link -->
 [English]: https://github.com/kashanimorteza/english_document/blob/main/README.md
 [Structure]: https://github.com/kashanimorteza/english_document/blob/main/structure.md
