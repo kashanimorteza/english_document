@@ -107,19 +107,16 @@ verb + infinitive
 <table>
   <tbody>
     <tr><td>Verb</td><td>Explanation</td><td>Example</td></tr>
-
     <tr>
       <td>Think about</td>
       <td>Consider or focus your mind on something</td>
       <td>I am thinking about my future</td>
     </tr>
-
     <tr>
       <td>Think that</td>
       <td>Give your opinion or belief</td>
       <td>I think that this is a good idea</td>
     </tr>
-
   </tbody>
 </table>
 
