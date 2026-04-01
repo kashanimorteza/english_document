@@ -63,6 +63,21 @@ verb + infinitive
 </table>
 
 
+<!--------------------------------------------------------------------------------- See, Look at, Watch, Hear, Listen to -->
+<br><br>
+
+## See, Look at, Watch, Hear, Listen to
+
+<table>
+  <tbody>
+    <tr><td>See</td><td>Physical reaction</td><td>I see many things in this room</td></tr>
+    <tr><td>Look at</td><td>Physical reaction</td><td>I see many things in this room</td></tr>
+    <tr><td>Watch</td><td>Physical reaction</td><td>I see many things in this room</td></tr>
+    <tr><td>Hear</td><td>Physical reaction</td><td>I see many things in this room</td></tr>
+    <tr><td>Listen to</td><td>Physical reaction</td><td>I see many things in this room</td></tr>
+  </tbody>
+</table>
+
 
 <!--------------------------------------------------------------------------------- Link -->
 [English]: https://github.com/kashanimorteza/english_document/blob/main/README.md
