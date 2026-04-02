@@ -3,7 +3,7 @@
 [English] > [Structure] > [Pronoun]
 
 <!--------------------------------------------------------------------------------- Personal Subject -->
-<br>
+<br><br>
 
 ## Personal Subject
 AI
@@ -17,7 +17,7 @@ Rule
 ```
 
 <!--------------------------------------------------------------------------------- Personal Object -->
-<br>
+<br><br>
 
 ## Personal Object
 AI
@@ -31,7 +31,7 @@ Rule
 ```
 
 <!--------------------------------------------------------------------------------- Possessive Adjectives -->
-<br>
+<br><br>
 
 ## Possessive Adjectives
 AI
@@ -45,7 +45,7 @@ Rule
 ```
 
 <!--------------------------------------------------------------------------------- Possessive Pronouns -->
-<br>
+<br><br>
 
 ## Possessive Pronouns
 AI
