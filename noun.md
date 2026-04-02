@@ -11,7 +11,7 @@
 <!-------------------------- AI -->
 AI
 ```
-how can i Plural of nouns
+teach me plural of noun in english
 ```
 <!-------------------------- Subject -->
 Subject
@@ -23,6 +23,26 @@ Nouns Ending in -f / -fe
 Irregular Nouns
 Nouns with the Same Singular & Plural
 ```
+
+
+
+<!--------------------------------------------------------------------------------- Sentence -->
+<br><br>
+
+## Sentence
+<!-------------------------- AI -->
+AI
+```
+```
+<!-------------------------- Subject -->
+Subject
+```
+Subject of a sentence
+Object of a verb
+Object of a preposition
+```
+
+
 
 
 <!--------------------------------------------------------------------------------- Article -->
