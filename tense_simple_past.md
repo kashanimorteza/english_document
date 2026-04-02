@@ -10,16 +10,17 @@
 ## Be
 AI
 ```
-teach me simple present using be 
+teach me simple past using be with description and structure and example , step by step
+example in a table and seperate subject and verb for all persons
 ```
 Subject
 ```
 Positive
 Negative
 Question
-WH-Word
 Contraction
-Use for
+WH-Word
+Usage
 ```
 
 
