@@ -67,7 +67,7 @@
 <br>
 
 ## Step-6
-[Noun](https://github.com/kashanimorteza/english_document/tree/main/noun.md#sentence)  
+[Noun : Sentence](https://github.com/kashanimorteza/english_document/tree/main/noun.md#sentence)  
 
 
 
