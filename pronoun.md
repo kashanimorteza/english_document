@@ -2,54 +2,24 @@
 # Pronoun
 [English] > [Structure] > [Pronoun]
 
-
-
-<!--------------------------------------------------------------------------------- Diagram -->
-<br><br>
-
-## Diagram
-<p align="center"><img src="https://raw.githubusercontent.com/kashanimorteza/english_document/main/design/pronoun.png" /></p>
-
-
-
 <!--------------------------------------------------------------------------------- Personal Subject -->
 <br><br>
 
 ## Personal Subject
 ```
-ضمایر فاعلی شخصی
+teach me Personal Subject Pronoun
 ```
-<table>
-  <tbody>
-    <tr>
-    <td>
-        <!---------- Singular -->
-        <table>
-        <tbody>
-            <tr><td align="center" colspan="6">Singular</td></tr>
-            <tr><td align="center">I</td><td align="center">You</td><td align="center">He</td><td align="center">She</td><td align="center">It</td></tr>
-        </tbody>
-        </table>
-    </td>
-    <td>
-        <!---------- Plural -->
-        <table>
-        <tbody>
-            <tr><td align="center" colspan="4">Plural</td></tr>
-            <tr><td align="center">We</td><td align="center">You</td><td align="center">They</td></tr>
-        </tbody>
-        </table>
-    </td>
-    </tr>
-  </tbody>
-</table>
-
-
 
 <!--------------------------------------------------------------------------------- Personal Object -->
 <br><br>
 
 ## Personal Object
+```
+teach me Personal Object Pronoun
+```
+
+
+
 ```
 ضمایر مفعولی شخصی
 ```

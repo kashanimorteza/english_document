@@ -68,6 +68,8 @@
 
 ## Step-6
 [Noun : Sentence](https://github.com/kashanimorteza/english_document/tree/main/noun.md#sentence)  
+[Noun : Pronoun Subject](https://github.com/kashanimorteza/english_document/tree/main/pronoun.md#personal-subject)  
+[Noun : Pronoun Object](https://github.com/kashanimorteza/english_document/tree/main/pronoun.md#personal-object)  
 
 
 

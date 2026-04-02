@@ -2,8 +2,6 @@
 # Noun
 [English] > [Structure] > [Noun]
 
-
-
 <!--------------------------------------------------------------------------------- Plural -->
 <br><br>
 
@@ -11,7 +9,7 @@
 <!-------------------------- AI -->
 AI
 ```
-teach me plural of noun in english
+teach me plural of noun
 ```
 <!-------------------------- Subject -->
 Subject
@@ -24,8 +22,6 @@ Irregular Nouns
 Nouns with the Same Singular & Plural
 ```
 
-
-
 <!--------------------------------------------------------------------------------- Sentence -->
 <br><br>
 
@@ -33,6 +29,7 @@ Nouns with the Same Singular & Plural
 <!-------------------------- AI -->
 AI
 ```
+Teach me the position of a noun and its place in a sentence
 ```
 <!-------------------------- Subject -->
 Subject
@@ -40,6 +37,8 @@ Subject
 Subject of a sentence
 Object of a verb
 Object of a preposition
+Adjective with noun
+Complement
 ```
 
 
