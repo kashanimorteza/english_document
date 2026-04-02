@@ -58,6 +58,23 @@ Structure
 Rule
 ```
 
+<!--------------------------------------------------------------------------------- Possessive Noun -->
+<br><br>
+
+## Possessive Noun
+AI
+```
+teach me Possessive Noun
+```
+Subject
+```
+Singular Noun
+Plural Noun
+Irregular Plural Nouns
+Two Owners(one thing/different thing)
+Alternative
+Rules
+```
 
 
 <!--------------------------------------------------------------------------------- Demonstrative -->

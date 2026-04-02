@@ -73,7 +73,8 @@
 [Noun : Plural](https://github.com/kashanimorteza/english_document/tree/main/noun.md#plural)  
 [Pronoun : Possessive Adjectives](https://github.com/kashanimorteza/english_document/tree/main/pronoun.md#possessive-adjectives)  
 [Pronoun : Possessive Pronouns](https://github.com/kashanimorteza/english_document/tree/main/pronoun.md#possessive-pronouns)  
-
+[Pronoun : Possessive Noun](https://github.com/kashanimorteza/english_document/tree/main/pronoun.md#possessive-noun)  
+[WH-Word : Whose](https://github.com/kashanimorteza/english_document/tree/main/pronoun.md#wh_word.md#Whose)  
 
 
 
