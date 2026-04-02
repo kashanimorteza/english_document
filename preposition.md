@@ -4,18 +4,6 @@
 
 
 
-<!--------------------------------------------------------------------------------- Subject -->
-<br><br>
-
-## Subject
-```
-Description
-Main Types
-Rules
-```
-
-
-
 <!--------------------------------------------------------------------------------- Description -->
 <br><br>
 
@@ -23,7 +11,7 @@ Rules
 <!-------------------------- AI -->
 AI
 ```
-what is Preposition?
+Teach me Preposition?
 ```
 
 
@@ -35,7 +23,7 @@ what is Preposition?
 <!-------------------------- AI -->
 AI
 ```
-Teach me its different types with examples and explanations
+Teach me different types of prepositions.
 ```
 
 
@@ -47,7 +35,7 @@ Teach me its different types with examples and explanations
 <!-------------------------- AI -->
 AI
 ```
-Teach me its different types with examples and explanations
+Teach me the rules about prepositions.
 ```
 
 
