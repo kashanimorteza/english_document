@@ -18,38 +18,6 @@ teach me Personal Subject Pronoun
 teach me Personal Object Pronoun
 ```
 
-
-
-```
-ضمایر مفعولی شخصی
-```
-<table>
-  <tbody>
-    <tr>
-    <td>
-        <!---------- Singular -->
-        <table>
-        <tbody>
-            <tr><td align="center" colspan="6">Singular</td></tr>
-            <tr><td align="center">me</td><td align="center">you</td><td align="center">him</td><td align="center">her</td><td align="center">Itit</td></tr>
-        </tbody>
-        </table>
-    </td>
-    <td>
-        <!---------- Plural -->
-        <table>
-        <tbody>
-            <tr><td align="center" colspan="4">Plural</td></tr>
-            <tr><td align="center">us</td><td align="center">yours</td><td align="center">them</td></tr>
-        </tbody>
-        </table>
-    </td>
-    </tr>
-  </tbody>
-</table>
-
-
-
 <!--------------------------------------------------------------------------------- Possessive Adjectives -->
 <br><br>
 
