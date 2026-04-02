@@ -74,7 +74,7 @@
 [Pronoun : Possessive Adjectives](https://github.com/kashanimorteza/english_document/tree/main/pronoun.md#possessive-adjectives)  
 [Pronoun : Possessive Pronouns](https://github.com/kashanimorteza/english_document/tree/main/pronoun.md#possessive-pronouns)  
 [Pronoun : Possessive Noun](https://github.com/kashanimorteza/english_document/tree/main/pronoun.md#possessive-noun)  
-[WH-Word : Whose](https://github.com/kashanimorteza/english_document/tree/main/pronoun.md#wh_word.md#Whose)  
+[WH-Word : Whose](https://github.com/kashanimorteza/english_document/tree/main/wh_word.md#whose)  
 
 
 
