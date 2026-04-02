@@ -23,66 +23,16 @@ teach me Personal Object Pronoun
 
 ## Possessive Adjectives
 ```
-صفت‌های ملکی
+teach me Possessive Adjectives
 ```
-<table>
-  <tbody>
-    <tr>
-    <td>
-        <!---------- Singular -->
-        <table>
-        <tbody>
-            <tr><td align="center" colspan="6">Singular</td></tr>
-            <tr><td align="center">my</td><td align="center">your</td><td align="center">his</td><td align="center">her</td><td align="center">its</td></tr>
-        </tbody>
-        </table>
-    </td>
-    <td>
-        <!---------- Plural -->
-        <table>
-        <tbody>
-            <tr><td align="center" colspan="4">Plural</td></tr>
-            <tr><td align="center">our</td><td align="center">your</td><td align="center">their</td></tr>
-        </tbody>
-        </table>
-    </td>
-    </tr>
-  </tbody>
-</table>
-
-
 
 <!--------------------------------------------------------------------------------- Possessive Pronouns -->
-<br><br>
+<br>
 
 ## Possessive Pronouns
 ```
-ضمایر ملکی
+teach me Possessive Pronouns
 ```
-<table>
-  <tbody>
-    <tr>
-    <td>
-        <!---------- Singular -->
-        <table>
-        <tbody>
-            <tr><td align="center" colspan="6">Singular</td></tr>
-            <tr><td align="center">mine</td><td align="center">yours</td><td align="center">his</td><td align="center">hers</td><td align="center">its</td></tr>
-        </tbody>
-        </table>
-    </td>
-    <td>
-        <!---------- Plural -->
-        <table>
-        <tbody>
-            <tr><td align="center" colspan="4">Plural</td></tr>
-            <tr><td align="center">ours</td><td align="center">yours</td><td align="center">theirs</td></tr>
-        </tbody>
-        </table>
-    </td>
-    </tr>
-  </tbody>
-</table>
 
 
 

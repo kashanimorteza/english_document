@@ -70,6 +70,10 @@
 [Noun : Sentence](https://github.com/kashanimorteza/english_document/tree/main/noun.md#sentence)  
 [Pronoun : Personal Subject](https://github.com/kashanimorteza/english_document/tree/main/pronoun.md#personal-subject)  
 [Pronoun : Personal Object](https://github.com/kashanimorteza/english_document/tree/main/pronoun.md#personal-object)  
+[Noun : Plural](https://github.com/kashanimorteza/english_document/tree/main/noun.md#plural)  
+[Pronoun : Possessive Adjectives](https://github.com/kashanimorteza/english_document/tree/main/pronoun.md#possessive-adjectives)  
+[Pronoun : Possessive Pronouns](https://github.com/kashanimorteza/english_document/tree/main/pronoun.md#possessive-pronouns)  
+
 
 
 

@@ -3,7 +3,7 @@
 [English] > [Structure] > [Noun]
 
 <!--------------------------------------------------------------------------------- Plural -->
-<br><br>
+<br>
 
 ## Plural
 <!-------------------------- AI -->
@@ -15,15 +15,16 @@ teach me plural of noun
 Subject
 ```
 Basic Rule
-Nouns Ending in -s, -x, -z, -sh, -ch
+Nouns Ending in s, ss, sh, ch, x, z
 Nouns Ending in -y
-Nouns Ending in -f / -fe
-Irregular Nouns
+Nouns Ending in -f, -fe
+Irregular Plurals
 Nouns with the Same Singular & Plural
+Always Plural Nouns
 ```
 
 <!--------------------------------------------------------------------------------- Sentence -->
-<br><br>
+<br>
 
 ## Sentence
 <!-------------------------- AI -->
@@ -41,11 +42,8 @@ Adjective with noun
 Complement
 ```
 
-
-
-
 <!--------------------------------------------------------------------------------- Article -->
-<br><br>
+<br>
 
 ## Article
 
