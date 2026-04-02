@@ -16,6 +16,18 @@ Teach me Preposition?
 
 
 
+<!--------------------------------------------------------------------------------- Structure -->
+<br><br>
+
+## Structure
+<!-------------------------- AI -->
+AI
+```
+Teach me the structure and different forms of prepositions.
+```
+
+
+
 <!--------------------------------------------------------------------------------- Main Types -->
 <br><br>
 
