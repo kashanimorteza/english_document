@@ -70,7 +70,8 @@
 <br>
 
 ## Step-7
-[Noun : Sentence](https://github.com/kashanimorteza/english_document/tree/main/noun.md#sentence)  
+[Noun : Countable and Uncountable](https://github.com/kashanimorteza/english_document/tree/main/noun.md#countable-and-uncountable)  
+[Noun : Article](https://github.com/kashanimorteza/english_document/tree/main/noun.md#article)  
 
 
 

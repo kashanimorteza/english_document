@@ -2,16 +2,16 @@
 # Noun
 [English] > [Structure] > [Noun]
 
+
+
 <!--------------------------------------------------------------------------------- Plural -->
 <br><br>
 
 ## Plural
-<!-------------------------- AI -->
 AI
 ```
 teach me plural of noun
 ```
-<!-------------------------- Subject -->
 Subject
 ```
 Basic Rule
@@ -23,16 +23,16 @@ Nouns with the Same Singular & Plural
 Always Plural Nouns
 ```
 
+
+
 <!--------------------------------------------------------------------------------- Sentence -->
 <br><br>
 
 ## Sentence
-<!-------------------------- AI -->
 AI
 ```
 Teach me the position of a noun and its place in a sentence
 ```
-<!-------------------------- Subject -->
 Subject
 ```
 Subject of a sentence
@@ -42,26 +42,40 @@ Adjective with noun
 Complement
 ```
 
+
+
+<!--------------------------------------------------------------------------------- Count and Noncount -->
+<br><br>
+
+## Countable and Uncountable
+AI
+```
+each me countable and uncountable nouns in English step by step, starting from definitions, then rules, then examples, then types, then common words/quantifiers used with each, and finally exercises to practice
+```
+Subject
+```
+Singular count with a and an
+Measurements
+Quantifiers
+Rules
+```
+
+
+
 <!--------------------------------------------------------------------------------- Article -->
 <br><br>
 
 ## Article
+AI
+```
+Teach me article
+```
+Subject
+```
+Definite   : The
+Indefinite : A / AN
+```
 
-<!-------------------------- Definite -->
-### Definite
-<table><tbody>
-<tr>
-<td align="center">The</td>
-<td></td>
-</tr>
-</tbody></table>
-
-<!-------------------------- Indefinite -->
-### Indefinite
-<table><tbody>
-<tr><td align="center">A</td><td align="center">b | c | d f | g | ...</td><td align="center">a bed | a cat | a dog | a friend | a girl</td></tr>
-<tr><td align="center">An</td><td align="center">a | e | i | o | u</td><td align="center">an animal | an ear | an island | an office</td></tr>
-</tbody></table>
 
 
 
