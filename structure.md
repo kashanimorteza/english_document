@@ -20,21 +20,6 @@
 
 
 
-<!--------------------------------------------------------------------------------- Auxiliary verb -->
-<br><br>
-
-## Auxiliary verb
-
-[Be](https://github.com/kashanimorteza/english_document/tree/main/be.md)  
-[Have](https://github.com/kashanimorteza/english_document/tree/main/have.md)  
-[Do](https://github.com/kashanimorteza/english_document/tree/main/do.md)  
-[Can](https://github.com/kashanimorteza/english_document/tree/main/can.md)  
-[Go](https://github.com/kashanimorteza/english_document/tree/main/go.md)  
-[There](https://github.com/kashanimorteza/english_document/tree/main/there.md)  
-[Would like](https://github.com/kashanimorteza/english_document/tree/main/wouldlike.md)  
-
-
-
 <!--------------------------------------------------------------------------------- Role -->
 <br><br>
 
@@ -57,7 +42,7 @@
 
 ## Tense
 [Simple Present](https://github.com/kashanimorteza/english_document/tree/main/tense_simple_present.md)  
-[Past](https://github.com/kashanimorteza/english_document/tree/main/past.md)  
+[Simple Past](https://github.com/kashanimorteza/english_document/tree/main/tense_simple_past.md)  
 [Future](https://github.com/kashanimorteza/english_document/tree/main/future.md)  
 [Present Continuous](https://github.com/kashanimorteza/english_document/tree/main/present-continuous.md)  
 [Present Perfect](https://github.com/kashanimorteza/english_document/tree/main/present-perfect.md)  

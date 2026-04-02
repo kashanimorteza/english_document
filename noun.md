@@ -57,6 +57,7 @@ Subject
 Singular count with a and an
 Measurements
 Quantifiers
+Any
 Rules
 ```
 
@@ -75,31 +76,6 @@ Subject
 Definite   : The
 Indefinite : A / AN
 ```
-
-
-
-
-<!--------------------------------------------------------------------------------- Count -->
-<br><br>
-
-## Count
-
-#### <span class="red">Countable</span> 
-
-<!---------------------------------------Singular--> 
-<span class="blue">Singular</span> 
-<table><tbody>
-<tr><td align="center">cat is a animal</td><td>cat=singlur noun | is=singlur verb | a=article | animal=singlur noun</td></tr>
-<tr><td align="center">Bali is an island</td><td>bali=singlur noun | is=singlur verb | an=article | island=singlur noun</td></tr>
-</tbody></table>
-
-<!---------------------------------------Plural--> 
-<span class="blue">Plural</span>    
-<table><tbody>
-<tr><td align="center">cats are animals</td><td>cats=plural noun | are=plural verb | animals=plural noun</td></tr>
-<tr><td align="center">canada and china are countries</td><td>canada=plural noun | china=plural noun | are=plural verb | countries=plural noun</td></tr>
-<tr><td align="center">plural nouns end in -s</td><td>cat>cats | animal=animls | city>cities | country>countries</td></tr>
-</tbody></table>
 
 
 

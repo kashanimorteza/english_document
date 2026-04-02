@@ -74,6 +74,12 @@
 [Noun : Article](https://github.com/kashanimorteza/english_document/tree/main/noun.md#article)  
 
 
+<!--------------------------------------------------------------------------------- Step-8 -->
+<br>
+
+## Step-8
+[Tense : Simple Past : Be](https://github.com/kashanimorteza/english_document/tree/main/tense_simple_past.md#be)  
+
 
 <!--------------------------------------------------------------------------------- Link -->
 [English]: https://github.com/kashanimorteza/english_document/blob/main/README.md

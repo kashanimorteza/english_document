@@ -1,6 +1,6 @@
-<!--------------------------------------------------------------------------------- Simple Present -->
-# Simple Present
-[English] > [Structure] > [Simple Present]
+<!--------------------------------------------------------------------------------- Simple Past -->
+# Simple Past
+[English] > [Structure] > [Simple Past]
 
 
 
@@ -107,4 +107,4 @@ Use for
 <!--------------------------------------------------------------------------------- Link -->
 [English]: https://github.com/kashanimorteza/english_document/blob/main/README.md
 [Structure]: https://github.com/kashanimorteza/english_document/blob/main/structure.md
-[Simple Present]: https://github.com/kashanimorteza/english_document/blob/main/simple_present.md
+[Simple Past]: https://github.com/kashanimorteza/english_document/blob/main/simple_past.md
