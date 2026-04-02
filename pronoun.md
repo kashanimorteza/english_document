@@ -3,7 +3,7 @@
 [English] > [Structure] > [Pronoun]
 
 <!--------------------------------------------------------------------------------- Personal Subject -->
-<br><br>
+<br>
 
 ## Personal Subject
 ```
@@ -11,7 +11,7 @@ teach me Personal Subject Pronoun
 ```
 
 <!--------------------------------------------------------------------------------- Personal Object -->
-<br><br>
+<br>
 
 ## Personal Object
 ```
@@ -19,7 +19,7 @@ teach me Personal Object Pronoun
 ```
 
 <!--------------------------------------------------------------------------------- Possessive Adjectives -->
-<br><br>
+<br>
 
 ## Possessive Adjectives
 ```
