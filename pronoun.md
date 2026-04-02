@@ -6,32 +6,56 @@
 <br>
 
 ## Personal Subject
+AI
 ```
 teach me Personal Subject Pronoun
+```
+Subject
+```
+Structure
+Rule
 ```
 
 <!--------------------------------------------------------------------------------- Personal Object -->
 <br>
 
 ## Personal Object
+AI
 ```
 teach me Personal Object Pronoun
+```
+Subject
+```
+Structure
+Rule
 ```
 
 <!--------------------------------------------------------------------------------- Possessive Adjectives -->
 <br>
 
 ## Possessive Adjectives
+AI
 ```
 teach me Possessive Adjectives
+```
+Subject
+```
+Structure
+Rule
 ```
 
 <!--------------------------------------------------------------------------------- Possessive Pronouns -->
 <br>
 
 ## Possessive Pronouns
+AI
 ```
 teach me Possessive Pronouns
+```
+Subject
+```
+Structure
+Rule
 ```
 
 
