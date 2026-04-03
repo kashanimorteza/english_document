@@ -10,14 +10,13 @@
 ## Be
 AI
 ```
-teach me simple past using be with description and structure and example , step by step
-example in a table and seperate subject and verb for all persons
+teach me simple past using be with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step and seperate
 ```
 Subject
 ```
 Positive
 Negative
-Question
+Question and Short Answers
 Contraction
 WH-Word
 Usage
