@@ -1,6 +1,6 @@
-<!--------------------------------------------------------------------------------- Simple Present -->
-# Simple Present
-[English] > [Structure] > [Simple Present]
+<!--------------------------------------------------------------------------------- Future Simple -->
+# Future Simple
+[English] > [Structure] > [Future Simple]
 
 
 
@@ -10,7 +10,7 @@
 ## Be
 AI
 ```
-teach me simple present using be 
+teach me simple future using be with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step and seperate
 ```
 Subject
 ```
@@ -30,7 +30,7 @@ Use for
 ## DO
 AI
 ```
-teach me simple present using Do 
+teach me simple future using do with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step and seperate
 ```
 Subject
 ```
@@ -50,7 +50,7 @@ Use for
 ## Have
 AI
 ```
-teach me simple present using Have 
+teach me simple future using have with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step and seperate
 ```
 Subject
 ```
@@ -70,7 +70,7 @@ Use for
 ## Can
 AI
 ```
-teach me simple present using Can 
+teach me simple future using can with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step and seperate
 ```
 Subject
 ```
@@ -90,7 +90,7 @@ Use for
 ## There
 AI
 ```
-teach me simple present using There 
+teach me simple future using there with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step and seperate
 ```
 Subject
 ```
