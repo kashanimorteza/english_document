@@ -41,15 +41,27 @@
 <br><br>
 
 ## Tense
-[Present Simple](https://github.com/kashanimorteza/english_document/tree/main/tense_present_simple.md)  
-[Present Progressive](https://github.com/kashanimorteza/english_document/tree/main/tense_present_progressive.md)  
-[Past Simple](https://github.com/kashanimorteza/english_document/tree/main/tense_past_simple.md)  
-[Past Progressive](https://github.com/kashanimorteza/english_document/tree/main/tense_past_progressive.md)  
-[Future Simple](https://github.com/kashanimorteza/english_document/tree/main/tense_future_simple.md)  
-[Future Progressive](https://github.com/kashanimorteza/english_document/tree/main/tense_future_progressive.md)  
-[Present Continuous](https://github.com/kashanimorteza/english_document/tree/main/present-continuous.md)  
-[Present Perfect](https://github.com/kashanimorteza/english_document/tree/main/present-perfect.md)  
-[Past Continuous](https://github.com/kashanimorteza/english_document/tree/main/past-continuous.md)  
+<!-------------------------- Present -->
+### Present
+[Simple](https://github.com/kashanimorteza/english_document/tree/main/tense_present_simple.md)  
+[Progressive](https://github.com/kashanimorteza/english_document/tree/main/tense_present_progressive.md)  
+[Perfect](https://github.com/kashanimorteza/english_document/tree/main/tense_present_simple.md)  
+[Perfect Progressive](https://github.com/kashanimorteza/english_document/tree/main/tense_present_perfect_progressive.md)  
+
+<!-------------------------- Past -->
+### Past
+[Simple](https://github.com/kashanimorteza/english_document/tree/main/tense_past_simple.md)  
+[Progressive](https://github.com/kashanimorteza/english_document/tree/main/tense_past_progressive.md)  
+[Perfect](https://github.com/kashanimorteza/english_document/tree/main/tense_past_perfect.md)  
+[Perfect Progressive](https://github.com/kashanimorteza/english_document/tree/main/tense_past_perfect_progressive.md)  
+
+<!-------------------------- Future -->
+### Future
+[Simple](https://github.com/kashanimorteza/english_document/tree/main/tense_future_simple.md)  
+[Progressive](https://github.com/kashanimorteza/english_document/tree/main/tense_future_progressive.md)  
+[Perfect](https://github.com/kashanimorteza/english_document/tree/main/tense_future_perfect.md)  
+[Perfect Progressive](https://github.com/kashanimorteza/english_document/tree/main/tense_future_perfect_progressive.md)  
+
 
 
 <!--------------------------------------------------------------------------------- Type -->
