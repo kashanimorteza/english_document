@@ -24,6 +24,26 @@ Use for
 
 
 
+<!--------------------------------------------------------------------------------- Going to -->
+<br><br>
+
+## Going to
+AI
+```
+teach me simple Going to using be with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step and seperate
+```
+Subject
+```
+Positive
+Negative
+Question
+WH-Word
+Contraction
+Use for
+```
+
+
+
 <!--------------------------------------------------------------------------------- Do -->
 <br><br>
 

@@ -89,7 +89,8 @@
 <br>
 
 ## Step-10
-[Tense : Future Simple](https://github.com/kashanimorteza/english_document/tree/main/tense_future_simple.md)  
+[Tense : Future : Simple](https://github.com/kashanimorteza/english_document/tree/main/tense_future_simple.md)  
+[Tense : Future : Going To](https://github.com/kashanimorteza/english_document/tree/main/tense_future_simple.md#going--o)  
 
 
 
