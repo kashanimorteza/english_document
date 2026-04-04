@@ -44,13 +44,33 @@ Use for
 
 
 
-<!--------------------------------------------------------------------------------- Do -->
+<!--------------------------------------------------------------------------------- Will -->
 <br><br>
 
-## DO
+## Will
 AI
 ```
-teach me simple future using do with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step and seperate
+teach me simple future using will with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step and seperate
+```
+Subject
+```
+Positive
+Negative
+Question
+WH-Word
+Contraction
+Use for
+```
+
+
+
+<!--------------------------------------------------------------------------------- May -->
+<br><br>
+
+## May
+AI
+```
+teach me simple future using may with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step and seperate
 ```
 Subject
 ```
@@ -120,6 +140,64 @@ Question
 WH-Word
 Contraction
 Use for
+```
+
+
+
+<!--------------------------------------------------------------------------------- Present Progressive -->
+<br><br>
+
+## Present Progressive
+AI
+```
+teach me how to use Present Progressive to express future time step by step
+```
+Subject
+```
+```
+
+
+
+<!--------------------------------------------------------------------------------- Word -->
+<br><br>
+
+## Word
+AI
+```
+teach me how to use Present Progressive to express future time step by step
+```
+Subject
+```
+Future Time Words (Specific Time)
+Future Words for Soon / Near Future
+Future Words for Arrangements / Plans
+Future Words for Deadlines / Limits
+Future Words for Conditions / When Something Happens
+General / Unspecific Future Words
+A Couple of / A Few with ago / This / Today / Tonight
+```
+
+
+
+<!--------------------------------------------------------------------------------- Time Clauses -->
+<br><br>
+
+## Time Clauses
+AI
+```
+Teach me what Time Clauses is and its types for future, giving examples and explanations about them.
+```
+Subject
+```
+if
+before
+after
+where
+when
+while
+as
+until
+since
 ```
 
 

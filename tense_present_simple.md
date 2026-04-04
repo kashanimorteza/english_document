@@ -16,10 +16,11 @@ Subject
 ```
 Positive
 Negative
-Question
-WH-Word
+Question and Short Answers
 Contraction
-Use for
+WH-Word
+Usage
+Be Able To
 ```
 
 
@@ -36,10 +37,10 @@ Subject
 ```
 Positive
 Negative
-Question
-WH-Word
+Question and Short Answers
 Contraction
-Use for
+WH-Word
+Usage
 ```
 
 
@@ -56,10 +57,10 @@ Subject
 ```
 Positive
 Negative
-Question
-WH-Word
+Question and Short Answers
 Contraction
-Use for
+WH-Word
+Usage
 ```
 
 
@@ -76,10 +77,32 @@ Subject
 ```
 Positive
 Negative
-Question
-WH-Word
+Question and Short Answers
 Contraction
-Use for
+WH-Word
+Know How To
+Usage
+```
+
+
+
+<!--------------------------------------------------------------------------------- Should -->
+<br><br>
+
+## Should
+AI
+```
+teach me simple present using Should 
+```
+Subject
+```
+Positive
+Negative
+Question and Short Answers
+Contraction
+WH-Word
+Usage
+Be Able To
 ```
 
 
@@ -96,10 +119,10 @@ Subject
 ```
 Positive
 Negative
-Question
-WH-Word
+Question and Short Answers
 Contraction
-Use for
+WH-Word
+Usage
 ```
 
 

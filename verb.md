@@ -65,6 +65,21 @@ verb + infinitive
 </table>
 
 
+<!--------------------------------------------------------------------------------- Have + Infinitive -->
+<br><br>
+
+## Have + Infinitive
+AI
+```
+teach me Have + Infinitive
+```
+Subject
+```
+
+```
+
+
+
 <!--------------------------------------------------------------------------------- See, Look at, Watch, Hear, Listen to -->
 <br><br>
 
