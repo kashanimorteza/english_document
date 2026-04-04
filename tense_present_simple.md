@@ -1,8 +1,6 @@
-<!--------------------------------------------------------------------------------- Simple Present -->
-# Simple Present
+<!--------------------------------------------------------------------------------- Present Simple -->
+# Present Simple
 [English] > [Structure] > [Present Simple]
-
-
 
 <!--------------------------------------------------------------------------------- Be -->
 <br><br>
@@ -23,8 +21,6 @@ Usage
 Be Able To
 ```
 
-
-
 <!--------------------------------------------------------------------------------- Do -->
 <br><br>
 
@@ -42,8 +38,6 @@ Contraction
 WH-Word
 Usage
 ```
-
-
 
 <!--------------------------------------------------------------------------------- Have -->
 <br><br>
@@ -63,7 +57,24 @@ WH-Word
 Usage
 ```
 
+<!--------------------------------------------------------------------------------- Would Like -->
+<br><br>
 
+## Would Like
+AI
+```
+teach me simple present using Would Like 
+```
+Subject
+```
+Positive
+Negative
+Question and Short Answers
+Contraction
+WH-Word
+Know How To
+Usage
+```
 
 <!--------------------------------------------------------------------------------- Can -->
 <br><br>
@@ -84,7 +95,23 @@ Know How To
 Usage
 ```
 
+<!--------------------------------------------------------------------------------- Must -->
+<br><br>
 
+## Must
+AI
+```
+teach me simple present using Must 
+```
+Subject
+```
+Positive
+Negative
+Question and Short Answers
+Contraction
+WH-Word
+Usage
+```
 
 <!--------------------------------------------------------------------------------- Should -->
 <br><br>
@@ -105,7 +132,59 @@ Usage
 Be Able To
 ```
 
+<!--------------------------------------------------------------------------------- May -->
+<br><br>
 
+## May
+AI
+```
+teach me simple present using May 
+```
+Subject
+```
+Positive
+Negative
+Question and Short Answers
+Contraction
+WH-Word
+Usage
+```
+
+<!--------------------------------------------------------------------------------- Have to -->
+<br><br>
+
+## Have to
+AI
+```
+teach me simple present using Have Have to 
+```
+Subject
+```
+Positive
+Negative
+Question and Short Answers
+Contraction
+WH-Word
+Usage
+```
+
+<!--------------------------------------------------------------------------------- Verb + Infinitive -->
+<br><br>
+
+## Verb + Infinitive
+AI
+```
+teach me simple present using verb + infinitive
+```
+Subject
+```
+Positive
+Negative
+Question and Short Answers
+Contraction
+WH-Word
+Usage
+```
 
 <!--------------------------------------------------------------------------------- There -->
 <br><br>
@@ -124,8 +203,6 @@ Contraction
 WH-Word
 Usage
 ```
-
-
 
 <!--------------------------------------------------------------------------------- Link -->
 [English]: https://github.com/kashanimorteza/english_document/blob/main/README.md
