@@ -3,11 +3,7 @@
 [English] > [Structure] > [Noun]
 
 
-
-<!--------------------------------------------------------------------------------- Plural -->
-<br><br>
-
-## Plural
+s
 AI
 ```
 teach me plural of noun

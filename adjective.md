@@ -59,6 +59,14 @@ AI
 Teach me the Linking Verbs + Adjectives
 ```
 
+<!--------------------------------------------------------------------------------- Linking Verbs + Adjectives -->
+<br><br>
+
+## Adjectives and adverbs
+AI
+```
+Teach me the Linking Verbs + Adjectives
+```
 
 
 <!--------------------------------------------------------------------------------- Link -->

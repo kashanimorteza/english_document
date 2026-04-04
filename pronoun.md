@@ -76,6 +76,21 @@ Alternative
 Rules
 ```
 
+<!--------------------------------------------------------------------------------- Indefinite -->
+<br><br>
+
+## Indefinite
+AI
+```
+teach me Indefinite pronoun with category and example, step by step and separate each category
+```
+Subject
+```
+People  : Someone | Somebody | Anyone | Anybody | Everyone | Everybody | No one | Nobody
+Things  : Something | Anything | Everything | Nothing
+General : All | Some | Any | None | Each | Every | Few | Many | Several
+```
+
 
 <!--------------------------------------------------------------------------------- Demonstrative -->
 <br><br>
@@ -164,28 +179,7 @@ Who | Whom | Whose | Which | That
 
 
 
-<!--------------------------------------------------------------------------------- Indefinite -->
-<br><br>
 
-## Indefinite
-
-<!-------------------------- People -->
-### People
-```
-Someone | Somebody | Anyone | Anybody | Everyone | Everybody | No one | Nobody
-```
-
-<!-------------------------- Things -->
-### Things
-```
-Something | Anything | Everything | Nothing
-```
-
-<!-------------------------- General -->
-### General
-```
-All | Some | Any | None | Each | Every | Few | Many | Several
-```
 
 
 

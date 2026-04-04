@@ -127,6 +127,18 @@
 
 ## Step-14
 [Adjective](https://github.com/kashanimorteza/english_document/tree/main/adjective.md)  
+[Sentence : Expressions of quantity](https://github.com/kashanimorteza/english_document/tree/main/sentence.md#expressions-of-quantity)  
+[Pronoun : Indefinite](https://github.com/kashanimorteza/english_document/tree/main/indefinite.md)  
+
+
+
+<!--------------------------------------------------------------------------------- Step-15 -->
+<br>
+
+## Step-15
+[Sentence : Comparisons](https://github.com/kashanimorteza/english_document/tree/main/sentence.md#comparisons)  
+[Sentence : Superlative](https://github.com/kashanimorteza/english_document/tree/main/sentence.md#superlative)  
+
 
 
 
