@@ -1,6 +1,6 @@
 <!--------------------------------------------------------------------------------- Simple Past -->
 # Simple Past
-[English] > [Structure] > [Simple Past]
+[English] > [Structure] > [Past Simple]
 
 
 
@@ -111,12 +111,22 @@ Usage
 ## Verb format
 AI
 ```
-Teach me the format for converting verbs to the past tense
+teach me:
+How to convert verbs to past (format)
+Regular vs Irregular
+Types of irregular verbs
 ```
 Subject
 ```
 Regular Verbs
-Irregular Verbs
+Irregular Verbs 
+    Same Base and Past
+    Same Pattern (Vowel Change)
+    Completely Different
+    End with -t or -d
+    “-ought” / “-aught” Pattern
+    “-ew” Pattern
+    Modal Verbs (Special)
 ```
 
 
@@ -137,8 +147,29 @@ Yesterday
 ```
 
 
+<!--------------------------------------------------------------------------------- Time Clauses -->
+<br><br>
+
+## Time Clauses
+AI
+```
+Teach me what Time Clauses is and its types, giving examples and explanations about them.
+```
+Subject
+```
+before
+after
+where
+when
+while
+as
+until
+since
+```
+
+
 
 <!--------------------------------------------------------------------------------- Link -->
 [English]: https://github.com/kashanimorteza/english_document/blob/main/README.md
 [Structure]: https://github.com/kashanimorteza/english_document/blob/main/structure.md
-[Simple Past]: https://github.com/kashanimorteza/english_document/blob/main/tense_simple_past.md
+[Simple Past]: https://github.com/kashanimorteza/english_document/blob/main/tense_past_simple.md

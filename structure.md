@@ -41,13 +41,15 @@
 <br><br>
 
 ## Tense
-[Simple Present](https://github.com/kashanimorteza/english_document/tree/main/tense_simple_present.md)  
-[Simple Past](https://github.com/kashanimorteza/english_document/tree/main/tense_simple_past.md)  
-[Future](https://github.com/kashanimorteza/english_document/tree/main/future.md)  
+[Present Simple](https://github.com/kashanimorteza/english_document/tree/main/tense_present_simple.md)  
+[Present Progressive](https://github.com/kashanimorteza/english_document/tree/main/tense_present_progressive.md)  
+[Past Simple](https://github.com/kashanimorteza/english_document/tree/main/tense_past_simple.md)  
+[Past Progressive](https://github.com/kashanimorteza/english_document/tree/main/tense_past_progressive.md)  
+[Future Simple](https://github.com/kashanimorteza/english_document/tree/main/tense_future_simple.md)  
+[Future Progressive](https://github.com/kashanimorteza/english_document/tree/main/tense_future_progressive.md)  
 [Present Continuous](https://github.com/kashanimorteza/english_document/tree/main/present-continuous.md)  
 [Present Perfect](https://github.com/kashanimorteza/english_document/tree/main/present-perfect.md)  
 [Past Continuous](https://github.com/kashanimorteza/english_document/tree/main/past-continuous.md)  
-
 
 
 <!--------------------------------------------------------------------------------- Type -->

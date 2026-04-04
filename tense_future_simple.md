@@ -107,4 +107,4 @@ Use for
 <!--------------------------------------------------------------------------------- Link -->
 [English]: https://github.com/kashanimorteza/english_document/blob/main/README.md
 [Structure]: https://github.com/kashanimorteza/english_document/blob/main/structure.md
-[Simple Present]: https://github.com/kashanimorteza/english_document/blob/main/temse_simple_present.md
+[Future Simple]: https://github.com/kashanimorteza/english_document/blob/main/tense_future_simple.md
