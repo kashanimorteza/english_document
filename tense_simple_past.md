@@ -27,19 +27,20 @@ Usage
 <!--------------------------------------------------------------------------------- Do -->
 <br><br>
 
-## DO
+## Do
 AI
 ```
-teach me simple present using Do 
+teach me simple past using do with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step and seperate
 ```
 Subject
 ```
+Using -ed
 Positive
 Negative
-Question
-WH-Word
+Question and Short Answers
 Contraction
-Use for
+WH-Word
+Usage
 ```
 
 
@@ -50,16 +51,16 @@ Use for
 ## Have
 AI
 ```
-teach me simple present using Have 
+teach me simple past using have with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step and seperate 
 ```
 Subject
 ```
 Positive
 Negative
-Question
-WH-Word
+Question and Short Answers
 Contraction
-Use for
+WH-Word
+Usage
 ```
 
 
@@ -70,16 +71,16 @@ Use for
 ## Can
 AI
 ```
-teach me simple present using Can 
+teach me simple past using can with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step and seperate  
 ```
 Subject
 ```
 Positive
 Negative
-Question
-WH-Word
+Question and Short Answers
 Contraction
-Use for
+WH-Word
+Usage
 ```
 
 
@@ -90,16 +91,49 @@ Use for
 ## There
 AI
 ```
-teach me simple present using There 
+teach me simple past using there with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step and seperate  
 ```
 Subject
 ```
 Positive
 Negative
-Question
-WH-Word
+Question and Short Answers
 Contraction
-Use for
+WH-Word
+Usage
+```
+
+
+
+<!--------------------------------------------------------------------------------- Verb format -->
+<br><br>
+
+## Verb format
+AI
+```
+Teach me the format for converting verbs to the past tense
+```
+Subject
+```
+Regular Verbs
+Irregular Verbs
+```
+
+
+
+<!--------------------------------------------------------------------------------- Time Expressions -->
+<br><br>
+
+## Time Expressions
+AI
+```
+teach me Time Expressions Commonly Used in Past Tense
+```
+Subject
+```
+Ago
+Last
+Yesterday
 ```
 
 
