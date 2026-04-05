@@ -2,6 +2,30 @@
 # Pronoun
 [English] > [Structure] > [Pronoun]
 
+<!--------------------------------------------------------------------------------- Pronoun -->
+<br><br>
+
+## Pronoun
+AI
+```
+Just give me the grouping of all the pronouns
+```
+Subject
+```
+Personal pronouns (subject): I, you, he, she, it, we, they
+Personal pronouns (object): me, you, him, her, it, us, them
+Possessive pronouns (independent): mine, yours, his, hers, its, ours, theirs
+Possessive pronouns (adjectives): my, your, his, her, its, our, their
+Reflexive / intensive pronouns: myself, yourself, himself, herself, itself, ourselves, yourselves, themselves
+Demonstrative pronouns: this, that, these, those
+Interrogative pronouns: who, whom, whose, which, what
+Relative pronouns: who, whom, whose, which, that
+Indefinite pronouns: someone, somebody, something, anyone, anybody, anything, everyone, everybody, everything, no one, nobody, nothing, each, either, neither, one, ones, all, some, any, none, several, few, many, much
+Reciprocal pronouns: each other, one another
+Distributive pronouns: each, either, neither
+Relative indefinite pronouns: whoever, whomever, whichever, whatever
+```
+
 <!--------------------------------------------------------------------------------- Personal Subject -->
 <br><br>
 
@@ -14,6 +38,7 @@ Subject
 ```
 Structure
 Rule
+I, you, he, she, it, we, they
 ```
 
 <!--------------------------------------------------------------------------------- Personal Object -->
@@ -28,6 +53,7 @@ Subject
 ```
 Structure
 Rule
+me, you, him, her, it, us, them
 ```
 
 <!--------------------------------------------------------------------------------- Possessive Adjectives -->
@@ -36,21 +62,23 @@ Rule
 ## Possessive Adjectives
 AI
 ```
-teach me Possessive Adjectives
+teach me Possessive Adjectives Pronoun
 ```
 Subject
 ```
 Structure
 Rule
+my, your, his, her, its, our, their
 ```
 
 <!--------------------------------------------------------------------------------- Possessive Pronouns -->
 <br><br>
 
-## Possessive Pronouns
+## Possessive Independent
 AI
 ```
-teach me Possessive Pronouns
+teach me Possessive Independent Pronouns
+mine, yours, his, hers, its*, ours, theirs
 ```
 Subject
 ```
@@ -64,7 +92,7 @@ Rule
 ## Possessive Noun
 AI
 ```
-teach me Possessive Noun
+teach me Possessive Noun Pronouns
 ```
 Subject
 ```
@@ -74,6 +102,58 @@ Irregular Plural Nouns
 Two Owners(one thing/different thing)
 Alternative
 Rules
+```
+
+<!--------------------------------------------------------------------------------- Reflexive / Intensive -->
+<br><br>
+
+## Reflexive / Intensive
+AI
+```
+teach me Reflexive / Intensive Pronouns
+```
+Subject
+```
+myself, yourself, himself, herself, itself, ourselves, yourselves, themselves
+```
+
+<!--------------------------------------------------------------------------------- Demonstrative -->
+<br><br>
+
+## Demonstrative
+AI
+```
+teach me Demonstrative Pronouns
+```
+Subject
+```
+this, that, these, those
+```
+
+<!--------------------------------------------------------------------------------- Interrogative -->
+<br><br>
+
+## Interrogative
+AI
+```
+teach me Interrogative Pronouns
+```
+Subject
+```
+who, whom, whose, which, what
+```
+
+<!--------------------------------------------------------------------------------- Relative -->
+<br><br>
+
+## Relative
+AI
+```
+teach me Relative Pronouns
+```
+Subject
+```
+who, whom, whose, which, that
 ```
 
 <!--------------------------------------------------------------------------------- Indefinite -->
@@ -91,123 +171,51 @@ Things  : Something | Anything | Everything | Nothing
 General : All | Some | Any | None | Each | Every | Few | Many | Several
 ```
 
-
-<!--------------------------------------------------------------------------------- Demonstrative -->
-<br><br>
-
-## Demonstrative
-```
-ضمایر اشاره
-```
-<table>
-  <tbody>
-    <tr>
-    <td>
-        <!---------- Singular -->
-        <table>
-        <tbody>
-            <tr><td align="center" colspan="3">One</td></tr>
-            <tr><td align="center">this</td><td align="center">near</td><td align="center">this is book</td></tr>
-            <tr><td align="center">that</td><td align="center">far</td><td align="center">that is book</td></tr>
-        </tbody>
-        </table>
-    </td>
-    <td>
-        <!---------- Plural -->
-        <table>
-        <tbody>
-            <tr><td align="center" colspan="3">Many</td></tr>
-            <tr><td align="center">these</td><td align="center">near</td><td align="center">these are books</td></tr>
-            <tr><td align="center">those</td><td align="center">far</td><td align="center">those are books</td></tr>
-        </tbody>
-        </table>
-    </td>
-    </tr>
-  </tbody>
-</table>
-
-
-
-
-
-
-
-<!--------------------------------------------------------------------------------- Reflexive -->
-<br><br>
-
-## Reflexive
-
-```
-Myself | Yourself | Himself | Herself | Itself | Ourselves | Yourselves | Themselves
-```
-
-
-
 <!--------------------------------------------------------------------------------- Reciprocal -->
 <br><br>
 
 ## Reciprocal
 
+AI
 ```
-Each other | One another
+teach me Reciprocal Pronouns
 ```
-
-
-
-<!--------------------------------------------------------------------------------- Interrogative -->
-<br><br>
-
-## Interrogative
-
+Subject
 ```
-Who | Whom | Whose | Which | What
+each other, one another
 ```
-
-
-
-<!--------------------------------------------------------------------------------- Relative -->
-<br><br>
-
-## Relative
-
-```
-Who | Whom | Whose | Which | That
-```
-
-
-
-
-
-
-
-
-
 
 <!--------------------------------------------------------------------------------- Distributive -->
 <br><br>
 
 ## Distributive
 
+AI
 ```
-Each | Either | Neither
+teach me Distributive Pronouns
+```
+Subject
+```
+each, either, neither
 ```
 
 
-
-<!--------------------------------------------------------------------------------- Quantifier -->
+<!--------------------------------------------------------------------------------- Relative Indefinite -->
 <br><br>
 
-## Quantifier
+## Relative Indefinite
 
+AI
 ```
-Much | Many | Little | Few | Several | Enough
-```You | Him | Her | It | Us | Them
+teach me Relative Indefinite Pronouns
 ```
-
+Subject
+```
+whoever, whomever, whichever, whatever
+```
 
 
 <!--------------------------------------------------------------------------------- Link -->
 [English]: https://github.com/kashanimorteza/english_document/blob/main/README.md
 [Structure]: https://github.com/kashanimorteza/english_document/blob/main/structure.md
-[Role]: https://github.com/kashanimorteza/english_document/blob/main/role.md
 [Pronoun]: https://github.com/kashanimorteza/english_document/blob/main/pronoun.md
