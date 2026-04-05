@@ -30,12 +30,10 @@ Relative Indefinite
 ## Personal Subject
 AI
 ```
-teach me Personal Subject Pronoun
+Teach me Personal Subject step by step, from superficial to deep with example in the butiful table
 ```
 Subject
 ```
-Structure
-Rule
 I, you, he, she, it, we, they
 ```
 
@@ -45,12 +43,10 @@ I, you, he, she, it, we, they
 ## Personal Object
 AI
 ```
-teach me Personal Object Pronoun
+Teach me Personal Object step by step, from superficial to deep with example in the butiful table
 ```
 Subject
 ```
-Structure
-Rule
 me, you, him, her, it, us, them
 ```
 

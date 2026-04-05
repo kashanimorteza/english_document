@@ -8,7 +8,8 @@
 ## Morteza
 
 ### Step-1
-[Pronoun](https://github.com/kashanimorteza/english_document/tree/main/pronoun.md)  
+[Pronoun : Personal : Subject](https://github.com/kashanimorteza/english_document/tree/main/pronoun.md#personal-subject)  
+[Pronoun : Personal : Object](https://github.com/kashanimorteza/english_document/tree/main/pronoun.md#personal-object)  
 
 
 
