@@ -8,22 +8,20 @@
 ## Pronoun
 AI
 ```
-Just give me the grouping of all the pronouns
+teach me pronoun and  give me the grouping of all the pronouns  as a list without any desctiption and example
 ```
 Subject
 ```
-Personal pronouns (subject): I, you, he, she, it, we, they
-Personal pronouns (object): me, you, him, her, it, us, them
-Possessive pronouns (independent): mine, yours, his, hers, its, ours, theirs
-Possessive pronouns (adjectives): my, your, his, her, its, our, their
-Reflexive / intensive pronouns: myself, yourself, himself, herself, itself, ourselves, yourselves, themselves
-Demonstrative pronouns: this, that, these, those
-Interrogative pronouns: who, whom, whose, which, what
-Relative pronouns: who, whom, whose, which, that
-Indefinite pronouns: someone, somebody, something, anyone, anybody, anything, everyone, everybody, everything, no one, nobody, nothing, each, either, neither, one, ones, all, some, any, none, several, few, many, much
-Reciprocal pronouns: each other, one another
-Distributive pronouns: each, either, neither
-Relative indefinite pronouns: whoever, whomever, whichever, whatever
+Personal 
+Possessive 
+Reflexive / Intensive 
+Demonstrative 
+Interrogative 
+Relative 
+Indefinite 
+Reciprocal 
+Distributive 
+Relative Indefinite 
 ```
 
 <!--------------------------------------------------------------------------------- Personal Subject -->
@@ -71,7 +69,7 @@ Rule
 my, your, his, her, its, our, their
 ```
 
-<!--------------------------------------------------------------------------------- Possessive Pronouns -->
+<!--------------------------------------------------------------------------------- Possessive  -->
 <br><br>
 
 ## Possessive Independent
