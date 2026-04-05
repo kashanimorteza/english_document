@@ -8,7 +8,7 @@
 ## Pronoun
 AI
 ```
-teach me pronoun and  give me the grouping of all the pronouns  as a list without any desctiption and example
+teach me pronoun and give me the grouping of all the pronouns  as a list without any desctiption and example
 ```
 Subject
 ```
