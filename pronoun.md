@@ -34,6 +34,8 @@ Teach me Personal Subject step by step, from superficial to deep with example in
 ```
 Subject
 ```
+Sentence Structure
+Position in Sentence
 I, you, he, she, it, we, they
 ```
 
@@ -47,6 +49,8 @@ Teach me Personal Object step by step, from superficial to deep with example in 
 ```
 Subject
 ```
+Sentence Structure
+Position in Sentence
 me, you, him, her, it, us, them
 ```
 
@@ -56,12 +60,12 @@ me, you, him, her, it, us, them
 ## Possessive Adjectives
 AI
 ```
-teach me Possessive Adjectives Pronoun
+Teach me Possessive Adjectives Object step by step, from superficial to deep with example in the butiful table
 ```
 Subject
 ```
-Structure
-Rule
+Sentence Structure
+Position in Sentence
 my, your, his, her, its, our, their
 ```
 
@@ -71,13 +75,13 @@ my, your, his, her, its, our, their
 ## Possessive Independent
 AI
 ```
-teach me Possessive Independent Pronouns
-mine, yours, his, hers, its*, ours, theirs
+Teach me Possessive Independent Object step by step, from superficial to deep with example in the butiful table
 ```
 Subject
 ```
-Structure
-Rule
+Sentence Structure
+Position in Sentence
+mine, yours, his, hers, its*, ours, theirs
 ```
 
 <!--------------------------------------------------------------------------------- Possessive Noun -->
