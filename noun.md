@@ -3,7 +3,10 @@
 [English] > [Structure] > [Noun]
 
 
-s
+<!--------------------------------------------------------------------------------- Plural -->
+<br><br>
+
+## Plural
 AI
 ```
 teach me plural of noun
@@ -65,12 +68,13 @@ Rules
 ## Article
 AI
 ```
-Teach me article
+Teach me Article step by step, from superficial to deep with example in the butiful table
 ```
 Subject
 ```
 Definite   : The
 Indefinite : A / AN
+Vowel and Consonant
 ```
 
 
