@@ -36,6 +36,7 @@ Subject
 ```
 Sentence Structure
 Position in Sentence
+Rules
 I, you, he, she, it, we, they
 ```
 
@@ -51,6 +52,7 @@ Subject
 ```
 Sentence Structure
 Position in Sentence
+Rules
 me, you, him, her, it, us, them
 ```
 
@@ -66,6 +68,7 @@ Subject
 ```
 Sentence Structure
 Position in Sentence
+Rules
 my, your, his, her, its, our, their
 ```
 
@@ -81,6 +84,7 @@ Subject
 ```
 Sentence Structure
 Position in Sentence
+Rules
 mine, yours, his, hers, its*, ours, theirs
 ```
 
@@ -90,12 +94,12 @@ mine, yours, his, hers, its*, ours, theirs
 ## Possessive Noun
 AI
 ```
-teach me Possessive Noun Pronouns
+Teach me Possessive Noun Object step by step, from superficial to deep with example in the butiful table
 ```
 Subject
 ```
-Singular Noun
-Plural Noun
+Singular Possession
+Plural Possession
 Irregular Plural Nouns
 Two Owners(one thing/different thing)
 Alternative

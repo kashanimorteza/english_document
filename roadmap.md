@@ -9,9 +9,10 @@
 
 ### Step-1
 [Pronoun : Personal : Subject](https://github.com/kashanimorteza/english_document/tree/main/pronoun.md#personal-subject)  
-[Pronoun : Personal : Object](https://github.com/kashanimorteza/english_document/tree/main/pronoun.md#personal-object)
+[Pronoun : Personal : Object](https://github.com/kashanimorteza/english_document/tree/main/pronoun.md#personal-object)  
 [Pronoun : Possessive : Adjectives](https://github.com/kashanimorteza/english_document/tree/main/pronoun.md#possessive-adjectives)  
 [Pronoun : Possessive : Independent](https://github.com/kashanimorteza/english_document/tree/main/pronoun.md#possessive-independent)  
+[Pronoun : Possessive : Noun](https://github.com/kashanimorteza/english_document/tree/main/pronoun.md#possessive-noun)  
 
 
 
