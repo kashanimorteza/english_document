@@ -17,6 +17,7 @@
 ### Step-2
 [Tense : Present : Simple : Be](https://github.com/kashanimorteza/english_document/tree/main/tense_present_simple.md#be)  
 [Noun : Article](https://github.com/kashanimorteza/english_document/tree/main/noun.md#article)  
+[Noun : Plural](https://github.com/kashanimorteza/english_document/tree/main/noun.md#plural)  
 
 
 

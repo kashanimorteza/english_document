@@ -19,7 +19,14 @@ Contraction
 WH-Word
 Usage
 Be Able To
-Pronoun + be / Noun + be
+
+Sentence Pattern
+----------------------
+Pronoun + be
+Noun + be
+Subhect + Be + Noun
+Subhect + Be + Adjective
+Subhect + Be +  A Place
 ```
 
 <!--------------------------------------------------------------------------------- Do -->

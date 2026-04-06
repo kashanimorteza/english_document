@@ -3,18 +3,24 @@
 [English] > [Subject] > [Place]
 
 
-
-<!--------------------------------------------------------------------------------- It -->
+<!--------------------------------------------------------------------------------- Description -->
 <br><br>
 
-## It
+## Description
+AI
+```
+Teach me place step by step, from superficial to deep with example in the butiful table :
+    All Preposition
+    Sentence Structure
+    Position in Sentence
 
-
-
-<!--------------------------------------------------------------------------------- Preposition -->
-<br><br>
-
-## Preposition
+```
+Subject
+```
+Preposition
+Sentence Structure
+Position in Sentence
+```
 
 
 

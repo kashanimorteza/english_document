@@ -9,7 +9,7 @@
 ## Plural
 AI
 ```
-teach me plural of noun
+teach me Plural Noun and give me the grouping of all the pronouns  as a list without any desctiption and example
 ```
 Subject
 ```
@@ -17,7 +17,7 @@ Basic Rule
 Nouns Ending in s, ss, sh, ch, x, z
 Nouns Ending in -y
 Nouns Ending in -f, -fe
-Irregular Plurals
+Irregular Nouns
 Nouns with the Same Singular & Plural
 Always Plural Nouns
 ```
