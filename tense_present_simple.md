@@ -8,7 +8,7 @@
 ## Be
 AI
 ```
-teach me simple present using be 
+Teach me simple present using be step by step, from superficial to deep with example in the butiful table
 ```
 Subject
 ```
