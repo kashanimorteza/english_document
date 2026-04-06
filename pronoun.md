@@ -62,7 +62,8 @@ me, you, him, her, it, us, them
 ## Possessive Adjectives
 AI
 ```
-Teach me Possessive Adjectives Object step by step, from superficial to deep with example in the butiful table
+Teach me just Possessive Adjectives Object step by step, from superficial to deep with example in the butiful table 
+
 ```
 Subject
 ```
