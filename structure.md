@@ -42,21 +42,21 @@
 
 ## Tense
 <!-------------------------- Present -->
-### Present
+Present
 [Simple](https://github.com/kashanimorteza/english_document/tree/main/tense_present_simple.md)  
 [Progressive](https://github.com/kashanimorteza/english_document/tree/main/tense_present_progressive.md)  
 [Perfect](https://github.com/kashanimorteza/english_document/tree/main/tense_present_simple.md)  
 [Perfect Progressive](https://github.com/kashanimorteza/english_document/tree/main/tense_present_perfect_progressive.md)  
 
 <!-------------------------- Past -->
-### Past
+Past
 [Simple](https://github.com/kashanimorteza/english_document/tree/main/tense_past_simple.md)  
 [Progressive](https://github.com/kashanimorteza/english_document/tree/main/tense_past_progressive.md)  
 [Perfect](https://github.com/kashanimorteza/english_document/tree/main/tense_past_perfect.md)  
 [Perfect Progressive](https://github.com/kashanimorteza/english_document/tree/main/tense_past_perfect_progressive.md)  
 
 <!-------------------------- Future -->
-### Future
+Future
 [Simple](https://github.com/kashanimorteza/english_document/tree/main/tense_future_simple.md)  
 [Progressive](https://github.com/kashanimorteza/english_document/tree/main/tense_future_progressive.md)  
 [Perfect](https://github.com/kashanimorteza/english_document/tree/main/tense_future_perfect.md)  
