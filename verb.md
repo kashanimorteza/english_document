@@ -6,64 +6,36 @@
 [Would like](https://github.com/kashanimorteza/english_document/tree/main/wouldlike.md)  
 
 
-<!--------------------------------------------------------------------------------- 3rd persion -->
+<!--------------------------------------------------------------------------------- 3rd Persion -->
 <br><br>
 
-## 3rd persion
+## 3rd Persion
+AI
 ```
-The verb after 3rd persion singular has final -s
+Teach me verb conjugations for the third person
 ```
-<table>
-  <tbody>
-    <tr>
-    <td>
-        <!---------- Singular -->
-        <table><tbody>
-        <tr><td align="center" rowspan="5">Singular</td><td align="center">I</td><td align="center">work</td></tr>
-        <tr><td align="center">you</td><td align="center">work</td></tr>
-        <tr><td align="center">he</td><td align="center">works</td></tr>
-        <tr><td align="center">she</td><td align="center">works</td></tr>
-        <tr><td align="center">it</td><td align="center">works</td></tr>
-        </tbody></table>
-    </td>
-    <td>
-        <!---------- Plural -->
-        <table><tbody>
-        <tr><td align="center" rowspan="3">Plural</td><td align="center">we</td><td align="center">work</td></tr>
-        <tr><td align="center">you</td><td align="center">work</td></tr>
-        <tr><td align="center">they</td><td align="center">work</td></tr>
-        </tbody></table>
-    </td>
-    </tr>
-  </tbody>
-</table>
+Subject
+```
+General Rule
+Rules for Adding -es
+Verbs Ending with -y
+Irregular Verbs
+Negative
+Question
+```
 
-<table>
-  <tbody>
-    <tr><td>work</td><td>-s</td><td>works</td></tr>
-    <tr><td>go</td><td>-es</td><td>goes</td></tr>
-    <tr><td>watch</td><td>-es</td><td>watches</td></tr>
-  </tbody>
-</table>
-
-
-
-<!--------------------------------------------------------------------------------- To + Verb -->
+<!--------------------------------------------------------------------------------- Verb + Infinitive -->
 <br><br>
 
-## To + Verb
+## Verb + Infinitive
+AI
 ```
-verb + infinitive
+Teach me verb + infinitive
 ```
-
-<table>
-  <tbody>
-    <tr><td>like to</td><td>i like to travel</td></tr>
-    <tr><td>want to</td><td>i want to travel</td></tr>
-    <tr><td>need to</td><td>i need to travel</td></tr>
-  </tbody>
-</table>
-
+Subject
+```
+want / need / like / hope / plan / decide / promise / learn
+```
 
 <!--------------------------------------------------------------------------------- Have + Infinitive -->
 <br><br>

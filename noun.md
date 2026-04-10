@@ -9,7 +9,7 @@
 ## Plural
 AI
 ```
-teach me Plural Noun and give me the grouping of all the pronouns  as a list without any desctiption and example
+teach me Plural Noun
 ```
 Subject
 ```
