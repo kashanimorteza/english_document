@@ -3,8 +3,6 @@
 [English] > [Structure] > [Verb]
 
 
-[Would like](https://github.com/kashanimorteza/english_document/tree/main/wouldlike.md)  
-
 
 <!--------------------------------------------------------------------------------- 3rd Persion -->
 <br><br>
@@ -71,7 +69,15 @@ Subject
 <br><br>
 
 ## See, Look at, Watch, Hear, Listen to
-
+AI
+```
+Teach me (See, Look at, Watch, Hear, Listen to) step by step, from superficial to deep with example in the butiful table
+this topic related to non-action verbs and action berbs
+```
+Subject
+```
+See / Look at / Watch / Hear / Listen to
+```
 <table>
   <tbody>
     <tr><td>Verb</td><td>Explanation</td><td>Example</td></tr>
@@ -123,6 +129,28 @@ Subject
     </tr>
   </tbody>
 </table>
+
+
+<!--------------------------------------------------------------------------------- Would Like -->
+<br><br>
+
+## Would Like
+AI
+```
+teach me Must
+```
+Subject
+```
+Positive
+Negative
+Question and Short Answers
+Contraction
+WH-Word
+Usage
+Key Tips
+Examples in Daily Life
+```
+
 
 
 <!--------------------------------------------------------------------------------- Link -->
