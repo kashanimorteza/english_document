@@ -2,21 +2,24 @@
 # Weather
 [English] > [Subject] > [Weather]
 
-
-
-<!--------------------------------------------------------------------------------- It -->
+<!--------------------------------------------------------------------------------- Description -->
 <br><br>
 
-## It
+## Description
+AI
+```
+Teach me weather step by step, from superficial to deep with example in the butiful table :
+    All Preposition
+    Sentence Structure
+    Position in Sentence
 
-
-
-<!--------------------------------------------------------------------------------- Preposition -->
-<br><br>
-
-## Preposition
-
-
+```
+Subject
+```
+Preposition
+Sentence Structure
+Position in Sentence
+```
 
 <!--------------------------------------------------------------------------------- Link -->
 [English]: https://github.com/kashanimorteza/english_document/blob/main/README.md

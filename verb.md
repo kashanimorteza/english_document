@@ -114,6 +114,15 @@ See / Look at / Watch / Hear / Listen to
 <br><br>
 
 ## Think about / Think that
+AI
+```
+Teach me (Think about, Think that) step by step, from superficial to deep with example in the butiful table
+```
+Subject
+```
+Think about / Think that
+```
+
 <table>
   <tbody>
     <tr><td>Verb</td><td>Explanation</td><td>Example</td></tr>

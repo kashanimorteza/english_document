@@ -2,7 +2,6 @@
 # Place
 [English] > [Subject] > [Place]
 
-
 <!--------------------------------------------------------------------------------- Description -->
 <br><br>
 
@@ -21,8 +20,6 @@ Preposition
 Sentence Structure
 Position in Sentence
 ```
-
-
 
 <!--------------------------------------------------------------------------------- Link -->
 [English]: https://github.com/kashanimorteza/english_document/blob/main/README.md

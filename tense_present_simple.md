@@ -208,7 +208,7 @@ Positive
 Negative
 Question and Short Answers
 Contraction
-WH-Word
+WH-Word Question
 Usage
 ```
 
