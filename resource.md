@@ -8,14 +8,24 @@
 <br><br>
 
 ## Youtube
+[EnglishEasyPractice](https://www.youtube.com/@EnglishEasyPractice)  
+[learn-english-online-1](https://www.youtube.com/@learn-english-online-1)  
 [EnglishAvenuee](https://www.youtube.com/@EnglishAvenuee)  
 [bbclearningenglish](https://www.youtube.com/@bbclearningenglish)  
 
+[]()  
+[]()  
+[]()  
+[]()  
 
-<!--------------------------------------------------------------------------------- Padcast -->
+
+
+
+
+<!--------------------------------------------------------------------------------- Podcast -->
 <br><br>
 
-## Padcast
+## Podcast
 [english-e-reader](https://english-e-reader.net)  
 [voanews](https://learningenglish.voanews.com)  
 
