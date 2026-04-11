@@ -2,13 +2,26 @@
 # Present Simple
 [English] > [Structure] > [Present Simple]
 
+<!--------------------------------------------------------------------------------- Description -->
+<br><br>
+
+## Description
+AI
+```
+what is simple present?
+```
+Subject
+```
+Usage
+```
+
 <!--------------------------------------------------------------------------------- Be -->
 <br><br>
 
 ## Be
 AI
 ```
-Teach me simple present using be step by step, from superficial to deep with example in the butiful table
+Teach me simple present using be with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step)
 ```
 Subject
 ```

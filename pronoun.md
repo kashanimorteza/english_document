@@ -2,13 +2,13 @@
 # Pronoun
 [English] > [Structure] > [Pronoun]
 
-<!--------------------------------------------------------------------------------- Pronoun -->
+<!--------------------------------------------------------------------------------- Description -->
 <br><br>
 
-## Pronoun
+## Description
 AI
 ```
-teach me pronoun and give me the grouping of all the pronouns  as a list without any desctiption and example
+Teach me pronoun with simple example and give me the grouping of all the pronouns as a list without any desctiption and example
 ```
 Subject
 ```
@@ -21,7 +21,9 @@ Relative
 Indefinite 
 Reciprocal 
 Distributive 
-Relative Indefinite 
+Relative Indefinite  
+Emphatic  
+Quantifier  
 ```
 
 <!--------------------------------------------------------------------------------- Personal Subject -->
@@ -30,7 +32,7 @@ Relative Indefinite
 ## Personal Subject
 AI
 ```
-Teach me Personal Subject step by step, from superficial to deep with example in the butiful table
+Teach me Personal Subject Pronoun step by step, from superficial to deep with example in the butiful table
 ```
 Subject
 ```
