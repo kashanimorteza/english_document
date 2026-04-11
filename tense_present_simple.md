@@ -2,17 +2,24 @@
 # Present Simple
 [English] > [Structure] > [Present Simple]
 
+<!--------------------------------------------------------------------------------- Resource -->
+<br><br>
+
+## Resource
+[Youtube : EnglishEasyPractice : Listen and Speak English Story For Simple Present Tense](https://www.youtube.com/watch?v=FqmiLz29f9E&list=PLpODSd__yLPVVlSZo3RpAOiRZWHaUAoDb)  
+
+
 <!--------------------------------------------------------------------------------- Description -->
 <br><br>
 
 ## Description
 AI
 ```
-what is simple present?
+what is simple present? 
+When do we use Simple Present?
 ```
 Subject
 ```
-Usage
 ```
 
 <!--------------------------------------------------------------------------------- Be -->
