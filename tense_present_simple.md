@@ -18,9 +18,6 @@ AI
 what is simple present? 
 When do we use Simple Present?
 ```
-Subject
-```
-```
 
 <!--------------------------------------------------------------------------------- Be -->
 <br><br>
@@ -29,24 +26,19 @@ Subject
 AI
 ```
 Teach me simple present using be with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step)
-```
-Subject
-```
-Positive
-Negative
-Question and Short Answers
-Contraction
-WH-Word
-Usage
-Be Able To
-
-Sentence Pattern
-----------------------
-Pronoun + be
-Noun + be
-Subhect + Be + Noun
-Subhect + Be + Adjective
-Subhect + Be +  A Place
+Pay attention to the following points in training:
+    Positive
+    Negative
+    Question and Short Answers
+    Contraction
+    WH-Word
+    Usage
+    Be Able To
+    Pronoun + be
+    Noun + be
+    Subhect + Be + Noun
+    Subhect + Be + Adjective
+    Subhect + Be +  A Place
 ```
 
 <!--------------------------------------------------------------------------------- Do -->
@@ -55,16 +47,14 @@ Subhect + Be +  A Place
 ## DO
 AI
 ```
-teach me simple present using Do 
-```
-Subject
-```
-Positive
-Negative
-Question and Short Answers
-Contraction
-WH-Word
-Usage
+Teach me simple present using do with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step)
+Pay attention to the following points in training:
+    Positive
+    Negative
+    Question and Short Answers
+    Contraction
+    WH-Word
+    Usage
 ```
 
 <!--------------------------------------------------------------------------------- Have -->
