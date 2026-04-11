@@ -47,8 +47,6 @@ Teach me the rules about prepositions.
 ## Weather
 [Weather](https://github.com/kashanimorteza/english_document/blob/main/weather.md)
 
-
-
 <!--------------------------------------------------------------------------------- Link -->
 [English]: https://github.com/kashanimorteza/english_document/blob/main/README.md
 [Structure]: https://github.com/kashanimorteza/english_document/blob/main/structure.md

@@ -18,7 +18,7 @@ Positive
 Negative
 Question and Short Answers
 Contraction
-WH-Word
+WH-Word Question
 Usage
 Be Able To
 ```
@@ -112,10 +112,7 @@ Usage
 ## Verb format
 AI
 ```
-teach me:
-How to convert verbs to past (format)
-Regular vs Irregular
-Types of irregular verbs
+teach me How to convert verbs to past (format), Regular vs Irregular, Types of irregular verbs
 ```
 Subject
 ```
@@ -132,19 +129,23 @@ Irregular Verbs
 
 
 
-<!--------------------------------------------------------------------------------- Time Expressions -->
+<!--------------------------------------------------------------------------------- Word -->
 <br><br>
 
-## Time Expressions
+## Word
 AI
 ```
-teach me Time Expressions Commonly Used in Past Tense
+teach me how to use Present Progressive to express past time step by step
 ```
 Subject
 ```
-Ago
-Last
-Yesterday
+yesterday / last night / last week / last month / last year /
+ago / a minute ago / an hour ago / a day ago / a week ago / a month ago / a year ago /
+earlier / before / before that / previously /
+then / at that time /
+once / once upon a time /
+in the past / in those days /
+this morning / this afternoon / this evening / (when finished)
 ```
 
 
@@ -158,14 +159,7 @@ Teach me what Time Clauses is and its types, giving examples and explanations ab
 ```
 Subject
 ```
-before
-after
-where
-when
-while
-as
-until
-since
+before / after / where / when / while / as / until / since
 ```
 
 

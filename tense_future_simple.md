@@ -10,7 +10,7 @@
 ## Be
 AI
 ```
-teach me simple future using be with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step and seperate
+teach me simple future using be with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step)
 ```
 Subject
 ```
@@ -142,22 +142,6 @@ Contraction
 Use for
 ```
 
-
-
-<!--------------------------------------------------------------------------------- Present Progressive -->
-<br><br>
-
-## Present Progressive
-AI
-```
-teach me how to use Present Progressive to express future time step by step
-```
-Subject
-```
-```
-
-
-
 <!--------------------------------------------------------------------------------- Word -->
 <br><br>
 
@@ -185,21 +169,12 @@ A Couple of / A Few with ago / This / Today / Tonight
 ## Time Clauses
 AI
 ```
-Teach me what Time Clauses is and its types for future, giving examples and explanations about them.
+Teach me Future Time Clauses is and its types for future, giving examples and explanations about them.
 ```
 Subject
 ```
-if
-before
-after
-where
-when
-while
-as
-until
-since
+Habitual
 ```
-
 
 
 <!--------------------------------------------------------------------------------- Link -->

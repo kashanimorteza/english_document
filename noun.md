@@ -49,14 +49,13 @@ Complement
 ## Countable and Uncountable
 AI
 ```
-each me countable and uncountable nouns in English step by step, starting from definitions, then rules, then examples, then types, then common words/quantifiers used with each, and finally exercises to practice
+each me countable and uncountable nouns step by step, starting from definitions, then rules, then examples, then types, then common words/quantifiers used with each, and finally exercises to practice
 ```
 Subject
 ```
 Singular count with a and an
 Measurements
 Quantifiers
-Any
 Rules
 ```
 
