@@ -6,21 +6,10 @@
 <br><br>
 
 ## Resource
-<table><tbody>
-<tr>
-<td>[Here](https://www.youtube.com/watch?v=FqmiLz29f9E&list=PLpODSd__yLPVVlSZo3RpAOiRZWHaUAoDb)</td>
-<td>Youtube</td>
-<td>@EnglishEasyPractice</td>
-<td>Listen and Speak English Story For Simple Present Tenses</td>
-</tr>
-</tbody></table>
-
-
-
 [Youtube > @EnglishEasyPractice > Listen and Speak English Story For Simple Present Tense](https://www.youtube.com/watch?v=FqmiLz29f9E&list=PLpODSd__yLPVVlSZo3RpAOiRZWHaUAoDb)  
-[Youtube > @engvidRebecca       > Learn English Tenses: PRESENT SIMPLE](https://www.youtube.com/watch?v=Z19NAX_gWxI&list=PLxSz4mPLHWDZ95iyxBNdjxLNI1k8HnVcd&index=4)  
-[Youtube > @EnglishClass101     > English Simple Present Tense | Learn English Grammar](https://www.youtube.com/watch?v=R0j9KiW_uBo)  
-[Youtube > @EnglishwithLucy     > Learn ALL 16 TENSES Easily in under 30 Minutes - Present, Past, Future, Conditional](https://www.youtube.com/watch?v=Ljjiw9mC_Cg)  
+[Youtube > @engvidRebecca > Learn English Tenses: PRESENT SIMPLE](https://www.youtube.com/watch?v=Z19NAX_gWxI&list=PLxSz4mPLHWDZ95iyxBNdjxLNI1k8HnVcd&index=4)  
+[Youtube > @EnglishClass101 > English Simple Present Tense | Learn English Grammar](https://www.youtube.com/watch?v=R0j9KiW_uBo)  
+[Youtube > @EnglishwithLucy > Learn ALL 16 TENSES Easily in under 30 Minutes - Present, Past, Future, Conditional](https://www.youtube.com/watch?v=Ljjiw9mC_Cg)  
 
 
 
