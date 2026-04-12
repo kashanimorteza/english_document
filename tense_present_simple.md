@@ -12,6 +12,19 @@
 [Youtube > @EnglishwithLucy > Learn ALL 16 TENSES Easily in under 30 Minutes - Present, Past, Future, Conditional](https://www.youtube.com/watch?v=Ljjiw9mC_Cg)  
 
 
+<!--------------------------------------------------------------------------------- General -->
+<br><br>
+
+## General
+AI
+```
+Teach me simple present using general, step by step, from superficial to deep, with example and Full Table (All Persons – Subject & Verb Clearly Separated)
+Pay attention to the following points in training:
+    Form : Positive / Negative / Question / Short Answers / Contraction /  WH-Word Question
+    Use for / Common Errors
+```
+
+
 
 <!--------------------------------------------------------------------------------- Be -->
 <br><br>

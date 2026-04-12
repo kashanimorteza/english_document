@@ -9,15 +9,15 @@
 
 ### Step-1
 [Pronoun > Personal > Subject](https://github.com/kashanimorteza/english_document/tree/main/pronoun.md#personal-subject)  
-[Tense > Present > Simple > Be](https://github.com/kashanimorteza/english_document/tree/main/tense_present_simple.md#be)  
+[Tense > Present > Simple > General](https://github.com/kashanimorteza/english_document/tree/main/tense_present_simple.md#general)  
 [Verb > 3rd Persion](https://github.com/kashanimorteza/english_document/tree/main/verb.md#3rd-persion)  
-[Tense > Present > Simple > Do](https://github.com/kashanimorteza/english_document/tree/main/tense_present_simple.md#do)  
+[Tense > Present > Simple > Be](https://github.com/kashanimorteza/english_document/tree/main/tense_present_simple.md#be)  
 
 ### Step-2
-[Pronoun > Personal > Object](https://github.com/kashanimorteza/english_document/tree/main/pronoun.md#personal-object)  
-[Pronoun > Possessive > Adjectives](https://github.com/kashanimorteza/english_document/tree/main/pronoun.md#possessive-adjectives)  
-[Pronoun > Possessive > Independent](https://github.com/kashanimorteza/english_document/tree/main/pronoun.md#possessive-independent)  
-[Pronoun > Possessive > Noun](https://github.com/kashanimorteza/english_document/tree/main/pronoun.md#possessive-noun)  
+[Tense > Present > Progressive > Be](https://github.com/kashanimorteza/english_document/tree/main/tense_present_progressive.md#be)  
+[Verb > Spelling of -ing](https://github.com/kashanimorteza/english_document/tree/main/verb.md#spelling-of--ing)  
+
+
 
 ### Step-3
 [Tense > Present > Simple > Be](https://github.com/kashanimorteza/english_document/tree/main/tense_present_simple.md#be)  

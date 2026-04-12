@@ -14,31 +14,13 @@
 ## Be
 AI
 ```
-Teach me simple present progressive using be, step by step, from superficial to deep, with example and Full Table (All Persons – Subject & Verb Clearly Separated)
+Teach me present progressive using be, step by step, from superficial to deep, with example and Full Table (All Persons – Subject & Verb Clearly Separated)
 Pay attention to the following points in training:
     Form : Positive / Negative / Question / Short Answers / Contraction /  WH-Word Question
-    Use for : Permanent / Routines / Facts / Schedules / Frequency
-    Common Errors with Present Simple progressive
+    Use for / Common Errors
 ```
 
-<!--------------------------------------------------------------------------------- Spelling of -ing -->
-<br><br>
 
-## Spelling of -ing
-AI
-```
-Teach me Rule of Spelling of -ing
-```
-Subject
-```
-Basic Rule
-Verbs Ending in “e”
-Short Verb (Consonant-Vowel-Consonant)
-Rule 3: Verbs Ending in “ie”
-Verbs Ending in “y”
-Long Verbs (No Doubling)
-Special Case: “w, x, y” (No Doubling)
-```
 
 <!--------------------------------------------------------------------------------- None Action -->
 <br><br>

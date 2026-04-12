@@ -22,6 +22,25 @@ Negative
 Question
 ```
 
+<!--------------------------------------------------------------------------------- Spelling of -ing -->
+<br><br>
+
+## Spelling of -ing
+AI
+```
+Teach me Rule of Spelling of -ing
+```
+Subject
+```
+Basic Rule
+Verbs Ending in “e”
+Short Verb (Consonant-Vowel-Consonant)
+Rule 3: Verbs Ending in “ie”
+Verbs Ending in “y”
+Long Verbs (No Doubling)
+Special Case: “w, x, y” (No Doubling)
+```
+
 <!--------------------------------------------------------------------------------- Verb + Infinitive -->
 <br><br>
 
