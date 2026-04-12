@@ -7,17 +7,7 @@
 
 ## Resource
 [Youtube : EnglishEasyPractice : Listen and Speak English Story For Simple Present Tense](https://www.youtube.com/watch?v=FqmiLz29f9E&list=PLpODSd__yLPVVlSZo3RpAOiRZWHaUAoDb)  
-
-
-<!--------------------------------------------------------------------------------- Description -->
-<br><br>
-
-## Description
-AI
-```
-what is simple present? 
-When do we use Simple Present?
-```
+[engvidRebecca](https://www.youtube.com/watch?v=U_0ykicxFps&list=PLxSz4mPLHWDZ95iyxBNdjxLNI1k8HnVcd)  
 
 <!--------------------------------------------------------------------------------- Be -->
 <br><br>
@@ -25,21 +15,13 @@ When do we use Simple Present?
 ## Be
 AI
 ```
-Teach me simple present using be with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step)
+Teach me simple present using be, step by step, from superficial to deep, with example and Full Table (All Persons – Subject & Verb Clearly Separated)
 Pay attention to the following points in training:
-    Positive
-    Negative
-    Question and Short Answers
-    Contraction
-    WH-Word
-    Usage
+    Form     : Positive / Negative / Question / Short Answers / Contraction /  WH-Word Question
+    Use for  : Permanent / Routines / Facts / Schedules / Frequency
+    Position : Pronoun + be / Noun + be / Subhect + Be + Noun / Subhect + Be + Adjective / Subhect + Be +  A Place
     Be Able To
-    Pronoun + be
-    Noun + be
-    Subhect + Be + Noun
-    Subhect + Be + Adjective
-    Subhect + Be +  A Place
-```
+``` 
 
 <!--------------------------------------------------------------------------------- Do -->
 <br><br>

@@ -2,7 +2,11 @@
 # Resource
 [English] > [Resource]
 
+<!--------------------------------------------------------------------------------- Website -->
+<br><br>
 
+## Website
+[engvid](http://engvid.com/)  
 
 <!--------------------------------------------------------------------------------- Youtube -->
 <br><br>
@@ -12,15 +16,9 @@
 [learn-english-online-1](https://www.youtube.com/@learn-english-online-1)  
 [EnglishAvenuee](https://www.youtube.com/@EnglishAvenuee)  
 [bbclearningenglish](https://www.youtube.com/@bbclearningenglish)  
-
+[engvidRebecca](https://www.youtube.com/@engvidRebecca)  
 []()  
 []()  
-[]()  
-[]()  
-
-
-
-
 
 <!--------------------------------------------------------------------------------- Podcast -->
 <br><br>
@@ -28,10 +26,6 @@
 ## Podcast
 [english-e-reader](https://english-e-reader.net)  
 [voanews](https://learningenglish.voanews.com)  
-
-
-
-
 
 <!--------------------------------------------------------------------------------- Link -->
 [English]: https://github.com/kashanimorteza/english_document/blob/main/README.md

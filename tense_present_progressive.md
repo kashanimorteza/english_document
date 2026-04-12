@@ -2,30 +2,32 @@
 # Present Progressive
 [English] > [Structure] > [Present Progressive]
 
+<!--------------------------------------------------------------------------------- Resource -->
+<br><br>
+
+## Resource 
+[engvidRebecca](https://www.youtube.com/watch?v=w04YVmJR4w4&list=PLxSz4mPLHWDZ95iyxBNdjxLNI1k8HnVcd&index=6)  
+
 <!--------------------------------------------------------------------------------- Description -->
 <br><br>
 
 ## Description
+AI
 ```
-Used for actions happening now or around now
+what is simple present progressive? 
+When do we use Simple Present progressive?
 ```
 
-<!--------------------------------------------------------------------------------- Positive -->
+<!--------------------------------------------------------------------------------- Be -->
 <br><br>
 
 ## Be
 AI
 ```
-Teach me simple present Progressive using be step by step, from superficial to deep with example in the butiful table
-```
-Subject
-```
-Positive
-Negative
-Question and Short Answers
-Contraction
-WH-Word
-Usage
+Teach me simple present progressive using be, step by step, from superficial to deep, with example and Full Table (All Persons – Subject & Verb Clearly Separated)
+Pay attention to the following points in training:
+    Form : Positive / Negative / Question / Short Answers / Contraction /  WH-Word Question
+    Use for : Permanent / Routines / Facts / Schedules / Frequency
 ```
 
 <!--------------------------------------------------------------------------------- Spelling of -ing -->
