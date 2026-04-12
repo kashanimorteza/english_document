@@ -6,8 +6,8 @@
 <br><br>
 
 ## Resource
-[Youtube : EnglishEasyPractice : Listen and Speak English Story For Simple Present Tense](https://www.youtube.com/watch?v=FqmiLz29f9E&list=PLpODSd__yLPVVlSZo3RpAOiRZWHaUAoDb)  
-[engvidRebecca](https://www.youtube.com/watch?v=U_0ykicxFps&list=PLxSz4mPLHWDZ95iyxBNdjxLNI1k8HnVcd)  
+[Youtube / EnglishEasyPractice / Listen and Speak English Story For Simple Present Tense](https://www.youtube.com/watch?v=FqmiLz29f9E&list=PLpODSd__yLPVVlSZo3RpAOiRZWHaUAoDb)  
+[Youtube / engvidRebecca / Learn English Tenses: PRESENT SIMPLE](https://www.youtube.com/watch?v=Z19NAX_gWxI&list=PLxSz4mPLHWDZ95iyxBNdjxLNI1k8HnVcd&index=4)  
 
 <!--------------------------------------------------------------------------------- Be -->
 <br><br>
