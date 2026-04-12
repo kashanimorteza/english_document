@@ -11,15 +11,13 @@
 AI
 ```
 Teach me verb conjugations for the third person
-```
-Subject
-```
-General Rule
-Rules for Adding -es
-Verbs Ending with -y
-Irregular Verbs
-Negative
-Question
+Pay attention to the following points in training:
+  General Rule
+  Rules for Adding -es
+  Verbs Ending with -y
+  Irregular Verbs
+  Negative
+  Question
 ```
 
 <!--------------------------------------------------------------------------------- Spelling of -ing -->
@@ -29,16 +27,14 @@ Question
 AI
 ```
 Teach me Rule of Spelling of -ing
-```
-Subject
-```
-Basic Rule
-Verbs Ending in “e”
-Short Verb (Consonant-Vowel-Consonant)
-Rule 3: Verbs Ending in “ie”
-Verbs Ending in “y”
-Long Verbs (No Doubling)
-Special Case: “w, x, y” (No Doubling)
+Pay attention to the following points in training:
+  Basic Rule
+  Verbs Ending in “e”
+  Short Verb (Consonant-Vowel-Consonant)
+  Rule 3: Verbs Ending in “ie”
+  Verbs Ending in “y”
+  Long Verbs (No Doubling)
+  Special Case: “w, x, y” (No Doubling)
 ```
 
 <!--------------------------------------------------------------------------------- Verb + Infinitive -->
