@@ -8,6 +8,7 @@
 ## Resource
 [Youtube / EnglishEasyPractice / Listen and Speak English Story For Simple Present Tense](https://www.youtube.com/watch?v=FqmiLz29f9E&list=PLpODSd__yLPVVlSZo3RpAOiRZWHaUAoDb)  
 [Youtube / engvidRebecca / Learn English Tenses: PRESENT SIMPLE](https://www.youtube.com/watch?v=Z19NAX_gWxI&list=PLxSz4mPLHWDZ95iyxBNdjxLNI1k8HnVcd&index=4)  
+[Youtube / EnglishClass101 / English Simple Present Tense | Learn English Grammar](https://www.youtube.com/watch?v=R0j9KiW_uBo)  
 
 <!--------------------------------------------------------------------------------- Be -->
 <br><br>
@@ -21,6 +22,7 @@ Pay attention to the following points in training:
     Use for  : Permanent / Routines / Facts / Schedules / Frequency
     Position : Pronoun + be / Noun + be / Subhect + Be + Noun / Subhect + Be + Adjective / Subhect + Be +  A Place
     Be Able To
+    Common Errors with Present Simple
 ``` 
 
 <!--------------------------------------------------------------------------------- Do -->
@@ -29,14 +31,11 @@ Pay attention to the following points in training:
 ## DO
 AI
 ```
-Teach me simple present using do with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step)
+Teach me simple present using do, step by step, from superficial to deep, with example and Full Table (All Persons – Subject & Verb Clearly Separated)
 Pay attention to the following points in training:
-    Positive
-    Negative
-    Question and Short Answers
-    Contraction
-    WH-Word
-    Usage
+    Form     : Positive / Negative / Question / Short Answers / Contraction /  WH-Word Question
+    Use for  : Permanent / Routines / Facts / Schedules / Frequency
+    Position : Pronoun + be / Noun + be / Subhect + Be + Noun / Subhect + Be + Adjective / Subhect + Be +  A Place
 ```
 
 <!--------------------------------------------------------------------------------- Have -->

@@ -8,16 +8,6 @@
 ## Resource 
 [engvidRebecca](https://www.youtube.com/watch?v=w04YVmJR4w4&list=PLxSz4mPLHWDZ95iyxBNdjxLNI1k8HnVcd&index=6)  
 
-<!--------------------------------------------------------------------------------- Description -->
-<br><br>
-
-## Description
-AI
-```
-what is simple present progressive? 
-When do we use Simple Present progressive?
-```
-
 <!--------------------------------------------------------------------------------- Be -->
 <br><br>
 
@@ -28,6 +18,7 @@ Teach me simple present progressive using be, step by step, from superficial to 
 Pay attention to the following points in training:
     Form : Positive / Negative / Question / Short Answers / Contraction /  WH-Word Question
     Use for : Permanent / Routines / Facts / Schedules / Frequency
+    Common Errors with Present Simple progressive
 ```
 
 <!--------------------------------------------------------------------------------- Spelling of -ing -->
