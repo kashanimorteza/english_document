@@ -22,10 +22,8 @@ AI
 Teach me simple present using be, step by step, from superficial to deep, with example and Full Table (All Persons – Subject & Verb Clearly Separated)
 Pay attention to the following points in training:
     Form     : Positive / Negative / Question / Short Answers / Contraction /  WH-Word Question
-    Use for  : Permanent / Routines / Facts / Schedules / Frequency
     Position : Pronoun + be / Noun + be / Subhect + Be + Noun / Subhect + Be + Adjective / Subhect + Be +  A Place
-    Be Able To
-    Common Errors with Present Simple
+    Use for / Common Errors / Be Able To
 ``` 
 
 <!--------------------------------------------------------------------------------- Do -->
@@ -37,7 +35,7 @@ AI
 Teach me simple present using do, step by step, from superficial to deep, with example and Full Table (All Persons – Subject & Verb Clearly Separated)
 Pay attention to the following points in training:
     Form     : Positive / Negative / Question / Short Answers / Contraction /  WH-Word Question
-    Use for  : Permanent / Routines / Facts / Schedules / Frequency
+    Use for / Common Errors
 ```
 
 <!--------------------------------------------------------------------------------- Have -->
