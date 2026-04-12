@@ -6,9 +6,12 @@
 <br><br>
 
 ## Resource
-[Youtube / EnglishEasyPractice / Listen and Speak English Story For Simple Present Tense](https://www.youtube.com/watch?v=FqmiLz29f9E&list=PLpODSd__yLPVVlSZo3RpAOiRZWHaUAoDb)  
-[Youtube / engvidRebecca / Learn English Tenses: PRESENT SIMPLE](https://www.youtube.com/watch?v=Z19NAX_gWxI&list=PLxSz4mPLHWDZ95iyxBNdjxLNI1k8HnVcd&index=4)  
-[Youtube / EnglishClass101 / English Simple Present Tense | Learn English Grammar](https://www.youtube.com/watch?v=R0j9KiW_uBo)  
+[Youtube > @EnglishEasyPractice > Listen and Speak English Story For Simple Present Tense](https://www.youtube.com/watch?v=FqmiLz29f9E&list=PLpODSd__yLPVVlSZo3RpAOiRZWHaUAoDb)  
+[Youtube > @engvidRebecca > Learn English Tenses: PRESENT SIMPLE](https://www.youtube.com/watch?v=Z19NAX_gWxI&list=PLxSz4mPLHWDZ95iyxBNdjxLNI1k8HnVcd&index=4)  
+[Youtube > @EnglishClass101 > English Simple Present Tense | Learn English Grammar](https://www.youtube.com/watch?v=R0j9KiW_uBo)  
+[Youtube > @EnglishwithLucy > Learn ALL 16 TENSES Easily in under 30 Minutes - Present, Past, Future, Conditional](https://www.youtube.com/watch?v=Ljjiw9mC_Cg)  
+
+
 
 <!--------------------------------------------------------------------------------- Be -->
 <br><br>
@@ -35,7 +38,6 @@ Teach me simple present using do, step by step, from superficial to deep, with e
 Pay attention to the following points in training:
     Form     : Positive / Negative / Question / Short Answers / Contraction /  WH-Word Question
     Use for  : Permanent / Routines / Facts / Schedules / Frequency
-    Position : Pronoun + be / Noun + be / Subhect + Be + Noun / Subhect + Be + Adjective / Subhect + Be +  A Place
 ```
 
 <!--------------------------------------------------------------------------------- Have -->
