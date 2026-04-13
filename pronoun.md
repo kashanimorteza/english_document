@@ -32,14 +32,13 @@ Quantifier
 ## Personal Subject
 AI
 ```
-Teach me Personal Subject Pronoun step by step, from superficial to deep with example in the butiful table
-```
-Subject
-```
-Sentence Structure
-Position in Sentence
-Rules
-I, you, he, she, it, we, they
+Teach me Personal Subject Pronoun, step by step, from superficial to deep, with example in the butiful table
+Pay attention to the following points in training:
+  Sentence Structure
+  Position in Sentence
+  Rules
+  Use for
+  Common Errors
 ```
 
 <!--------------------------------------------------------------------------------- Personal Object -->

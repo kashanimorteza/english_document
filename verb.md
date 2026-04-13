@@ -10,7 +10,7 @@
 ## 3rd Persion
 AI
 ```
-Teach me verb conjugations for the third person
+Teach me verb conjugations for the third person.
 Pay attention to the following points in training:
   General Rule
   Rules for Adding -es
@@ -36,6 +36,27 @@ Pay attention to the following points in training:
   Long Verbs (No Doubling)
   Special Case: “w, x, y” (No Doubling)
 ```
+
+<!--------------------------------------------------------------------------------- Past Format -->
+<br><br>
+
+## Past Format
+AI
+```
+teach me How to convert verbs to past (format), Regular vs Irregular, Types of irregular verbs
+Pay attention to the following points in training:
+  Regular Verbs
+  Irregular Verbs 
+  Same Base and Past
+  Same Pattern (Vowel Change)
+  Completely Different
+  End with -t or -d
+  “-ought” / “-aught” Pattern
+  “-ew” Pattern
+  Modal Verbs (Special)
+```
+
+
 
 <!--------------------------------------------------------------------------------- Verb + Infinitive -->
 <br><br>

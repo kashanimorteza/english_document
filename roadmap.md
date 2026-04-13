@@ -12,19 +12,25 @@
 [Tense > Present > Simple > General](https://github.com/kashanimorteza/english_document/tree/main/tense_present_simple.md#general)  
 [Verb > 3rd Persion](https://github.com/kashanimorteza/english_document/tree/main/verb.md#3rd-persion)  
 [Tense > Present > Simple > Be](https://github.com/kashanimorteza/english_document/tree/main/tense_present_simple.md#be)  
-
-### Step-2
-[Tense > Present > Progressive > Be](https://github.com/kashanimorteza/english_document/tree/main/tense_present_progressive.md#be)  
+[Tense > Present > Progressive > General](https://github.com/kashanimorteza/english_document/tree/main/tense_present_progressive.md#general)  
 [Verb > Spelling of -ing](https://github.com/kashanimorteza/english_document/tree/main/verb.md#spelling-of--ing)  
 
-
+### Step-2
+[Tense > Past > Simple > General](https://github.com/kashanimorteza/english_document/tree/main/tense_past_simple.md#general)  
+[Verb > Past Format](https://github.com/kashanimorteza/english_document/tree/main/verb.md#past-format)  
+[Tense > Past > Simple > Be](https://github.com/kashanimorteza/english_document/tree/main/tense_past_simple.md#be)  
+[Tense > Past > Progressive > General](https://github.com/kashanimorteza/english_document/tree/main/tense_past_progressive.md#general)  
 
 ### Step-3
+[Tense > Future > Simple > General](https://github.com/kashanimorteza/english_document/tree/main/tense_future_simple.md#general)  
+ 
+ 
+### Step-4
 [Tense > Present > Simple > Be](https://github.com/kashanimorteza/english_document/tree/main/tense_present_simple.md#be)  
 [Noun > Article](https://github.com/kashanimorteza/english_document/tree/main/noun.md#article)  
 [Noun > Plural](https://github.com/kashanimorteza/english_document/tree/main/noun.md#plural)  
 
-### Step-4
+### Step-5
 [Pronoun > Personal > Object](https://github.com/kashanimorteza/english_document/tree/main/pronoun.md#personal-object)  
 [Pronoun > Possessive > Adjectives](https://github.com/kashanimorteza/english_document/tree/main/pronoun.md#possessive-adjectives)  
 [Pronoun > Possessive > Independent](https://github.com/kashanimorteza/english_document/tree/main/pronoun.md#possessive-independent)  

@@ -8,19 +8,17 @@
 ## Resource
 [Youtube > @engvidRebecca > Learn English Tenses: PRESENT CONTINUOUS (PRESENT PROGRESSIVE)](https://www.youtube.com/watch?v=w04YVmJR4w4&list=PLxSz4mPLHWDZ95iyxBNdjxLNI1k8HnVcd&index=6)  
 
-<!--------------------------------------------------------------------------------- Be -->
+<!--------------------------------------------------------------------------------- General -->
 <br><br>
 
-## Be
+## General
 AI
 ```
-Teach me present progressive using be, step by step, from superficial to deep, with example and Full Table (All Persons – Subject & Verb Clearly Separated)
+Teach me present progressive using general, step by step, from superficial to deep, with example and Full Table (All Persons – Subject & Verb Clearly Separated)
 Pay attention to the following points in training:
   Form : Positive / Negative / Question / Short Answers / Contraction /  WH-Word Question
   Use for / Common Errors
 ```
-
-
 
 <!--------------------------------------------------------------------------------- None Action -->
 <br><br>
@@ -29,9 +27,6 @@ Pay attention to the following points in training:
 AI
 ```
 Teach me None Action verbs in present progressive
-```
-Subject
-```
 ```
 
 <!--------------------------------------------------------------------------------- Link -->

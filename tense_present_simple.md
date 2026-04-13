@@ -11,7 +11,6 @@
 [Youtube > @EnglishClass101 > English Simple Present Tense | Learn English Grammar](https://www.youtube.com/watch?v=R0j9KiW_uBo)  
 [Youtube > @EnglishwithLucy > Learn ALL 16 TENSES Easily in under 30 Minutes - Present, Past, Future, Conditional](https://www.youtube.com/watch?v=Ljjiw9mC_Cg)  
 
-
 <!--------------------------------------------------------------------------------- General -->
 <br><br>
 
@@ -24,8 +23,6 @@ Pay attention to the following points in training:
   Use for / Common Errors
 ```
 
-
-
 <!--------------------------------------------------------------------------------- Be -->
 <br><br>
 
@@ -37,18 +34,6 @@ Pay attention to the following points in training:
   Form     : Positive / Negative / Question / Short Answers / Contraction /  WH-Word Question
   Position : Pronoun + be / Noun + be / Subhect + Be + Noun / Subhect + Be + Adjective / Subhect + Be +  A Place
   Use for / Common Errors / Be Able To
-``` 
-
-<!--------------------------------------------------------------------------------- Do -->
-<br><br>
-
-## DO
-AI
-```
-Teach me simple present using do, step by step, from superficial to deep, with example and Full Table (All Persons – Subject & Verb Clearly Separated)
-Pay attention to the following points in training:
-    Form     : Positive / Negative / Question / Short Answers / Contraction /  WH-Word Question
-    Use for / Common Errors
 ```
 
 <!--------------------------------------------------------------------------------- Have -->

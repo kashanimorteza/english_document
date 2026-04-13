@@ -2,107 +2,25 @@
 # Past Progressive
 [English] > [Structure] > [Past Progressive]
 
-
-
-<!--------------------------------------------------------------------------------- Be -->
+<!--------------------------------------------------------------------------------- Resource -->
 <br><br>
 
-## Be
-AI
-```
-teach me simple past progressive using be with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step and seperate
-```
-Subject
-```
-Positive
-Negative
-Question and Short Answers
-Contraction
-WH-Word
-Usage
-```
+## Resource
+[]()  
+[]()  
+[]()  
 
-
-
-<!--------------------------------------------------------------------------------- Do -->
+<!--------------------------------------------------------------------------------- General -->
 <br><br>
 
-## Do
+## General
 AI
 ```
-teach me simple past progressive using do with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step and seperate
+Teach me past progressive general, step by step, from superficial to deep, with example and Full Table (All Persons – Subject & Verb Clearly Separated)
+Pay attention to the following points in training:
+  Form : Positive / Negative / Question / Short Answers / Contraction /  WH-Word Question
+  Use for / Common Errors
 ```
-Subject
-```
-Using -ed
-Positive
-Negative
-Question and Short Answers
-Contraction
-WH-Word
-Usage
-```
-
-
-
-<!--------------------------------------------------------------------------------- Have -->
-<br><br>
-
-## Have
-AI
-```
-teach me simple past progressive using have with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step and seperate 
-```
-Subject
-```
-Positive
-Negative
-Question and Short Answers
-Contraction
-WH-Word
-Usage
-```
-
-
-
-<!--------------------------------------------------------------------------------- Can -->
-<br><br>
-
-## Can
-AI
-```
-teach me simple past progressive using can with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step and seperate  
-```
-Subject
-```
-Positive
-Negative
-Question and Short Answers
-Contraction
-WH-Word
-Usage
-```
-
-
-
-<!--------------------------------------------------------------------------------- There -->
-<br><br>
-
-## There
-AI
-```
-teach me simple past progressive using there with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step and seperate  
-```
-Subject
-```
-Positive
-Negative
-Question and Short Answers
-Contraction
-WH-Word
-Usage
-```
-
 
 
 <!--------------------------------------------------------------------------------- Link -->

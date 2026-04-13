@@ -1,8 +1,26 @@
-<!--------------------------------------------------------------------------------- Simple Past -->
-# Simple Past
+<!--------------------------------------------------------------------------------- Past Simple -->
+# Past Simple
 [English] > [Structure] > [Past Simple]
 
+<!--------------------------------------------------------------------------------- Resource -->
+<br><br>
 
+## Resource
+[]()  
+[]()  
+[]()  
+
+<!--------------------------------------------------------------------------------- General -->
+<br><br>
+
+## General
+AI
+```
+Teach me simple past using general, step by step, from superficial to deep, with example and Full Table (All Persons – Subject & Verb Clearly Separated)
+Pay attention to the following points in training:
+  Form : Positive / Negative / Question / Short Answers / Contraction /  WH-Word Question
+  Use for / Common Errors
+```
 
 <!--------------------------------------------------------------------------------- Be -->
 <br><br>
@@ -10,41 +28,12 @@
 ## Be
 AI
 ```
-teach me simple past using be with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step and seperate
+Teach me simple past using be, step by step, from superficial to deep, with example and Full Table (All Persons – Subject & Verb Clearly Separated)
+Pay attention to the following points in training:
+  Form     : Positive / Negative / Question / Short Answers / Contraction /  WH-Word Question
+  Position : Pronoun + be / Noun + be / Subhect + Be + Noun / Subhect + Be + Adjective / Subhect + Be +  A Place
+  Use for / Common Errors
 ```
-Subject
-```
-Positive
-Negative
-Question and Short Answers
-Contraction
-WH-Word Question
-Usage
-Be Able To
-```
-
-
-
-<!--------------------------------------------------------------------------------- Do -->
-<br><br>
-
-## Do
-AI
-```
-teach me simple past using do with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step and seperate
-```
-Subject
-```
-Using -ed
-Positive
-Negative
-Question and Short Answers
-Contraction
-WH-Word
-Usage
-```
-
-
 
 <!--------------------------------------------------------------------------------- Have -->
 <br><br>
@@ -106,26 +95,7 @@ Usage
 
 
 
-<!--------------------------------------------------------------------------------- Verb format -->
-<br><br>
 
-## Verb format
-AI
-```
-teach me How to convert verbs to past (format), Regular vs Irregular, Types of irregular verbs
-```
-Subject
-```
-Regular Verbs
-Irregular Verbs 
-    Same Base and Past
-    Same Pattern (Vowel Change)
-    Completely Different
-    End with -t or -d
-    “-ought” / “-aught” Pattern
-    “-ew” Pattern
-    Modal Verbs (Special)
-```
 
 
 
@@ -167,4 +137,4 @@ before / after / where / when / while / as / until / since
 <!--------------------------------------------------------------------------------- Link -->
 [English]: https://github.com/kashanimorteza/english_document/blob/main/README.md
 [Structure]: https://github.com/kashanimorteza/english_document/blob/main/structure.md
-[Simple Past]: https://github.com/kashanimorteza/english_document/blob/main/tense_past_simple.md
+[Past Simple]: https://github.com/kashanimorteza/english_document/blob/main/tense_past_simple.md

@@ -2,206 +2,23 @@
 # Present Perfect
 [English] > [Structure] > [Present Perfect]
 
-<!--------------------------------------------------------------------------------- Be -->
+<!--------------------------------------------------------------------------------- Resource -->
 <br><br>
 
-## Be
-AI
-```
-teach me simple present using be 
-```
-Subject
-```
-Positive
-Negative
-Question and Short Answers
-Contraction
-WH-Word
-Usage
-Be Able To
-```
+## Resource
+[]()  
+[]()  
 
-<!--------------------------------------------------------------------------------- Do -->
+<!--------------------------------------------------------------------------------- General -->
 <br><br>
 
-## DO
+## General
 AI
 ```
-teach me simple present using Do 
-```
-Subject
-```
-Positive
-Negative
-Question and Short Answers
-Contraction
-WH-Word
-Usage
-```
-
-<!--------------------------------------------------------------------------------- Have -->
-<br><br>
-
-## Have
-AI
-```
-teach me simple present using Have 
-```
-Subject
-```
-Positive
-Negative
-Question and Short Answers
-Contraction
-WH-Word
-Usage
-```
-
-<!--------------------------------------------------------------------------------- Would Like -->
-<br><br>
-
-## Would Like
-AI
-```
-teach me simple present using Would Like 
-```
-Subject
-```
-Positive
-Negative
-Question and Short Answers
-Contraction
-WH-Word
-Know How To
-Usage
-```
-
-<!--------------------------------------------------------------------------------- Can -->
-<br><br>
-
-## Can
-AI
-```
-teach me simple present using Can 
-```
-Subject
-```
-Positive
-Negative
-Question and Short Answers
-Contraction
-WH-Word
-Know How To
-Usage
-```
-
-<!--------------------------------------------------------------------------------- Must -->
-<br><br>
-
-## Must
-AI
-```
-teach me simple present using Must 
-```
-Subject
-```
-Positive
-Negative
-Question and Short Answers
-Contraction
-WH-Word
-Usage
-```
-
-<!--------------------------------------------------------------------------------- Should -->
-<br><br>
-
-## Should
-AI
-```
-teach me simple present using Should 
-```
-Subject
-```
-Positive
-Negative
-Question and Short Answers
-Contraction
-WH-Word
-Usage
-Be Able To
-```
-
-<!--------------------------------------------------------------------------------- May -->
-<br><br>
-
-## May
-AI
-```
-teach me simple present using May 
-```
-Subject
-```
-Positive
-Negative
-Question and Short Answers
-Contraction
-WH-Word
-Usage
-```
-
-<!--------------------------------------------------------------------------------- Have to -->
-<br><br>
-
-## Have to
-AI
-```
-teach me simple present using Have Have to 
-```
-Subject
-```
-Positive
-Negative
-Question and Short Answers
-Contraction
-WH-Word
-Usage
-```
-
-<!--------------------------------------------------------------------------------- Verb + Infinitive -->
-<br><br>
-
-## Verb + Infinitive
-AI
-```
-teach me simple present using verb + infinitive
-```
-Subject
-```
-Positive
-Negative
-Question and Short Answers
-Contraction
-WH-Word
-Usage
-```
-
-<!--------------------------------------------------------------------------------- There -->
-<br><br>
-
-## There
-AI
-```
-teach me simple present using There 
-```
-Subject
-```
-Positive
-Negative
-Question and Short Answers
-Contraction
-WH-Word
-Usage
+Teach me present perfect using general, step by step, from superficial to deep, with example and Full Table (All Persons – Subject & Verb Clearly Separated)
+Pay attention to the following points in training:
+  Form : Positive / Negative / Question / Short Answers / Contraction /  WH-Word Question
+  Use for / Common Errors
 ```
 
 <!--------------------------------------------------------------------------------- Link -->

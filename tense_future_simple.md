@@ -2,7 +2,44 @@
 # Future Simple
 [English] > [Structure] > [Future Simple]
 
+<!--------------------------------------------------------------------------------- Resource -->
+<br><br>
 
+## Resource
+[]()  
+[]()  
+[]()  
+[]()  
+
+<!--------------------------------------------------------------------------------- General -->
+<br><br>
+
+## General
+AI
+```
+Teach me simple future using general, step by step, from superficial to deep, with example and Full Table (All Persons – Subject & Verb Clearly Separated)
+Pay attention to the following points in training:
+  Form : Positive / Negative / Question / Short Answers / Contraction /  WH-Word Question
+  Use for / Common Errors
+```
+
+<!--------------------------------------------------------------------------------- Going to -->
+<br><br>
+
+## Going to
+AI
+```
+teach me simple Going to using be with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step and seperate
+```
+Subject
+```
+Positive
+Negative
+Question
+WH-Word
+Contraction
+Use for
+```
 
 <!--------------------------------------------------------------------------------- Be -->
 <br><br>
@@ -24,43 +61,8 @@ Use for
 
 
 
-<!--------------------------------------------------------------------------------- Going to -->
-<br><br>
-
-## Going to
-AI
-```
-teach me simple Going to using be with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step and seperate
-```
-Subject
-```
-Positive
-Negative
-Question
-WH-Word
-Contraction
-Use for
-```
 
 
-
-<!--------------------------------------------------------------------------------- Will -->
-<br><br>
-
-## Will
-AI
-```
-teach me simple future using will with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step and seperate
-```
-Subject
-```
-Positive
-Negative
-Question
-WH-Word
-Contraction
-Use for
-```
 
 
 
