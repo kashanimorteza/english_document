@@ -22,10 +22,10 @@
 [Tense > Past > Progressive > General](https://github.com/kashanimorteza/english_document/tree/main/tense_past_progressive.md#general)  
 [Tense > Future > Simple > General](https://github.com/kashanimorteza/english_document/tree/main/tense_future_simple.md#general)  
 [Tense > Future > Simple > Be](https://github.com/kashanimorteza/english_document/tree/main/tense_future_simple.md#be) 
-[Tense > Future > Simple > Going to](https://github.com/kashanimorteza/english_document/tree/main/tense_future_simple.md#going-to)  
+[Tense > Future > Progressive > General](https://github.com/kashanimorteza/english_document/tree/main/tense_future_progressive.md#general)  
 
 ### Step-3
-
+[Tense > Future > Simple > Going to](https://github.com/kashanimorteza/english_document/tree/main/tense_future_simple.md#going-to) 
 
 ### Step-4
 [Tense > Present > Simple > Be](https://github.com/kashanimorteza/english_document/tree/main/tense_present_simple.md#be)  

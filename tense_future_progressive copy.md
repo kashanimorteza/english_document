@@ -1,6 +1,6 @@
-<!--------------------------------------------------------------------------------- Past Progressive -->
-# Past Progressive
-[English] > [Structure] > [Past Progressive]
+<!--------------------------------------------------------------------------------- Future Progressive -->
+# Future Progressive
+[English] > [Structure] > [Future Progressive]
 
 <!--------------------------------------------------------------------------------- Resource -->
 <br><br>
@@ -16,7 +16,7 @@
 ## General
 AI
 ```
-Teach me past progressive using general,
+Teach me future progressive using general,
 step by step, 
 from superficial to deep, 
 with example,
@@ -27,8 +27,7 @@ Pay attention to the following points in training:
   Use for / Common Errors and mistakes
 ```
 
-
 <!--------------------------------------------------------------------------------- Link -->
 [English]: https://github.com/kashanimorteza/english_document/blob/main/README.md
 [Structure]: https://github.com/kashanimorteza/english_document/blob/main/structure.md
-[Past Progressive]: https://github.com/kashanimorteza/english_document/blob/main/tense_past_progressive.md
+[Future Progressive]: https://github.com/kashanimorteza/english_document/blob/main/tense_future_progressive.md
