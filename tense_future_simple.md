@@ -9,7 +9,6 @@
 []()  
 []()  
 []()  
-[]()  
 
 <!--------------------------------------------------------------------------------- General -->
 <br><br>
@@ -17,28 +16,15 @@
 ## General
 AI
 ```
-Teach me simple future using general, step by step, from superficial to deep, with example and Full Table (All Persons – Subject & Verb Clearly Separated)
+Teach me simple future using general,
+step by step, 
+from superficial to deep, 
+with example,
+and Full Table (All Persons – Subject & Verb Clearly Separated)
+
 Pay attention to the following points in training:
   Form : Positive / Negative / Question / Short Answers / Contraction /  WH-Word Question
-  Use for / Common Errors
-```
-
-<!--------------------------------------------------------------------------------- Going to -->
-<br><br>
-
-## Going to
-AI
-```
-teach me simple Going to using be with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step and seperate
-```
-Subject
-```
-Positive
-Negative
-Question
-WH-Word
-Contraction
-Use for
+  Use for / Common Errors and mistakes
 ```
 
 <!--------------------------------------------------------------------------------- Be -->
@@ -47,101 +33,32 @@ Use for
 ## Be
 AI
 ```
-teach me simple future using be with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step)
+Teach me simple future using be,
+step by step, 
+from superficial to deep, 
+with example,
+and Full Table (All Persons – Subject & Verb Clearly Separated)
+
+Pay attention to the following points in training:
+  Form : Positive / Negative / Question / Short Answers / Contraction /  WH-Word Question
+  Use for / Common Errors and mistakes
 ```
-Subject
-```
-Positive
-Negative
-Question
-WH-Word
-Contraction
-Use for
-```
 
-
-
-
-
-
-
-
-<!--------------------------------------------------------------------------------- May -->
+<!--------------------------------------------------------------------------------- Going to -->
 <br><br>
 
-## May
+## Going to
 AI
 ```
-teach me simple future using may with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step and seperate
-```
-Subject
-```
-Positive
-Negative
-Question
-WH-Word
-Contraction
-Use for
-```
+Teach me simple future using Going to,
+step by step, 
+from superficial to deep, 
+with example,
+and Full Table (All Persons – Subject & Verb Clearly Separated)
 
-
-
-<!--------------------------------------------------------------------------------- Have -->
-<br><br>
-
-## Have
-AI
-```
-teach me simple future using have with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step and seperate
-```
-Subject
-```
-Positive
-Negative
-Question
-WH-Word
-Contraction
-Use for
-```
-
-
-
-<!--------------------------------------------------------------------------------- Can -->
-<br><br>
-
-## Can
-AI
-```
-teach me simple future using can with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step and seperate
-```
-Subject
-```
-Positive
-Negative
-Question
-WH-Word
-Contraction
-Use for
-```
-
-
-
-<!--------------------------------------------------------------------------------- There -->
-<br><br>
-
-## There
-AI
-```
-teach me simple future using there with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step and seperate
-```
-Subject
-```
-Positive
-Negative
-Question
-WH-Word
-Contraction
-Use for
+Pay attention to the following points in training:
+  Form : Positive / Negative / Question / Short Answers / Contraction /  WH-Word Question
+  Use for / Common Errors and mistakes
 ```
 
 <!--------------------------------------------------------------------------------- Word -->
@@ -163,8 +80,6 @@ General / Unspecific Future Words
 A Couple of / A Few with ago / This / Today / Tonight
 ```
 
-
-
 <!--------------------------------------------------------------------------------- Time Clauses -->
 <br><br>
 
@@ -177,7 +92,6 @@ Subject
 ```
 Habitual
 ```
-
 
 <!--------------------------------------------------------------------------------- Link -->
 [English]: https://github.com/kashanimorteza/english_document/blob/main/README.md

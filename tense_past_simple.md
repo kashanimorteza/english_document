@@ -16,10 +16,15 @@
 ## General
 AI
 ```
-Teach me simple past using general, step by step, from superficial to deep, with example and Full Table (All Persons – Subject & Verb Clearly Separated)
+Teach me simple past using general,
+step by step, 
+from superficial to deep, 
+with example,
+and Full Table (All Persons – Subject & Verb Clearly Separated)
+
 Pay attention to the following points in training:
   Form : Positive / Negative / Question / Short Answers / Contraction /  WH-Word Question
-  Use for / Common Errors
+  Use for / Common Errors and mistakes
 ```
 
 <!--------------------------------------------------------------------------------- Be -->
@@ -28,76 +33,16 @@ Pay attention to the following points in training:
 ## Be
 AI
 ```
-Teach me simple past using be, step by step, from superficial to deep, with example and Full Table (All Persons – Subject & Verb Clearly Separated)
+Teach me simple past using be,
+step by step, 
+from superficial to deep, 
+with example,
+and Full Table (All Persons – Subject & Verb Clearly Separated)
+
 Pay attention to the following points in training:
-  Form     : Positive / Negative / Question / Short Answers / Contraction /  WH-Word Question
-  Position : Pronoun + be / Noun + be / Subhect + Be + Noun / Subhect + Be + Adjective / Subhect + Be +  A Place
-  Use for / Common Errors
+  Form : Positive / Negative / Question / Short Answers / Contraction /  WH-Word Question
+  Use for / Common Errors and mistakes
 ```
-
-<!--------------------------------------------------------------------------------- Have -->
-<br><br>
-
-## Have
-AI
-```
-teach me simple past using have with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step and seperate 
-```
-Subject
-```
-Positive
-Negative
-Question and Short Answers
-Contraction
-WH-Word
-Usage
-```
-
-
-
-<!--------------------------------------------------------------------------------- Can -->
-<br><br>
-
-## Can
-AI
-```
-teach me simple past using can with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step and seperate  
-```
-Subject
-```
-Positive
-Negative
-Question and Short Answers
-Contraction
-WH-Word
-Usage
-```
-
-
-
-<!--------------------------------------------------------------------------------- There -->
-<br><br>
-
-## There
-AI
-```
-teach me simple past using there with example and Full Table (All Persons – Subject & Verb Clearly Separated step by step and seperate  
-```
-Subject
-```
-Positive
-Negative
-Question and Short Answers
-Contraction
-WH-Word
-Usage
-```
-
-
-
-
-
-
 
 <!--------------------------------------------------------------------------------- Word -->
 <br><br>
@@ -118,7 +63,6 @@ in the past / in those days /
 this morning / this afternoon / this evening / (when finished)
 ```
 
-
 <!--------------------------------------------------------------------------------- Time Clauses -->
 <br><br>
 
@@ -131,8 +75,6 @@ Subject
 ```
 before / after / where / when / while / as / until / since
 ```
-
-
 
 <!--------------------------------------------------------------------------------- Link -->
 [English]: https://github.com/kashanimorteza/english_document/blob/main/README.md

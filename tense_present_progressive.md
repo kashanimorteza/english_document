@@ -14,7 +14,7 @@
 ## General
 AI
 ```
-Teach me simple present progressive using general,
+Teach me present progressive using general,
 step by step, 
 from superficial to deep, 
 with example,

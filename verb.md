@@ -52,10 +52,14 @@ Pay attention to the following points in training:
 ## Past Format
 AI
 ```
-teach me How to convert verbs to past (format), Regular vs Irregular, Types of irregular verbs
+Teach me How to convert verbs to past,
+step by step, 
+from superficial to deep, 
+with example
+
 Pay attention to the following points in training:
   Regular Verbs
-  Irregular Verbs 
+  Irregular Verbs
   Same Base and Past
   Same Pattern (Vowel Change)
   Completely Different
