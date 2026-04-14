@@ -25,7 +25,9 @@
 [Tense > Future > Progressive > General](https://github.com/kashanimorteza/english_document/tree/main/tense_future_progressive.md#general)  
 
 ### Step-3
-[Tense > Future > Simple > Going to](https://github.com/kashanimorteza/english_document/tree/main/tense_future_simple.md#going-to) 
+[Tense > Present > Perfect > General](https://github.com/kashanimorteza/english_document/tree/main/tense_present_perfect.md#general)  
+[Tense > Past > Perfect > General](https://github.com/kashanimorteza/english_document/tree/main/tense_past_perfect.md#general)  
+[Tense > Future > Perfect > General](https://github.com/kashanimorteza/english_document/tree/main/tense_future_perfect.md#general)  
 
 ### Step-4
 [Tense > Present > Simple > Be](https://github.com/kashanimorteza/english_document/tree/main/tense_present_simple.md#be)  
