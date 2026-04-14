@@ -10,14 +10,18 @@
 ## 3rd Persion
 AI
 ```
-Teach me verb conjugations for the third person.
+Teach me verb conjugations for the third person, 
+step by step, 
+from superficial to deep, 
+with example
+
 Pay attention to the following points in training:
-  General Rule
-  Rules for Adding -es
+  Basic Rule
+  Verbs Ending with -s -sh -x -z -0 
   Verbs Ending with -y
   Irregular Verbs
-  Negative
-  Question
+  Form for Negative and Question
+  Common Errors and mistakes
 ```
 
 <!--------------------------------------------------------------------------------- Spelling of -ing -->
@@ -26,15 +30,20 @@ Pay attention to the following points in training:
 ## Spelling of -ing
 AI
 ```
-Teach me Rule of Spelling of -ing
+Teach me Rule of Spelling of -ing, 
+step by step, 
+from superficial to deep, 
+with example
+
 Pay attention to the following points in training:
   Basic Rule
   Verbs Ending in “e”
-  Short Verb (Consonant-Vowel-Consonant)
-  Rule 3: Verbs Ending in “ie”
+  Verbs Ending in “ie”
   Verbs Ending in “y”
-  Long Verbs (No Doubling)
-  Special Case: “w, x, y” (No Doubling)
+  Verbs Ending with Special Case “w, x, y”
+  Verbs Ending with Consonant + Vowel + Consonant
+  Verbs has 2+ syllables
+  Common Errors and mistakes
 ```
 
 <!--------------------------------------------------------------------------------- Past Format -->

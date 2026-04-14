@@ -17,10 +17,15 @@
 ## General
 AI
 ```
-Teach me simple present using general, step by step, from superficial to deep, with example and Full Table (All Persons – Subject & Verb Clearly Separated)
+Teach me simple present using general,
+step by step, 
+from superficial to deep, 
+with example,
+and Full Table (All Persons – Subject & Verb Clearly Separated)
+
 Pay attention to the following points in training:
   Form : Positive / Negative / Question / Short Answers / Contraction /  WH-Word Question
-  Use for / Common Errors
+  Use for / Common Errors and mistakes
 ```
 
 <!--------------------------------------------------------------------------------- Be -->
@@ -29,11 +34,16 @@ Pay attention to the following points in training:
 ## Be
 AI
 ```
-Teach me simple present using be, step by step, from superficial to deep, with example and Full Table (All Persons – Subject & Verb Clearly Separated)
+Teach me simple present using be,
+step by step, 
+from superficial to deep, 
+with example,
+and Full Table (All Persons – Subject & Verb Clearly Separated)
+
 Pay attention to the following points in training:
   Form     : Positive / Negative / Question / Short Answers / Contraction /  WH-Word Question
   Position : Pronoun + be / Noun + be / Subhect + Be + Noun / Subhect + Be + Adjective / Subhect + Be +  A Place
-  Use for / Common Errors / Be Able To
+  Use for / Common Errors and mistakes / Be Able To
 ```
 
 <!--------------------------------------------------------------------------------- Have -->

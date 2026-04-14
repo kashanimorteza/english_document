@@ -14,10 +14,15 @@
 ## General
 AI
 ```
-Teach me present progressive using general, step by step, from superficial to deep, with example and Full Table (All Persons – Subject & Verb Clearly Separated)
+Teach me simple present progressive using general,
+step by step, 
+from superficial to deep, 
+with example,
+and Full Table (All Persons – Subject & Verb Clearly Separated)
+
 Pay attention to the following points in training:
   Form : Positive / Negative / Question / Short Answers / Contraction /  WH-Word Question
-  Use for / Common Errors
+  Use for / Common Errors and mistakes
 ```
 
 <!--------------------------------------------------------------------------------- None Action -->
