@@ -23,7 +23,7 @@ and Full Table (All Persons – Subject & Verb Clearly Separated)
 
 Pay attention to the following points in training:
   Form : Positive / Negative / Question / Short Answers / Contraction /  WH-Word Question
-  Use for / Common Errors and mistakes
+  Use for / Common Errors and mistakes / Expressions / Stative verbs
 ```
 Youtube  
 [@engvidRebecca](https://www.youtube.com/watch?v=FVmVP9CCRcU)  

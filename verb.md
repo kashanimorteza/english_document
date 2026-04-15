@@ -210,6 +210,14 @@ Examples in Daily Life
 ```
 
 
+<!--------------------------------------------------------------------------------- Action / Stative -->
+<br><br>
+
+## Action / Stative
+AI
+```
+```
+
 
 <!--------------------------------------------------------------------------------- Link -->
 [English]: https://github.com/kashanimorteza/english_document/blob/main/README.md
